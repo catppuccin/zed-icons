@@ -49,9 +49,14 @@ Install [Whiskers](https://github.com/catppuccin/whiskers), Catppuccin's in-hous
 
 Once installed, run `whiskers zed.tera` to generate all JSON template in the `icon_themes/` directory.
 
-## Icon Generation
+### Icon Generation
 
-TODO
+Pull icons from [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) submodule.
+
+```bash
+git submodule update --init --recursive
+./src/generate.sh
+```
 
 ### Publishing to the Marketplace
 
