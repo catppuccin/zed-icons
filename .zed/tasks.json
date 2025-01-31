@@ -16,7 +16,11 @@
     "command": "./src/generate.sh"
   },
   {
-    "label": "Test and Validate Defined Icons",
+    "label": "Test All Icons",
     "command": "./src/test.sh"
+  },
+  {
+    "label": "Test & Validate Defined Icons",
+    "command": "./src/test.sh --validate"
   }
 ]
