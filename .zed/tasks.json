@@ -13,14 +13,14 @@
   },
   {
     "label": "Build Icons",
-    "command": "./src/generate.sh"
+    "command": "uv run python src/generate.py"
   },
   {
     "label": "Test All Icons",
-    "command": "./src/test.sh"
+    "command": "uv run python src/test.py"
   },
   {
     "label": "Test & Validate Defined Icons",
-    "command": "./src/test.sh --validate"
+    "command": "uv run src/test.py --validate"
   }
 ]

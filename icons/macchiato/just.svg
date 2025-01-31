@@ -1,5 +1,6 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-	<circle cx="8" cy="8" r="6.5" fill="none" stroke="#cad3f5" stroke-linecap="round" stroke-linejoin="round" />
-	<circle cx="8" cy="5" r="1.5" fill="none" stroke="#cad3f5" stroke-linecap="round" stroke-linejoin="round" />
-	<circle cx="8" cy="11" r="1.5" fill="none" stroke="#cad3f5" stroke-linecap="round" stroke-linejoin="round" />
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <circle cx="8" cy="8" r="6.5" fill="none" stroke="#cad3f5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="8" cy="5" r="1.5" fill="none" stroke="#cad3f5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="8" cy="11" r="1.5" fill="none" stroke="#cad3f5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

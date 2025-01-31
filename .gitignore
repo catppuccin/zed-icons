@@ -1,2 +1,5 @@
 **/.DS_Store
 **/Thumbs.db
+.venv/
+.ropeproject/
+**/__pycache__/
