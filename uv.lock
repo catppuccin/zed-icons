@@ -1,0 +1,7 @@
+version = 1
+requires-python = "==3.13.*"
+
+[[package]]
+name = "catppuccin-icons"
+version = "1.17.0"
+source = { virtual = "." }
