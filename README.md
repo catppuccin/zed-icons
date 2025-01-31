@@ -51,11 +51,14 @@ Once installed, run `whiskers zed.tera` to generate all JSON template in the `ic
 
 ### Icon Generation
 
-Pull icons from [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) submodule.
+1. Pull icons from [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) submodule.
+2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) if you have not done so yet.
 
 ```bash
 git submodule update --init --recursive
-./src/generate.sh
+uv sync
+uv run ./src/generate.py
+# uv run ./src/test.py --validate
 ```
 
 ### Publishing to the Marketplace
