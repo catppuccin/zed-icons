@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="assets/preview.webp"/>
+	<img src="assets/catwalk.webp"/>
 </p>
 
 ## Previews
