@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil
 from lxml import etree
-from typing import List, Set
+from typing import List
 import logging
 
 logging.basicConfig(

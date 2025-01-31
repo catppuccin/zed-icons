@@ -7,3 +7,7 @@ requires-python = ">=3.13,<3.14"
 dependencies = [
     "lxml>=5.3.0",
 ]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
