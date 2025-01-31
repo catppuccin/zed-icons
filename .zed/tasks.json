@@ -14,5 +14,9 @@
   {
     "label": "Build Icons",
     "command": "./src/generate.sh"
+  },
+  {
+    "label": "Test and Validate Defined Icons",
+    "command": "./src/test.sh"
   }
 ]
