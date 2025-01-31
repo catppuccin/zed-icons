@@ -1,0 +1,83 @@
+---
+whiskers:
+    version: 2.5.1
+    filename: "icon_themes/catppuccin-icons.json"
+---
+{
+  "$schema": "https://zed.dev/schema/icon_themes/v0.1.0.json",
+  "name": "Catppuccin Icons",
+  "author": "Catppuccin <releases@catppuccin.dev>",
+  "themes": [
+  {%- for _, flavor in flavors %}
+    {
+      "name": "Catppuccin {{ flavor.name }}",
+      "appearance": {% if flavor.dark %}"dark"{% else %}"light"{% endif %},
+      "directory_icons": {
+        "collapsed": "./icons/{{ flavor.identifier }}/folder-base.svg",
+        "expanded": "./icons/{{ flavor.identifier }}/folder-base-open.svg"
+      },
+      "file_icons": {
+        "astro": { "path": "./icons/{{ flavor.identifier }}/astro.svg" },
+        "audio": { "path": "./icons/{{ flavor.identifier }}/audio.svg" },
+        "bun": { "path": "./icons/{{ flavor.identifier }}/bun.svg" },
+        "c": { "path": "./icons/{{ flavor.identifier }}/c.svg" },
+        "code": { "path": "./icons/{{ flavor.identifier }}/templ.svg" },
+        "coffeescript": { "path": "./icons/{{ flavor.identifier }}/coffee.svg" },
+        "cpp": { "path": "./icons/{{ flavor.identifier }}/cpp.svg" },
+        "css": { "path": "./icons/{{ flavor.identifier }}/css.svg" },
+        "dart": { "path": "./icons/{{ flavor.identifier }}/dart.svg" },
+        "default": { "path": "./icons/{{ flavor.identifier }}/document.svg" },
+        "diff": { "path": "./icons/{{ flavor.identifier }}/diff.svg" },
+        "docker": { "path": "./icons/{{ flavor.identifier }}/docker.svg" },
+        "document": { "path": "./icons/{{ flavor.identifier }}/document.svg" },
+        "elixir": { "path": "./icons/{{ flavor.identifier }}/elixir.svg" },
+        "elm": { "path": "./icons/{{ flavor.identifier }}/elm.svg" },
+        "erlang": { "path": "./icons/{{ flavor.identifier }}/erlang.svg" },
+        "eslint": { "path": "./icons/{{ flavor.identifier }}/eslint.svg" },
+        "font": { "path": "./icons/{{ flavor.identifier }}/font.svg" },
+        "fsharp": { "path": "./icons/{{ flavor.identifier }}/fsharp.svg" },
+        "gleam": { "path": "./icons/{{ flavor.identifier }}/gleam.svg" },
+        "go": { "path": "./icons/{{ flavor.identifier }}/go.svg" },
+        "graphql": { "path": "./icons/{{ flavor.identifier }}/graphql.svg" },
+        "haskell": { "path": "./icons/{{ flavor.identifier }}/haskell.svg" },
+        "hcl": { "path": "./icons/{{ flavor.identifier }}/hcl.svg" },
+        "heroku": { "path": "./icons/{{ flavor.identifier }}/heroku.svg" },
+        "image": { "path": "./icons/{{ flavor.identifier }}/image.svg" },
+        "java": { "path": "./icons/{{ flavor.identifier }}/java.svg" },
+        "javascript": { "path": "./icons/{{ flavor.identifier }}/javascript.svg" },
+        "julia": { "path": "./icons/{{ flavor.identifier }}/julia.svg" },
+        "kotlin": { "path": "./icons/{{ flavor.identifier }}/kotlin.svg" },
+        "lock": { "path": "./icons/{{ flavor.identifier }}/lock.svg" },
+        "log": { "path": "./icons/{{ flavor.identifier }}/log.svg" },
+        "lua": { "path": "./icons/{{ flavor.identifier }}/lua.svg" },
+        "nim": { "path": "./icons/{{ flavor.identifier }}/nim.svg" },
+        "nix": { "path": "./icons/{{ flavor.identifier }}/nix.svg" },
+        "ocaml": { "path": "./icons/{{ flavor.identifier }}/ocaml.svg" },
+        "php": { "path": "./icons/{{ flavor.identifier }}/php.svg" },
+        "prettier": { "path": "./icons/{{ flavor.identifier }}/prettier.svg" },
+        "prisma": { "path": "./icons/{{ flavor.identifier }}/prisma.svg" },
+        "python": { "path": "./icons/{{ flavor.identifier }}/python.svg" },
+        "r": { "path": "./icons/{{ flavor.identifier }}/r.svg" },
+        "react": { "path": "./icons/{{ flavor.identifier }}/react.svg" },
+        "ruby": { "path": "./icons/{{ flavor.identifier }}/ruby.svg" },
+        "rust": { "path": "./icons/{{ flavor.identifier }}/rust.svg" },
+        "sass": { "path": "./icons/{{ flavor.identifier }}/sass.svg" },
+        "scala": { "path": "./icons/{{ flavor.identifier }}/scala.svg" },
+        "settings": { "path": "./icons/{{ flavor.identifier }}/settings.svg" },
+        "storage": { "path": "./icons/{{ flavor.identifier }}/database.svg" },
+        "swift": { "path": "./icons/{{ flavor.identifier }}/swift.svg" },
+        "tcl": { "path": "./icons/{{ flavor.identifier }}/tcl.svg" },
+        "template": { "path": "./icons/{{ flavor.identifier }}/template.svg" },
+        "terminal": { "path": "./icons/{{ flavor.identifier }}/console.svg" },
+        "terraform": { "path": "./icons/{{ flavor.identifier }}/terraform.svg" },
+        "toml": { "path": "./icons/{{ flavor.identifier }}/toml.svg" },
+        "typescript": { "path": "./icons/{{ flavor.identifier }}/typescript.svg" },
+        "vcs": { "path": "./icons/{{ flavor.identifier }}/git.svg" },
+        "video": { "path": "./icons/{{ flavor.identifier }}/video.svg" },
+        "vue": { "path": "./icons/{{ flavor.identifier }}/vue.svg" },
+        "zig": { "path": "./icons/{{ flavor.identifier }}/zig.svg" }
+      }
+    }{% if not loop.last %},{% endif -%}
+    {% endfor %}
+  ]
+}

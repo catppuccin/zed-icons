@@ -1,0 +1,10 @@
+[
+  {
+    "label": "Build JSON Templates",
+    "command": "whiskers zed-icons.tera"
+  },
+  {
+    "label": "Clean JSON Templates",
+    "command": "rm icon_themes/*.json"
+  }
+]

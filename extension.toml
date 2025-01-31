@@ -1,0 +1,7 @@
+id = "catppuccin-icons"
+name = "Catppuccin Icons"
+version = "0.2.0"
+schema_version = 1
+authors = ["Catppuccin <releases@catppuccin.dev>"]
+description = "🦐 Soothing pastel icons for Zed"
+repository = "https://github.com/zed-extensions/material-icon-theme"
