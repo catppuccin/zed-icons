@@ -13,8 +13,8 @@ whiskers:
       "name": "Catppuccin {{ flavor.name }}",
       "appearance": {% if flavor.dark %}"dark"{% else %}"light"{% endif %},
       "directory_icons": {
-        "collapsed": "./icons/{{ flavor.identifier }}/folder-base.svg",
-        "expanded": "./icons/{{ flavor.identifier }}/folder-base-open.svg"
+        "collapsed": "./icons/{{ flavor.identifier }}/_folder.svg",
+        "expanded": "./icons/{{ flavor.identifier }}/_folder_open.svg"
       },
       "file_icons": {
         "astro": { "path": "./icons/{{ flavor.identifier }}/astro.svg" },

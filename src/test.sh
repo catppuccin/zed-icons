@@ -22,6 +22,8 @@ done < <(jq -r '
     ) | @tsv
 ' "$json_file")
 
+total_defined=$((ok_count + missing_icon_count))
+
 # Find undefined files
 for theme in latte frappe macchiato mocha; do
     case $theme in
@@ -46,9 +48,9 @@ done
 # Print summary
 echo
 echo "Summary:"
-echo "✓ Successful matches: $ok_count"
-echo "✗ Missing icons: $missing_icon_count"
-echo "✗ Missing JSON definitions: $missing_json_count"
+echo "✅ Successful matches: $ok_count/$total_defined"
+echo "❌ Missing icons: $missing_icon_count"
+echo "❌ Missing JSON definitions: $missing_json_count"
 
 # Exit with error if any missing files
 [ $((missing_icon_count + missing_json_count)) -gt 0 ] && exit 1 || exit 0
