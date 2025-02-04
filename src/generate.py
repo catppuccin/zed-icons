@@ -9,9 +9,9 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
-
 class SVGProcessor:
-    VIEWBOX_VALUE = "0 0 24 24"
+
+    VIEWBOX_VALUE = "-1 0 17 17"
     ATTRIBUTES_TO_REMOVE = {'width', 'height'}
 
     def __init__(self, themes: List[str]):
@@ -45,11 +45,6 @@ class SVGProcessor:
             raise
 
     def process_svg(self, file_path: Path) -> None:
-        """
-        Process SVG file:
-        - Remove width and height attributes
-        - Set or update viewBox to "0 0 24 24"
-        """
         try:
             # Parse SVG with XML parser
             parser = etree.XMLParser(remove_blank_text=True)
