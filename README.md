@@ -47,12 +47,12 @@
 
 Install [Whiskers](https://github.com/catppuccin/whiskers), Catppuccin's in-house theme generator, to build and test themes locally.
 
-Once installed, run `whiskers zed.tera` to generate all JSON template in the `icon_themes/` directory.
+Once installed, run `whiskers zed.tera` to generate all JSON definitions in the `icon_themes/` directory.
 
 ### Icon Generation
 
-1. Pull icons from [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) submodule.
-2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/) if you have not done so yet.
+1. Pull icons using [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) submodule.
+2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
 
 ```bash
 git submodule update --init --recursive
