@@ -1,0 +1,22 @@
+name: Test & Validate Icons
+on:
+  workflow_dispatch:
+  push:
+
+env:
+  RUN: 'whiskers zed-icons.tera'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify Checked-In JSON
+        run: cat icon_themes/catppuccin-icons.json | jq
+      - run: python3 ./src/test.py --validate
+
+      - uses: actions-rust-lang/setup-rust-toolchain@v1
+      - run: cargo install catppuccin-whiskers@=2.5.1
+      - name: Verify Generated JSON
+        run: ${{ env.RUN }}
+      - run: cat icon_themes/catppuccin-icons.json | jq
