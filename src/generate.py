@@ -11,7 +11,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 class SVGProcessor:
 
-    VIEWBOX_VALUE = "-1 0 17 17"
+    VIEWBOX_VALUE = "0 0 16 16"
     ATTRIBUTES_TO_REMOVE = {'width', 'height'}
 
     def __init__(self, themes: List[str]):
