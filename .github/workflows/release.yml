@@ -1,4 +1,4 @@
-name: Publish to zed-industires/extensions
+name: Publish to zed-industries/extensions
 
 on:
   workflow_dispatch:
