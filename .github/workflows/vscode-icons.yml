@@ -21,7 +21,7 @@ jobs:
         id: submodules
         uses: sgoudham/update-git-submodules@v2
         with:
-          submodules: "vscode-icons"
+          submodules: "src/vscode-icons"
           strategy: "tag"
 
       - name: Create pull request
