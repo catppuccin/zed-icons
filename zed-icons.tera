@@ -63,7 +63,7 @@ whiskers:
         "rust": { "path": "./icons/{{ flavor.identifier }}/rust.svg" },
         "sass": { "path": "./icons/{{ flavor.identifier }}/sass.svg" },
         "scala": { "path": "./icons/{{ flavor.identifier }}/scala.svg" },
-        {#- "settings": { "path": "./icons/{{ flavor.identifier }}/settings.svg" }, #}
+        "settings": { "path": "./icons/{{ flavor.identifier }}/properties.svg" },
         "storage": { "path": "./icons/{{ flavor.identifier }}/database.svg" },
         "swift": { "path": "./icons/{{ flavor.identifier }}/swift.svg" },
         {#- "tcl": { "path": "./icons/{{ flavor.identifier }}/tcl.svg" }, #}
