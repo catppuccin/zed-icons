@@ -42,9 +42,11 @@ whiskers:
         "haskell": { "path": "./icons/{{ flavor.identifier }}/haskell.svg" },
         "hcl": { "path": "./icons/{{ flavor.identifier }}/terraform.svg" },
         "heroku": { "path": "./icons/{{ flavor.identifier }}/heroku.svg" },
+        "html": { "path": "./icons/{{ flavor.identifier }}/html.svg" },
         "image": { "path": "./icons/{{ flavor.identifier }}/image.svg" },
         "java": { "path": "./icons/{{ flavor.identifier }}/java.svg" },
         "javascript": { "path": "./icons/{{ flavor.identifier }}/javascript.svg" },
+        "json": { "path": "./icons/{{ flavor.identifier }}/json.svg" },
         "julia": { "path": "./icons/{{ flavor.identifier }}/julia.svg" },
         "kotlin": { "path": "./icons/{{ flavor.identifier }}/kotlin.svg" },
         {#- "lock": { "path": "./icons/{{ flavor.identifier }}/lock.svg" }, #}
