@@ -21,7 +21,7 @@ whiskers:
         "audio": { "path": "./icons/{{ flavor.identifier }}/audio.svg" },
         "bun": { "path": "./icons/{{ flavor.identifier }}/bun.svg" },
         "c": { "path": "./icons/{{ flavor.identifier }}/c.svg" },
-        "code": { "path": "./icons/{{ flavor.identifier }}/_file.svg" },
+        "code": { "path": "./icons/{{ flavor.identifier }}/exe.svg" },
         "coffeescript": { "path": "./icons/{{ flavor.identifier }}/coffeescript.svg" },
         "cpp": { "path": "./icons/{{ flavor.identifier }}/cpp.svg" },
         "css": { "path": "./icons/{{ flavor.identifier }}/css.svg" },
