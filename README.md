@@ -39,7 +39,7 @@
 1. Open Zed.
 2. Open the command palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and enter _zed: extensions_.
 3. Search for the _Catppuccin Icons_ extension and install.
-4. Enter _theme selector: toggle_ in the command palette and select the Catppuccin Icons theme in your preferred flavor in the dropdown.
+4. Enter _icon theme selector: toggle_ in the command palette and select the Catppuccin Icons theme in your preferred flavor in the dropdown.
 
 ## Development
 
