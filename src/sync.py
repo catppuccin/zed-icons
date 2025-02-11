@@ -61,12 +61,11 @@ def insert_missing_icons_in_template(missing_icons: set, template_path: str):
     with open(template_path, 'w') as f:
         f.writelines(modified_lines)
 
-
-
 if __name__ == "__main__":
 
     missing_icons = check_missing_icons()
     insert_missing_icons_in_template(missing_icons, 'zed-icons.tera')
 
-    set_output("missing_icons", str(missing_icons))
+    missing_icons_str = ", ".join(sorted(missing_icons))
+    set_output("missing_icons", missing_icons_str)
     set_output("n_missing_icons", str(len(missing_icons)))
