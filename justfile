@@ -16,12 +16,19 @@ alias run := generate
     whiskers zed-icons.tera
     echo "-- OK - Built 'icon_themes/catppuccin-icons.json'"
 
+alias t := test
+@test:
+    uv run --no-sync  src/test.py
+
+alias v := validate
+@validate:
+    uv run --no-sync src/test.py --validate
+
 [group('ci')]
 @act event_name="":
     act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest {{ event_name }}
 
 alias aj := act-job
-
 [group('ci')]
 @act-job job_name:
     act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest -j {{ job_name }}

@@ -61,6 +61,7 @@ def validate_icons(validate_only: bool = False) -> IconStatus:
                         missing_json_count += 1
 
     # Print summary
+    missing_icon_count = missing_icon_count // 4    # 4 catppuccin flavors
     total_defined = ok_count + missing_icon_count
     print("\nSummary:")
     print(f"✓ Successful matches: {ok_count}/{total_defined}")
