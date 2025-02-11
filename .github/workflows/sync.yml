@@ -51,3 +51,6 @@ jobs:
           title: "feat: add ${{ steps.sync.outputs.missing_icons }} icons"
           commit-message: "feat: add ${{ steps.sync.outputs.missing_icons }} icons"
           body: "add ${{ steps.sync.outputs.n_missing_icons }} additional icons"
+          add-paths: |
+            zed-icons.tera
+            icon_themes/*.json
