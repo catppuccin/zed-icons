@@ -17,6 +17,12 @@ whiskers:
         "expanded": "./icons/{{ flavor.identifier }}/_folder_open.svg"
       },
       "file_icons": {
+        "backup": { "path": "./icons/{{ flavor.identifier }}/backup.svg" },
+        "lock": { "path": "./icons/{{ flavor.identifier }}/lock.svg" },
+        "metal": { "path": "./icons/{{ flavor.identifier }}/metal.svg" },
+        "roc": { "path": "./icons/{{ flavor.identifier }}/roc.svg" },
+        "tcl": { "path": "./icons/{{ flavor.identifier }}/tcl.svg" },
+        "v": { "path": "./icons/{{ flavor.identifier }}/v.svg" },
         "astro": { "path": "./icons/{{ flavor.identifier }}/astro.svg" },
         "audio": { "path": "./icons/{{ flavor.identifier }}/audio.svg" },
         "bun": { "path": "./icons/{{ flavor.identifier }}/bun.svg" },
