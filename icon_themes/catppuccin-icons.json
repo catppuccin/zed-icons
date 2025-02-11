@@ -11,6 +11,12 @@
         "expanded": "./icons/latte/_folder_open.svg"
       },
       "file_icons": {
+        "backup": { "path": "./icons/latte/backup.svg" },
+        "lock": { "path": "./icons/latte/lock.svg" },
+        "metal": { "path": "./icons/latte/metal.svg" },
+        "roc": { "path": "./icons/latte/roc.svg" },
+        "tcl": { "path": "./icons/latte/tcl.svg" },
+        "v": { "path": "./icons/latte/v.svg" },
         "astro": { "path": "./icons/latte/astro.svg" },
         "audio": { "path": "./icons/latte/audio.svg" },
         "bun": { "path": "./icons/latte/bun.svg" },
@@ -80,6 +86,12 @@
         "expanded": "./icons/frappe/_folder_open.svg"
       },
       "file_icons": {
+        "backup": { "path": "./icons/frappe/backup.svg" },
+        "lock": { "path": "./icons/frappe/lock.svg" },
+        "metal": { "path": "./icons/frappe/metal.svg" },
+        "roc": { "path": "./icons/frappe/roc.svg" },
+        "tcl": { "path": "./icons/frappe/tcl.svg" },
+        "v": { "path": "./icons/frappe/v.svg" },
         "astro": { "path": "./icons/frappe/astro.svg" },
         "audio": { "path": "./icons/frappe/audio.svg" },
         "bun": { "path": "./icons/frappe/bun.svg" },
@@ -149,6 +161,12 @@
         "expanded": "./icons/macchiato/_folder_open.svg"
       },
       "file_icons": {
+        "backup": { "path": "./icons/macchiato/backup.svg" },
+        "lock": { "path": "./icons/macchiato/lock.svg" },
+        "metal": { "path": "./icons/macchiato/metal.svg" },
+        "roc": { "path": "./icons/macchiato/roc.svg" },
+        "tcl": { "path": "./icons/macchiato/tcl.svg" },
+        "v": { "path": "./icons/macchiato/v.svg" },
         "astro": { "path": "./icons/macchiato/astro.svg" },
         "audio": { "path": "./icons/macchiato/audio.svg" },
         "bun": { "path": "./icons/macchiato/bun.svg" },
@@ -218,6 +236,12 @@
         "expanded": "./icons/mocha/_folder_open.svg"
       },
       "file_icons": {
+        "backup": { "path": "./icons/mocha/backup.svg" },
+        "lock": { "path": "./icons/mocha/lock.svg" },
+        "metal": { "path": "./icons/mocha/metal.svg" },
+        "roc": { "path": "./icons/mocha/roc.svg" },
+        "tcl": { "path": "./icons/mocha/tcl.svg" },
+        "v": { "path": "./icons/mocha/v.svg" },
         "astro": { "path": "./icons/mocha/astro.svg" },
         "audio": { "path": "./icons/mocha/audio.svg" },
         "bun": { "path": "./icons/mocha/bun.svg" },
