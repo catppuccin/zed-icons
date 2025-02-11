@@ -20,15 +20,19 @@ alias t := test
 @test:
     uv run --no-sync  src/test.py
 
+alias ts := test-sync
+@test-sync:
+    uv run --no-sync src/sync.py
+
 alias v := validate
 @validate:
     uv run --no-sync src/test.py --validate
 
 [group('ci')]
 @act event_name="":
-    act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest {{ event_name }}
+    act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest {{ event_name }} -s GITHUB_TOKEN="$(gh auth token)"
 
 alias aj := act-job
 [group('ci')]
 @act-job job_name:
-    act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest -j {{ job_name }}
+    act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest -j {{ job_name }} -s GITHUB_TOKEN="$(gh auth token)"
