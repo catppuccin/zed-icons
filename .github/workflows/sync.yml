@@ -1,0 +1,44 @@
+name: Sync with Zed's Icons
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  sync:
+    runs-on: ubuntu-24.04-arm
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: 'zed-industries/zed'
+          token: ${{ github.token }}
+          path: zed
+          sparse-checkout: |
+            assets/icons/file_icons/file_types.json
+          sparse-checkout-cone-mode: false
+
+      - name: Get Zed commit SHA
+        id: zed_sha
+        run: |
+          cd zed
+          echo "commit=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
+          cd ..
+
+      - run: python3 ./src/sync.py >> $GITHUB_OUTPUT
+        id: sync
+      - uses: actions-rust-lang/setup-rust-toolchain@v1
+      - run: cargo install catppuccin-whiskers@=2.5.1
+      - run: whiskers zed-icons.tera
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        if: ${{ steps.sync.outputs.updated }}
+        with:
+          branch: "feat/zed-sync-${{ steps.zed_sha.outputs.commit }}"
+          title: "feat: add ${{ steps.sync.outputs.missing_icons }} icons"
+          commit-message: "feat: add ${{ steps.sync.outputs.missing_icons }} icons"
+          body: "add ${{ steps.sync.outputs.n_missing_icons }} additional icons"

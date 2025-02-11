@@ -3,3 +3,4 @@
 .venv/
 .ropeproject/
 **/__pycache__/
+zed/**
