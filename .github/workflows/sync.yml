@@ -29,8 +29,17 @@ jobs:
           echo "commit=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
           cd ..
 
-      - run: python3 ./src/sync.py >> $GITHUB_OUTPUT
+      - name: Sync with Zed default icons
         id: sync
+        run: |
+          python3 ./src/sync.py
+          echo "Outputs:"
+          cat $GITHUB_OUTPUT
+      - name: Debug outputs
+        run: |
+          echo "Updated: ${{ steps.sync.outputs.updated }}"
+          echo "Missing icons: ${{ steps.sync.outputs.missing_icons }}"
+          echo "N missing icons: ${{ steps.sync.outputs.n_missing_icons }}"
       - uses: actions-rust-lang/setup-rust-toolchain@v1
       - run: cargo install catppuccin-whiskers@=2.5.1
       - run: whiskers zed-icons.tera
