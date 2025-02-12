@@ -48,9 +48,12 @@ jobs:
         if: ${{ steps.sync.outputs.updated }}
         with:
           branch: "feat/zed-sync-${{ steps.zed_sha.outputs.commit }}"
-          title: "feat: add ${{ steps.sync.outputs.missing_icons }} icons"
+          title: "feat: add icons - ${{ steps.sync.outputs.missing_icons }}"
           commit-message: "feat: add ${{ steps.sync.outputs.missing_icons }} icons"
-          body: "add ${{ steps.sync.outputs.n_missing_icons }} additional icons"
+          body: |
+            Add ${{ steps.sync.outputs.n_missing_icons }} additional icons
+
+            ref: https://github.com/zed-industries/zed/tree/${{ steps.zed_sha.outputs.commit }}/assets/icons/file_icons
           add-paths: |
             zed-icons.tera
             icon_themes/*.json
