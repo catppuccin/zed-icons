@@ -22,6 +22,7 @@ alias t := test
 
 alias ts := test-sync
 @test-sync:
+    mkdir -vp "zed/assets/icons/file_icons"
     uv run --no-sync src/sync.py
 
 alias v := validate
