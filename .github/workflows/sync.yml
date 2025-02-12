@@ -49,7 +49,7 @@ jobs:
         with:
           branch: "feat/zed-sync-${{ steps.zed_sha.outputs.commit }}"
           title: "feat: add icons - ${{ steps.sync.outputs.missing_icons }}"
-          commit-message: "feat: add ${{ steps.sync.outputs.missing_icons }} icons"
+          commit-message: "feat: add icons - ${{ steps.sync.outputs.missing_icons }}"
           body: |
             Add ${{ steps.sync.outputs.n_missing_icons }} additional icons
 
