@@ -17,6 +17,12 @@ whiskers:
         "expanded": "./icons/{{ flavor.identifier }}/_folder_open.svg"
       },
       "file_icons": {
+        "backup": { "path": "./icons/{{ flavor.identifier }}/_file.svg" },  {#- no ctp icon #}
+        "lock": { "path": "./icons/{{ flavor.identifier }}/_file.svg" }, {#- no ctp icon #}
+        "metal": { "path": "./icons/{{ flavor.identifier }}/apple.svg" },
+        "roc": { "path": "./icons/{{ flavor.identifier }}/text.svg" },  {#- no ctp icon #}
+        "tcl": { "path": "./icons/{{ flavor.identifier }}/text.svg" }, {#- no ctp icon #}
+        "v": { "path": "./icons/{{ flavor.identifier }}/v.svg" },
         "astro": { "path": "./icons/{{ flavor.identifier }}/astro.svg" },
         "audio": { "path": "./icons/{{ flavor.identifier }}/audio.svg" },
         "bun": { "path": "./icons/{{ flavor.identifier }}/bun.svg" },
@@ -26,7 +32,6 @@ whiskers:
         "cpp": { "path": "./icons/{{ flavor.identifier }}/cpp.svg" },
         "css": { "path": "./icons/{{ flavor.identifier }}/css.svg" },
         "dart": { "path": "./icons/{{ flavor.identifier }}/dart.svg" },
-        "default": { "path": "./icons/{{ flavor.identifier }}/text.svg" },
         "diff": { "path": "./icons/{{ flavor.identifier }}/diff.svg" },
         "docker": { "path": "./icons/{{ flavor.identifier }}/docker.svg" },
         "document": { "path": "./icons/{{ flavor.identifier }}/_file.svg" },
@@ -77,7 +82,8 @@ whiskers:
         "vcs": { "path": "./icons/{{ flavor.identifier }}/git.svg" },
         "video": { "path": "./icons/{{ flavor.identifier }}/video.svg" },
         "vue": { "path": "./icons/{{ flavor.identifier }}/vue.svg" },
-        "zig": { "path": "./icons/{{ flavor.identifier }}/zig.svg" }
+        "zig": { "path": "./icons/{{ flavor.identifier }}/zig.svg" },
+        "default": { "path": "./icons/{{ flavor.identifier }}/text.svg" }
       }
     }{% if not loop.last %},{% endif -%}
     {% endfor %}
