@@ -30,8 +30,8 @@ alias v := validate
     uv run --no-sync src/test.py --validate
 
 [group('ci')]
-@act event_name="":
-    act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest {{ event_name }} -s GITHUB_TOKEN="$(gh auth token)"
+@act event_name="" +args="":
+    act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest {{ event_name }} -s GITHUB_TOKEN="$(gh auth token)" {{ args }}
 
 alias aj := act-job
 [group('ci')]
