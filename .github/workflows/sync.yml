@@ -59,3 +59,5 @@ jobs:
           add-paths: |
             zed-icons.tera
             icon_themes/*.json
+      - name: Validate New Icons
+        run: python3 ./src/test.py --validate
