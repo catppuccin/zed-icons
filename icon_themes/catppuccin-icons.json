@@ -11,6 +11,15 @@
         "expanded": "./icons/latte/_folder_open.svg"
       },
       "file_icons": {
+        "bicep": { "path": "./icons/latte/bicep.svg" },
+        "csharp": { "path": "./icons/latte/csharp.svg" },
+        "cue": { "path": "./icons/latte/cue.svg" },
+        "gitlab": { "path": "./icons/latte/gitlab.svg" },
+        "luau": { "path": "./icons/latte/luau.svg" },
+        "markdown": { "path": "./icons/latte/markdown.svg" },
+        "solidity": { "path": "./icons/latte/solidity.svg" },
+        "stylelint": { "path": "./icons/latte/stylelint.svg" },
+        "svelte": { "path": "./icons/latte/svelte.svg" },
         "backup": { "path": "./icons/latte/_file.svg" },
         "lock": { "path": "./icons/latte/_file.svg" },
         "metal": { "path": "./icons/latte/apple.svg" },
@@ -86,6 +95,15 @@
         "expanded": "./icons/frappe/_folder_open.svg"
       },
       "file_icons": {
+        "bicep": { "path": "./icons/frappe/bicep.svg" },
+        "csharp": { "path": "./icons/frappe/csharp.svg" },
+        "cue": { "path": "./icons/frappe/cue.svg" },
+        "gitlab": { "path": "./icons/frappe/gitlab.svg" },
+        "luau": { "path": "./icons/frappe/luau.svg" },
+        "markdown": { "path": "./icons/frappe/markdown.svg" },
+        "solidity": { "path": "./icons/frappe/solidity.svg" },
+        "stylelint": { "path": "./icons/frappe/stylelint.svg" },
+        "svelte": { "path": "./icons/frappe/svelte.svg" },
         "backup": { "path": "./icons/frappe/_file.svg" },
         "lock": { "path": "./icons/frappe/_file.svg" },
         "metal": { "path": "./icons/frappe/apple.svg" },
@@ -161,6 +179,15 @@
         "expanded": "./icons/macchiato/_folder_open.svg"
       },
       "file_icons": {
+        "bicep": { "path": "./icons/macchiato/bicep.svg" },
+        "csharp": { "path": "./icons/macchiato/csharp.svg" },
+        "cue": { "path": "./icons/macchiato/cue.svg" },
+        "gitlab": { "path": "./icons/macchiato/gitlab.svg" },
+        "luau": { "path": "./icons/macchiato/luau.svg" },
+        "markdown": { "path": "./icons/macchiato/markdown.svg" },
+        "solidity": { "path": "./icons/macchiato/solidity.svg" },
+        "stylelint": { "path": "./icons/macchiato/stylelint.svg" },
+        "svelte": { "path": "./icons/macchiato/svelte.svg" },
         "backup": { "path": "./icons/macchiato/_file.svg" },
         "lock": { "path": "./icons/macchiato/_file.svg" },
         "metal": { "path": "./icons/macchiato/apple.svg" },
@@ -236,6 +263,15 @@
         "expanded": "./icons/mocha/_folder_open.svg"
       },
       "file_icons": {
+        "bicep": { "path": "./icons/mocha/bicep.svg" },
+        "csharp": { "path": "./icons/mocha/csharp.svg" },
+        "cue": { "path": "./icons/mocha/cue.svg" },
+        "gitlab": { "path": "./icons/mocha/gitlab.svg" },
+        "luau": { "path": "./icons/mocha/luau.svg" },
+        "markdown": { "path": "./icons/mocha/markdown.svg" },
+        "solidity": { "path": "./icons/mocha/solidity.svg" },
+        "stylelint": { "path": "./icons/mocha/stylelint.svg" },
+        "svelte": { "path": "./icons/mocha/svelte.svg" },
         "backup": { "path": "./icons/mocha/_file.svg" },
         "lock": { "path": "./icons/mocha/_file.svg" },
         "metal": { "path": "./icons/mocha/apple.svg" },
