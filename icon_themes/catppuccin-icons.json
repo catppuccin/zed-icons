@@ -11,11 +11,11 @@
         "expanded": "./icons/latte/_folder_open.svg"
       },
       "file_icons": {
-        "backup": { "path": "./icons/latte/backup.svg" },
+        "backup": { "path": "./icons/latte/_file.svg" },
         "lock": { "path": "./icons/latte/lock.svg" },
-        "metal": { "path": "./icons/latte/metal.svg" },
-        "roc": { "path": "./icons/latte/roc.svg" },
-        "tcl": { "path": "./icons/latte/tcl.svg" },
+        "metal": { "path": "./icons/latte/apple.svg" },
+        "roc": { "path": "./icons/latte/text.svg" },
+        "tcl": { "path": "./icons/latte/text.svg" },
         "v": { "path": "./icons/latte/v.svg" },
         "astro": { "path": "./icons/latte/astro.svg" },
         "audio": { "path": "./icons/latte/audio.svg" },
@@ -26,7 +26,6 @@
         "cpp": { "path": "./icons/latte/cpp.svg" },
         "css": { "path": "./icons/latte/css.svg" },
         "dart": { "path": "./icons/latte/dart.svg" },
-        "default": { "path": "./icons/latte/text.svg" },
         "diff": { "path": "./icons/latte/diff.svg" },
         "docker": { "path": "./icons/latte/docker.svg" },
         "document": { "path": "./icons/latte/_file.svg" },
@@ -75,7 +74,8 @@
         "vcs": { "path": "./icons/latte/git.svg" },
         "video": { "path": "./icons/latte/video.svg" },
         "vue": { "path": "./icons/latte/vue.svg" },
-        "zig": { "path": "./icons/latte/zig.svg" }
+        "zig": { "path": "./icons/latte/zig.svg" },
+        "default": { "path": "./icons/latte/text.svg" },
       }
     },
     {
@@ -86,11 +86,11 @@
         "expanded": "./icons/frappe/_folder_open.svg"
       },
       "file_icons": {
-        "backup": { "path": "./icons/frappe/backup.svg" },
+        "backup": { "path": "./icons/frappe/_file.svg" },
         "lock": { "path": "./icons/frappe/lock.svg" },
-        "metal": { "path": "./icons/frappe/metal.svg" },
-        "roc": { "path": "./icons/frappe/roc.svg" },
-        "tcl": { "path": "./icons/frappe/tcl.svg" },
+        "metal": { "path": "./icons/frappe/apple.svg" },
+        "roc": { "path": "./icons/frappe/text.svg" },
+        "tcl": { "path": "./icons/frappe/text.svg" },
         "v": { "path": "./icons/frappe/v.svg" },
         "astro": { "path": "./icons/frappe/astro.svg" },
         "audio": { "path": "./icons/frappe/audio.svg" },
@@ -101,7 +101,6 @@
         "cpp": { "path": "./icons/frappe/cpp.svg" },
         "css": { "path": "./icons/frappe/css.svg" },
         "dart": { "path": "./icons/frappe/dart.svg" },
-        "default": { "path": "./icons/frappe/text.svg" },
         "diff": { "path": "./icons/frappe/diff.svg" },
         "docker": { "path": "./icons/frappe/docker.svg" },
         "document": { "path": "./icons/frappe/_file.svg" },
@@ -150,7 +149,8 @@
         "vcs": { "path": "./icons/frappe/git.svg" },
         "video": { "path": "./icons/frappe/video.svg" },
         "vue": { "path": "./icons/frappe/vue.svg" },
-        "zig": { "path": "./icons/frappe/zig.svg" }
+        "zig": { "path": "./icons/frappe/zig.svg" },
+        "default": { "path": "./icons/frappe/text.svg" },
       }
     },
     {
@@ -161,11 +161,11 @@
         "expanded": "./icons/macchiato/_folder_open.svg"
       },
       "file_icons": {
-        "backup": { "path": "./icons/macchiato/backup.svg" },
+        "backup": { "path": "./icons/macchiato/_file.svg" },
         "lock": { "path": "./icons/macchiato/lock.svg" },
-        "metal": { "path": "./icons/macchiato/metal.svg" },
-        "roc": { "path": "./icons/macchiato/roc.svg" },
-        "tcl": { "path": "./icons/macchiato/tcl.svg" },
+        "metal": { "path": "./icons/macchiato/apple.svg" },
+        "roc": { "path": "./icons/macchiato/text.svg" },
+        "tcl": { "path": "./icons/macchiato/text.svg" },
         "v": { "path": "./icons/macchiato/v.svg" },
         "astro": { "path": "./icons/macchiato/astro.svg" },
         "audio": { "path": "./icons/macchiato/audio.svg" },
@@ -176,7 +176,6 @@
         "cpp": { "path": "./icons/macchiato/cpp.svg" },
         "css": { "path": "./icons/macchiato/css.svg" },
         "dart": { "path": "./icons/macchiato/dart.svg" },
-        "default": { "path": "./icons/macchiato/text.svg" },
         "diff": { "path": "./icons/macchiato/diff.svg" },
         "docker": { "path": "./icons/macchiato/docker.svg" },
         "document": { "path": "./icons/macchiato/_file.svg" },
@@ -225,7 +224,8 @@
         "vcs": { "path": "./icons/macchiato/git.svg" },
         "video": { "path": "./icons/macchiato/video.svg" },
         "vue": { "path": "./icons/macchiato/vue.svg" },
-        "zig": { "path": "./icons/macchiato/zig.svg" }
+        "zig": { "path": "./icons/macchiato/zig.svg" },
+        "default": { "path": "./icons/macchiato/text.svg" },
       }
     },
     {
@@ -236,11 +236,11 @@
         "expanded": "./icons/mocha/_folder_open.svg"
       },
       "file_icons": {
-        "backup": { "path": "./icons/mocha/backup.svg" },
+        "backup": { "path": "./icons/mocha/_file.svg" },
         "lock": { "path": "./icons/mocha/lock.svg" },
-        "metal": { "path": "./icons/mocha/metal.svg" },
-        "roc": { "path": "./icons/mocha/roc.svg" },
-        "tcl": { "path": "./icons/mocha/tcl.svg" },
+        "metal": { "path": "./icons/mocha/apple.svg" },
+        "roc": { "path": "./icons/mocha/text.svg" },
+        "tcl": { "path": "./icons/mocha/text.svg" },
         "v": { "path": "./icons/mocha/v.svg" },
         "astro": { "path": "./icons/mocha/astro.svg" },
         "audio": { "path": "./icons/mocha/audio.svg" },
@@ -251,7 +251,6 @@
         "cpp": { "path": "./icons/mocha/cpp.svg" },
         "css": { "path": "./icons/mocha/css.svg" },
         "dart": { "path": "./icons/mocha/dart.svg" },
-        "default": { "path": "./icons/mocha/text.svg" },
         "diff": { "path": "./icons/mocha/diff.svg" },
         "docker": { "path": "./icons/mocha/docker.svg" },
         "document": { "path": "./icons/mocha/_file.svg" },
@@ -300,7 +299,8 @@
         "vcs": { "path": "./icons/mocha/git.svg" },
         "video": { "path": "./icons/mocha/video.svg" },
         "vue": { "path": "./icons/mocha/vue.svg" },
-        "zig": { "path": "./icons/mocha/zig.svg" }
+        "zig": { "path": "./icons/mocha/zig.svg" },
+        "default": { "path": "./icons/mocha/text.svg" },
       }
     }
   ]
