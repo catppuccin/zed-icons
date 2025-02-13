@@ -16,11 +16,20 @@ alias run := generate
     whiskers zed-icons.tera
     echo "-- OK - Built 'icon_themes/catppuccin-icons.json'"
 
+alias publish := deploy
+[doc('git push tag to trigger PR request to zed-industries/extensions')]
+[confirm]
+@deploy tag:
+    git tag -s {{ tag }} -m {{ tag }}
+    git push origin {{ tag }}
+    gh release create {{ tag }} --generate-notes --draft
+
 alias t := test
 @test:
     uv run --no-sync  src/test.py
 
 alias ts := test-sync
+[group('ci')]
 @test-sync:
     mkdir -vp "zed/assets/icons/file_icons"
     uv run --no-sync src/sync.py
