@@ -18,7 +18,7 @@ whiskers:
       },
       "file_icons": {
         "backup": { "path": "./icons/{{ flavor.identifier }}/_file.svg" },  {#- no ctp icon #}
-        "lock": { "path": "./icons/{{ flavor.identifier }}/lock.svg" }, {#- no ctp icon #}
+        "lock": { "path": "./icons/{{ flavor.identifier }}/_file.svg" }, {#- no ctp icon #}
         "metal": { "path": "./icons/{{ flavor.identifier }}/apple.svg" },
         "roc": { "path": "./icons/{{ flavor.identifier }}/text.svg" },  {#- no ctp icon #}
         "tcl": { "path": "./icons/{{ flavor.identifier }}/text.svg" }, {#- no ctp icon #}

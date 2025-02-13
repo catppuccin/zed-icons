@@ -12,7 +12,7 @@
       },
       "file_icons": {
         "backup": { "path": "./icons/latte/_file.svg" },
-        "lock": { "path": "./icons/latte/lock.svg" },
+        "lock": { "path": "./icons/latte/_file.svg" },
         "metal": { "path": "./icons/latte/apple.svg" },
         "roc": { "path": "./icons/latte/text.svg" },
         "tcl": { "path": "./icons/latte/text.svg" },
@@ -87,7 +87,7 @@
       },
       "file_icons": {
         "backup": { "path": "./icons/frappe/_file.svg" },
-        "lock": { "path": "./icons/frappe/lock.svg" },
+        "lock": { "path": "./icons/frappe/_file.svg" },
         "metal": { "path": "./icons/frappe/apple.svg" },
         "roc": { "path": "./icons/frappe/text.svg" },
         "tcl": { "path": "./icons/frappe/text.svg" },
@@ -162,7 +162,7 @@
       },
       "file_icons": {
         "backup": { "path": "./icons/macchiato/_file.svg" },
-        "lock": { "path": "./icons/macchiato/lock.svg" },
+        "lock": { "path": "./icons/macchiato/_file.svg" },
         "metal": { "path": "./icons/macchiato/apple.svg" },
         "roc": { "path": "./icons/macchiato/text.svg" },
         "tcl": { "path": "./icons/macchiato/text.svg" },
@@ -237,7 +237,7 @@
       },
       "file_icons": {
         "backup": { "path": "./icons/mocha/_file.svg" },
-        "lock": { "path": "./icons/mocha/lock.svg" },
+        "lock": { "path": "./icons/mocha/_file.svg" },
         "metal": { "path": "./icons/mocha/apple.svg" },
         "roc": { "path": "./icons/mocha/text.svg" },
         "tcl": { "path": "./icons/mocha/text.svg" },
