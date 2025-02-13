@@ -83,7 +83,7 @@ whiskers:
         "video": { "path": "./icons/{{ flavor.identifier }}/video.svg" },
         "vue": { "path": "./icons/{{ flavor.identifier }}/vue.svg" },
         "zig": { "path": "./icons/{{ flavor.identifier }}/zig.svg" },
-        "default": { "path": "./icons/{{ flavor.identifier }}/text.svg" },
+        "default": { "path": "./icons/{{ flavor.identifier }}/text.svg" }
       }
     }{% if not loop.last %},{% endif -%}
     {% endfor %}

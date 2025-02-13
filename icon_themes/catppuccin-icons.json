@@ -75,7 +75,7 @@
         "video": { "path": "./icons/latte/video.svg" },
         "vue": { "path": "./icons/latte/vue.svg" },
         "zig": { "path": "./icons/latte/zig.svg" },
-        "default": { "path": "./icons/latte/text.svg" },
+        "default": { "path": "./icons/latte/text.svg" }
       }
     },
     {
@@ -150,7 +150,7 @@
         "video": { "path": "./icons/frappe/video.svg" },
         "vue": { "path": "./icons/frappe/vue.svg" },
         "zig": { "path": "./icons/frappe/zig.svg" },
-        "default": { "path": "./icons/frappe/text.svg" },
+        "default": { "path": "./icons/frappe/text.svg" }
       }
     },
     {
@@ -225,7 +225,7 @@
         "video": { "path": "./icons/macchiato/video.svg" },
         "vue": { "path": "./icons/macchiato/vue.svg" },
         "zig": { "path": "./icons/macchiato/zig.svg" },
-        "default": { "path": "./icons/macchiato/text.svg" },
+        "default": { "path": "./icons/macchiato/text.svg" }
       }
     },
     {
@@ -300,7 +300,7 @@
         "video": { "path": "./icons/mocha/video.svg" },
         "vue": { "path": "./icons/mocha/vue.svg" },
         "zig": { "path": "./icons/mocha/zig.svg" },
-        "default": { "path": "./icons/mocha/text.svg" },
+        "default": { "path": "./icons/mocha/text.svg" }
       }
     }
   ]
