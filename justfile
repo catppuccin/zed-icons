@@ -21,7 +21,7 @@ alias publish := deploy
 [confirm]
 @deploy tag:
     git tag -s {{ tag }} -m {{ tag }}
-    git push --tags
+    git push origin {{ tag }}
     gh release create {{ tag }} --generate-notes --draft
 
 alias t := test
