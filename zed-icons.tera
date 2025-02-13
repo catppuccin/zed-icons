@@ -17,9 +17,9 @@ whiskers:
         "expanded": "./icons/{{ flavor.identifier }}/_folder_open.svg"
       },
       "file_icons": {
-        "bicep": { "path": "./icons/{{ flavor.identifier }}/bicep.svg" },
+        "bicep": { "path": "./icons/{{ flavor.identifier }}/_file.svg" }, {#- no ctp icon #}
         "csharp": { "path": "./icons/{{ flavor.identifier }}/csharp.svg" },
-        "cue": { "path": "./icons/{{ flavor.identifier }}/cue.svg" },
+        "cue": { "path": "./icons/{{ flavor.identifier }}/_file.svg" }, {#- no ctp icon #}
         "gitlab": { "path": "./icons/{{ flavor.identifier }}/gitlab.svg" },
         "luau": { "path": "./icons/{{ flavor.identifier }}/luau.svg" },
         "markdown": { "path": "./icons/{{ flavor.identifier }}/markdown.svg" },
