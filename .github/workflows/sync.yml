@@ -7,10 +7,11 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-24.04-arm
-    permissions:
-      contents: write
-      pull-requests: write
-
+    outputs:
+      zed_sha_commit: ${{ steps.zed_sha.outputs.commit }}
+      updated: ${{ steps.sync.outputs.updated }}
+      missing_icons: ${{ steps.sync.outputs.missing_icons }}
+      n_missing_icons: ${{ steps.sync.outputs.n_missing_icons }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4
@@ -35,29 +36,33 @@ jobs:
           python3 ./src/sync.py
           echo "Outputs:"
           cat $GITHUB_OUTPUT
-      - name: Debug outputs
-        run: |
-          echo "Updated: ${{ steps.sync.outputs.updated }}"
-          echo "Missing icons: ${{ steps.sync.outputs.missing_icons }}"
-          echo "N missing icons: ${{ steps.sync.outputs.n_missing_icons }}"
+
+  create-PR:
+    permissions:
+      contents: write
+      pull-requests: write
+    runs-on: ubuntu-24.04-arm
+    needs: sync
+    if: ${{ needs.sync.outputs.updated }}
+    steps:
       - uses: actions-rust-lang/setup-rust-toolchain@v1
       - run: cargo install catppuccin-whiskers@=2.5.1
       - run: whiskers zed-icons.tera
+      - name: Validate New Icons
+        run: python3 ./src/test.py --validate
+        continue-on-error: true
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
-        if: ${{ steps.sync.outputs.updated }}
         with:
-          branch: "feat/zed-sync-${{ steps.zed_sha.outputs.commit }}"
-          title: "feat: define icons - ${{ steps.sync.outputs.missing_icons }}"
-          commit-message: "feat: define icons - ${{ steps.sync.outputs.missing_icons }}"
+          branch: "feat/zed-sync-${{ needs.sync.outputs.zed_sha_commit }}"
+          title: "feat: define icons - ${{ needs.sync.outputs.missing_icons }}"
+          commit-message: "feat: define icons - ${{ needs.sync.outputs.missing_icons }}"
           body: |
-            Define ${{ steps.sync.outputs.n_missing_icons }} additional icons
+            Define ${{ needs.sync.outputs.n_missing_icons }} additional icons
 
             ## Reference
-            - https://github.com/zed-industries/zed/blob/${{ steps.zed_sha.outputs.commit }}/assets/icons/file_icons/file_types.json
-            - https://github.com/zed-industries/zed/tree/${{ steps.zed_sha.outputs.commit }}/assets/icons/file_icons
+            - https://github.com/zed-industries/zed/blob/${{ needs.sync.outputs.zed_sha_commit }}/assets/icons/file_icons/file_types.json
+            - https://github.com/zed-industries/zed/tree/${{ needs.sync.outputs.zed_sha_commit }}/assets/icons/file_icons
           add-paths: |
             zed-icons.tera
             icon_themes/*.json
-      - name: Validate New Icons
-        run: python3 ./src/test.py --validate
