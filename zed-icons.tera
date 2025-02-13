@@ -17,6 +17,15 @@ whiskers:
         "expanded": "./icons/{{ flavor.identifier }}/_folder_open.svg"
       },
       "file_icons": {
+        "bicep": { "path": "./icons/{{ flavor.identifier }}/bicep.svg" },
+        "csharp": { "path": "./icons/{{ flavor.identifier }}/csharp.svg" },
+        "cue": { "path": "./icons/{{ flavor.identifier }}/cue.svg" },
+        "gitlab": { "path": "./icons/{{ flavor.identifier }}/gitlab.svg" },
+        "luau": { "path": "./icons/{{ flavor.identifier }}/luau.svg" },
+        "markdown": { "path": "./icons/{{ flavor.identifier }}/markdown.svg" },
+        "solidity": { "path": "./icons/{{ flavor.identifier }}/solidity.svg" },
+        "stylelint": { "path": "./icons/{{ flavor.identifier }}/stylelint.svg" },
+        "svelte": { "path": "./icons/{{ flavor.identifier }}/svelte.svg" },
         "backup": { "path": "./icons/{{ flavor.identifier }}/_file.svg" },  {#- no ctp icon #}
         "lock": { "path": "./icons/{{ flavor.identifier }}/_file.svg" }, {#- no ctp icon #}
         "metal": { "path": "./icons/{{ flavor.identifier }}/apple.svg" },
