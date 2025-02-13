@@ -45,7 +45,15 @@ jobs:
     steps:
       - uses: actions-rust-lang/setup-rust-toolchain@v1
       - run: cargo install catppuccin-whiskers@=2.5.1
-      - uses: actions/checkout@v4]
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: 'zed-industries/zed'
+          token: ${{ github.token }}
+          path: zed
+          sparse-checkout: |
+            assets/icons/file_icons/file_types.json
+          sparse-checkout-cone-mode: false
       - run: python3 ./src/sync.py
         id: sync
       - run: whiskers zed-icons.tera
