@@ -1,0 +1,28 @@
+name: Bug report
+description: Report a bug or unexpected behaviour
+labels: [bug]
+body:
+  - type: textarea
+    attributes:
+      label: Summary
+      description: Describe the bug with a one line summary
+      value: |
+        <!-- Please insert a one line summary of the issue below -->
+
+      validations:
+        required: true
+  - type: input
+    attributes:
+      label: Extension version
+      description: What version of Catppuccin Icons are you using?
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Zed Version and System Specs
+      description: 'Open Zed, and in the command palette select "zed: Copy System Specs Into Clipboard"'
+      placeholder: |
+        Output of "zed: Copy System Specs Into Clipboard"
+    validations:
+      required: true
