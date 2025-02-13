@@ -20,7 +20,7 @@ alias publish := deploy
 [doc('git push tag to trigger PR request to zed-industries/extensions')]
 [confirm]
 @deploy tag:
-    git tag -s {{ tag }}
+    git tag -s {{ tag }} -m {{ tag }}
     git push --tags
     gh release create {{ tag }} --generate-notes --draft
 
