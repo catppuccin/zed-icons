@@ -9,8 +9,8 @@ body:
       value: |
         <!-- Please insert a one line summary of the issue below -->
 
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     attributes:
       label: Extension version
