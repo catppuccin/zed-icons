@@ -1,6 +1,6 @@
 id = "catppuccin-icons"
 name = "Catppuccin Icons"
-version = "1.17.2"
+version = "1.17.3"
 schema_version = 1
 authors = ["Catppuccin <releases@catppuccin.dev>"]
 description = "🦊 Soothing pastel icons for Zed"
