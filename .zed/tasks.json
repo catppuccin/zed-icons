@@ -1,26 +1,10 @@
 [
   {
-    "label": "Build JSON Templates",
-    "command": "whiskers zed-icons.tera"
+    "label": "Build catppuccin-icons.json",
+    "command": "just build"
   },
   {
-    "label": "Clean JSON Templates",
-    "command": "rm icon_themes/*.json"
-  },
-  {
-    "label": "Init Submodule",
-    "command": "git submodule update --init --recursive"
-  },
-  {
-    "label": "Build Icons",
-    "command": "uv run python src/generate.py"
-  },
-  {
-    "label": "Test All Icons",
-    "command": "uv run python src/test.py"
-  },
-  {
-    "label": "Test & Validate Defined Icons",
-    "command": "uv run src/test.py --validate"
+    "label": "Setup Project",
+    "command": "just setup"
   }
 ]

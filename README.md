@@ -43,23 +43,30 @@
 
 ## Development
 
+<details>
+
 ### JSON Template Generation
 
-Install [Whiskers](https://github.com/catppuccin/whiskers), Catppuccin's in-house theme generator, to build and test themes locally.
+There are 2 templating "engines" used to generate the final Zed icon theme.
 
-Once installed, run `whiskers zed.tera` to generate all JSON definitions in the `icon_themes/` directory.
+[`zed-icons.tmpl`](src/zed-icons.tmpl) (ground truth)
+-> [`zed-icons.tera`](src/zed-icons.tera) -> [`catppuccin-icons.json`](icon_themes/catppuccin-icons.json)
 
-### Icon Generation
+Get started by installing the following:
 
-1. Pull icons using [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) submodule.
-2. Install [uv](https://docs.astral.sh/uv/getting-started/installation/).
+1. [Whiskers](https://github.com/catppuccin/whiskers), Catppuccin's in-house theme generator, to build and test themes locally.
+2. [Deno](https://docs.deno.com/runtime/getting_started/installation/), zero-config runtime for typescript
+used to easily pull `vscode-icons`'s [`fileIcons.ts`](src/vscode-icons/src/defaults/fileIcons.ts) definitions.
+3. [Just](https://just.systems/man/en/packages.html), a simple command line runner.
+
+Once installed, run the following to initialize the project & generate all JSON definitions in the `icon_themes/` directory.
 
 ```bash
-git submodule update --init --recursive
-uv sync
-uv run ./src/generate.py
-# uv run ./src/test.py --validate
+just setup
+just build
 ```
+
+</details>
 
 ### Publishing to the Marketplace
 
