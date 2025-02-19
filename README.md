@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/tecandrew/catppuccin-zed-icons/stargazers"><img src="https://img.shields.io/github/stars/tecandrew/catppuccin-zed-icons?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/tecandrew/catppuccin-zed-icons/issues"><img src="https://img.shields.io/github/issues/tecandrew/catppuccin-zed-icons?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/tecandrew/catppuccin-zed-icons/contributors"><img src="https://img.shields.io/github/contributors/tecandrew/catppuccin-zed-icons?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/zed-icons/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/zed-icons?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/zed-icons/issues"><img src="https://img.shields.io/github/issues/catppuccin/zed-icons?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/zed-icons/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/zed-icons?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
