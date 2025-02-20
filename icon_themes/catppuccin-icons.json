@@ -2002,7 +2002,11 @@
         "zap": { "path": "./icons/latte/zap.svg" },
         "zig": { "path": "./icons/latte/zig.svg" },
         "default": { "path": "./icons/latte/_file.svg" },
-        "metal": { "path": "./icons/latte/apple.svg" }
+        "metal": { "path": "./icons/latte/apple.svg" },
+        "vcs": { "path": "./icons/latte/git.svg" },
+        "settings": { "path": "./icons/latte/properties.svg" },
+        "storage": { "path": "./icons/latte/database.svg" },
+        "document": { "path": "./icons/latte/text.svg" }
       }
     },
     {
@@ -4004,7 +4008,11 @@
         "zap": { "path": "./icons/frappe/zap.svg" },
         "zig": { "path": "./icons/frappe/zig.svg" },
         "default": { "path": "./icons/frappe/_file.svg" },
-        "metal": { "path": "./icons/frappe/apple.svg" }
+        "metal": { "path": "./icons/frappe/apple.svg" },
+        "vcs": { "path": "./icons/frappe/git.svg" },
+        "settings": { "path": "./icons/frappe/properties.svg" },
+        "storage": { "path": "./icons/frappe/database.svg" },
+        "document": { "path": "./icons/frappe/text.svg" }
       }
     },
     {
@@ -6006,7 +6014,11 @@
         "zap": { "path": "./icons/macchiato/zap.svg" },
         "zig": { "path": "./icons/macchiato/zig.svg" },
         "default": { "path": "./icons/macchiato/_file.svg" },
-        "metal": { "path": "./icons/macchiato/apple.svg" }
+        "metal": { "path": "./icons/macchiato/apple.svg" },
+        "vcs": { "path": "./icons/macchiato/git.svg" },
+        "settings": { "path": "./icons/macchiato/properties.svg" },
+        "storage": { "path": "./icons/macchiato/database.svg" },
+        "document": { "path": "./icons/macchiato/text.svg" }
       }
     },
     {
@@ -8008,7 +8020,11 @@
         "zap": { "path": "./icons/mocha/zap.svg" },
         "zig": { "path": "./icons/mocha/zig.svg" },
         "default": { "path": "./icons/mocha/_file.svg" },
-        "metal": { "path": "./icons/mocha/apple.svg" }
+        "metal": { "path": "./icons/mocha/apple.svg" },
+        "vcs": { "path": "./icons/mocha/git.svg" },
+        "settings": { "path": "./icons/mocha/properties.svg" },
+        "storage": { "path": "./icons/mocha/database.svg" },
+        "document": { "path": "./icons/mocha/text.svg" }
       }
     }
   ]

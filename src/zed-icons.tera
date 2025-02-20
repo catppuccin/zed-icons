@@ -2008,7 +2008,11 @@ whiskers:
         "zap": { "path": "./icons/{{ flavor.identifier }}/zap.svg" },
         "zig": { "path": "./icons/{{ flavor.identifier }}/zig.svg" },
         "default": { "path": "./icons/{{ flavor.identifier }}/_file.svg" },
-        "metal": { "path": "./icons/{{ flavor.identifier }}/apple.svg" }
+        "metal": { "path": "./icons/{{ flavor.identifier }}/apple.svg" },
+        "vcs": { "path": "./icons/{{ flavor.identifier }}/git.svg" },
+        "settings": { "path": "./icons/{{ flavor.identifier }}/properties.svg" },
+        "storage": { "path": "./icons/{{ flavor.identifier }}/database.svg" },
+        "document": { "path": "./icons/{{ flavor.identifier }}/text.svg" }
       }
     }{% if not loop.last %},{% endif -%}
   {% endfor %}
