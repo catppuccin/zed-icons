@@ -26,9 +26,9 @@ jobs:
 
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
-        if: ${{ steps.submodules.outputs['vscode-icons--updated'] }}
+        if: ${{ steps.submodules.outputs['src/vscode-icons--updated'] }}
         with:
-          commit-message: "feat: update catppuccin/vscode-icons to ${{ steps.submodules.outputs['vscode-icons--latestTag'] }}"
-          branch: "feat/update-vscode-icons-${{ steps.submodules.outputs['vscode-icons--latestTag'] }}"
-          title: "feat: update catppuccin/vscode-icons submodule to ${{ steps.submodules.outputs['vscode-icons--latestTag'] }}"
+          commit-message: "feat: update catppuccin/vscode-icons to ${{ steps.submodules.outputs['src/vscode-icons--latestTag'] }}"
+          branch: "feat/update-vscode-icons-${{ steps.submodules.outputs['src/vscode-icons--latestTag'] }}"
+          title: "feat: update catppuccin/vscode-icons submodule to ${{ steps.submodules.outputs['src/vscode-icons--latestTag'] }}"
           body: ${{ steps.submodules.outputs.prBody }}
