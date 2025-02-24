@@ -18,7 +18,8 @@
         "LICENSE": "license",
         "README": "readme",
         "Makefile": "makefile",
-        "Caddyfile": "caddy"
+        "Caddyfile": "caddy",
+        "Dockerfile": "docker"
       },
       "file_suffixes": { 
         "aep": "adobe-ae",
@@ -2027,7 +2028,8 @@
         "LICENSE": "license",
         "README": "readme",
         "Makefile": "makefile",
-        "Caddyfile": "caddy"
+        "Caddyfile": "caddy",
+        "Dockerfile": "docker"
       },
       "file_suffixes": { 
         "aep": "adobe-ae",
@@ -4036,7 +4038,8 @@
         "LICENSE": "license",
         "README": "readme",
         "Makefile": "makefile",
-        "Caddyfile": "caddy"
+        "Caddyfile": "caddy",
+        "Dockerfile": "docker"
       },
       "file_suffixes": { 
         "aep": "adobe-ae",
@@ -6045,7 +6048,8 @@
         "LICENSE": "license",
         "README": "readme",
         "Makefile": "makefile",
-        "Caddyfile": "caddy"
+        "Caddyfile": "caddy",
+        "Dockerfile": "docker"
       },
       "file_suffixes": { 
         "aep": "adobe-ae",
