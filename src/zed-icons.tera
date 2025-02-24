@@ -24,7 +24,8 @@ whiskers:
         "LICENSE": "license",
         "README": "readme",
         "Makefile": "makefile",
-        "Caddyfile": "caddy"
+        "Caddyfile": "caddy",
+        "Dockerfile": "docker"
       },
       "file_suffixes": { 
         "aep": "adobe-ae",
@@ -174,6 +175,7 @@ whiskers:
         "bower.json": "bower",
         "browserslist": "browserslist",
         ".browserslistrc": "browserslist",
+        "bun.lock": "bun-lock",
         "bun.lockb": "bun-lock",
         "bunfig.toml": "bun",
         "h": "c-header",
@@ -1078,6 +1080,8 @@ whiskers:
         "pyd": "python-compiled",
         "pyproject.toml": "python-config",
         "requirements.txt": "python-config",
+        "requirements-dev.txt": "python-config",
+        "requirements-test.txt": "python-config",
         ".python-version": "python-config",
         "py": "python",
         ".Rhistory": "r",
