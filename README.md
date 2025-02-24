@@ -12,7 +12,11 @@
 </p>
 
 <p align="center">
-	<img src="assets/catwalk.webp"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/v1.18.0/assets/catwalk.webp"/>
+</p>
+
+<p align="center">
+	<img src="assets/preview.webp"/>
 </p>
 
 ## Previews
