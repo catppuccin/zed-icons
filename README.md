@@ -15,23 +15,27 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/v1.18.0/assets/catwalk.webp"/>
 </p>
 
+<p align="center">
+	<img src="assets/preview.webp"/>
+</p>
+
 ## Previews
 
 <details>
 <summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/v1.18.0/assets/latte.webp"/>
+<img src="assets/latte.webp"/>
 </details>
 <details>
 <summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/v1.18.0/assets/frappe.webp"/>
+<img src="assets/frappe.webp"/>
 </details>
 <details>
 <summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/v1.18.0/assets/macchiato.webp"/>
+<img src="assets/macchiato.webp"/>
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/vscode-icons/v1.18.0/assets/mocha.webp"/>
+<img src="assets/mocha.webp"/>
 </details>
 
 ## Usage
