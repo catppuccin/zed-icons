@@ -49,19 +49,13 @@
 
 <details>
 
-### JSON Template Generation
-
-There are 2 templating "engines" used to generate the final Zed icon theme.
-
-[`zed-icons.tmpl`](src/zed-icons.tmpl) (ground truth)
--> [`zed-icons.tera`](src/zed-icons.tera) -> [`catppuccin-icons.json`](icon_themes/catppuccin-icons.json)
+### Theme Generation
 
 Get started by installing the following:
 
-1. [Whiskers](https://github.com/catppuccin/whiskers), Catppuccin's in-house theme generator, to build and test themes locally.
-2. [Deno](https://docs.deno.com/runtime/getting_started/installation/), zero-config runtime for typescript
+1. [deno](https://docs.deno.com/runtime/getting_started/installation/), zero-config runtime for typescript
 used to easily pull `vscode-icons`'s [`fileIcons.ts`](src/vscode-icons/src/defaults/fileIcons.ts) definitions.
-3. [Just](https://just.systems/man/en/packages.html), a simple command line runner.
+2. [just](https://just.systems/man/en/packages.html), a simple command line runner.
 
 Once installed, run the following to initialize the project & generate all JSON definitions in the `icon_themes/` directory.
 
