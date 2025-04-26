@@ -1,4 +1,5 @@
-default: setup build
+default:
+    just --list
 
 alias i := setup
 alias init := setup
