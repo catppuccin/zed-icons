@@ -1,5 +1,8 @@
 {
   "tasks": {
-    "run": "deno run --allow-read --allow-write generate.ts"
+    "run": "deno run --allow-read --allow-write build.ts"
+  },
+  "imports": {
+    "@catppuccin/palette": "jsr:@catppuccin/palette@^1.7.1"
   }
 }

@@ -12,7 +12,6 @@ alias init := setup
 [working-directory: 'src']
 @build:
     deno task run
-    whiskers zed-icons.tera
     echo "-- OK - Built 'icon_themes/catppuccin-icons.json'"
 
 alias publish := deploy

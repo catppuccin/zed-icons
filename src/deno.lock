@@ -1,0 +1,22 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@catppuccin/palette@^1.7.1": "1.7.1",
+    "npm:jquery@*": "3.7.1"
+  },
+  "jsr": {
+    "@catppuccin/palette@1.7.1": {
+      "integrity": "91238ec1bb04420196f27422ec75bc53aaece6d4896628f053aa8335502316f1"
+    }
+  },
+  "npm": {
+    "jquery@3.7.1": {
+      "integrity": "sha512-m4avr8yL8kmFN8psrbFFFmB/If14iN5o9nw/NgnnM+kybDJpRsAynV2BsfpTYrTRysYUdADVD7CkUUizgkpLfg=="
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@catppuccin/palette@^1.7.1"
+    ]
+  }
+}
