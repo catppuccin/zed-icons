@@ -64,22 +64,19 @@ function createDirectoryIcons(flvr: string) {
   };
 }
 
-flavorEntries.map(([_, flavor]) => {
-
-  const flvr = flavor.name.replace('é', 'e').toLowerCase();
-  // console.log(`-- Generating paths for ${flavor.name} (${flvr})`)
+flavorEntries.map(([id, flavor]) => {
 
   flavorProperties["name"] = `Catppuccin ${flavor.name}`
   flavorProperties["appearance"] = `${flavor.dark ? "dark" : "light"}`;
-  const directoryIconsEntries = createDirectoryIcons(flvr);
+  const directoryIconsEntries = createDirectoryIcons(id);
 
   for (const [vsCodeFileIcons_key, _] of Object.entries(fileIcons)) {
 
     if (!fileIconEntries.hasOwnProperty(vsCodeFileIcons_key)) {
-      fileIconEntries["file_icons"][vsCodeFileIcons_key] = { "path": `./icons/${flvr}/${vsCodeFileIcons_key}.svg` };
+      fileIconEntries["file_icons"][vsCodeFileIcons_key] = { "path": `./icons/${id}/${vsCodeFileIcons_key}.svg` };
     } else {
       // console.warn(`-- Key '${"file_icons"}' already exists, appending anyway...`);
-      fileIconEntries["file_icons"][vsCodeFileIcons_key] = { "path": `./icons/${flvr}/${vsCodeFileIcons_key}.svg` };
+      fileIconEntries["file_icons"][vsCodeFileIcons_key] = { "path": `./icons/${id}/${vsCodeFileIcons_key}.svg` };
     }
   }
 
