@@ -13,7 +13,6 @@ alias init := setup
 [working-directory: 'src']
 @build:
     deno task run
-    echo "-- OK - Built 'icon_themes/catppuccin-icons.json'"
 
 alias publish := deploy
 [doc('git push tag to trigger PR request to zed-industries/extensions')]

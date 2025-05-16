@@ -64,7 +64,7 @@ function createDirectoryIcons(flvr: string) {
   };
 }
 
-flavorEntries.map(([id, flavor]) => {
+const themes = flavorEntries.map(([id, flavor]) => {
 
   flavorProperties["name"] = `Catppuccin ${flavor.name}`
   flavorProperties["appearance"] = `${flavor.dark ? "dark" : "light"}`;
@@ -80,9 +80,10 @@ flavorEntries.map(([id, flavor]) => {
     }
   }
 
-  THEME = { ...flavorProperties, ...directoryIconsEntries, ...THEME_OVERRIDES, ...suffixEntries, ...fileIconEntries };
-  ZED_THEME.themes.push(THEME);
+  return { ...flavorProperties, ...directoryIconsEntries, ...THEME_OVERRIDES, ...suffixEntries, ...fileIconEntries };
 });
+
+ZED_THEME.themes.push(...themes);
 
 // stage 3: create final theme
 const ZED_THEME_JSON = JSON.stringify(ZED_THEME, null, 2);
