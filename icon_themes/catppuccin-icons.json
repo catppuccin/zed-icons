@@ -1686,1018 +1686,1024 @@
       },
       "file_icons": {
         "adobe-ae": {
-          "path": "./icons/mocha/adobe-ae.svg"
+          "path": "./icons/latte/adobe-ae.svg"
         },
         "adobe-ai": {
-          "path": "./icons/mocha/adobe-ai.svg"
+          "path": "./icons/latte/adobe-ai.svg"
         },
         "adobe-id": {
-          "path": "./icons/mocha/adobe-id.svg"
+          "path": "./icons/latte/adobe-id.svg"
         },
         "adobe-ps": {
-          "path": "./icons/mocha/adobe-ps.svg"
+          "path": "./icons/latte/adobe-ps.svg"
         },
         "adobe-xd": {
-          "path": "./icons/mocha/adobe-xd.svg"
+          "path": "./icons/latte/adobe-xd.svg"
         },
         "adonis": {
-          "path": "./icons/mocha/adonis.svg"
+          "path": "./icons/latte/adonis.svg"
         },
         "alex": {
-          "path": "./icons/mocha/alex.svg"
+          "path": "./icons/latte/alex.svg"
         },
         "amber": {
-          "path": "./icons/mocha/amber.svg"
+          "path": "./icons/latte/amber.svg"
         },
         "android": {
-          "path": "./icons/mocha/android.svg"
+          "path": "./icons/latte/android.svg"
         },
         "angular": {
-          "path": "./icons/mocha/angular.svg"
+          "path": "./icons/latte/angular.svg"
         },
         "ansible-lint": {
-          "path": "./icons/mocha/ansible-lint.svg"
+          "path": "./icons/latte/ansible-lint.svg"
         },
         "antlr": {
-          "path": "./icons/mocha/antlr.svg"
+          "path": "./icons/latte/antlr.svg"
         },
         "apache": {
-          "path": "./icons/mocha/apache.svg"
+          "path": "./icons/latte/apache.svg"
         },
         "api-blueprint": {
-          "path": "./icons/mocha/api-blueprint.svg"
+          "path": "./icons/latte/api-blueprint.svg"
         },
         "apollo": {
-          "path": "./icons/mocha/apollo.svg"
+          "path": "./icons/latte/apollo.svg"
         },
         "apple": {
-          "path": "./icons/mocha/apple.svg"
+          "path": "./icons/latte/apple.svg"
         },
         "asciidoc": {
-          "path": "./icons/mocha/asciidoc.svg"
+          "path": "./icons/latte/asciidoc.svg"
         },
         "assembly": {
-          "path": "./icons/mocha/assembly.svg"
+          "path": "./icons/latte/assembly.svg"
         },
         "astro-config": {
-          "path": "./icons/mocha/astro-config.svg"
+          "path": "./icons/latte/astro-config.svg"
         },
         "astro": {
-          "path": "./icons/mocha/astro.svg"
+          "path": "./icons/latte/astro.svg"
         },
         "audio": {
-          "path": "./icons/mocha/audio.svg"
+          "path": "./icons/latte/audio.svg"
         },
         "autohotkey": {
-          "path": "./icons/mocha/autohotkey.svg"
+          "path": "./icons/latte/autohotkey.svg"
         },
         "azure-pipelines": {
-          "path": "./icons/mocha/azure-pipelines.svg"
+          "path": "./icons/latte/azure-pipelines.svg"
         },
         "babel": {
-          "path": "./icons/mocha/babel.svg"
+          "path": "./icons/latte/babel.svg"
         },
         "bash": {
-          "path": "./icons/mocha/bash.svg"
+          "path": "./icons/latte/bash.svg"
         },
         "batch": {
-          "path": "./icons/mocha/batch.svg"
+          "path": "./icons/latte/batch.svg"
         },
         "bazel": {
-          "path": "./icons/mocha/bazel.svg"
+          "path": "./icons/latte/bazel.svg"
         },
         "benchmark": {
-          "path": "./icons/mocha/benchmark.svg"
+          "path": "./icons/latte/benchmark.svg"
         },
         "binary": {
-          "path": "./icons/mocha/binary.svg"
+          "path": "./icons/latte/binary.svg"
         },
         "biome": {
-          "path": "./icons/mocha/biome.svg"
+          "path": "./icons/latte/biome.svg"
         },
         "bitbucket": {
-          "path": "./icons/mocha/bitbucket.svg"
+          "path": "./icons/latte/bitbucket.svg"
         },
         "blitz": {
-          "path": "./icons/mocha/blitz.svg"
+          "path": "./icons/latte/blitz.svg"
         },
         "bower": {
-          "path": "./icons/mocha/bower.svg"
+          "path": "./icons/latte/bower.svg"
         },
         "browserslist": {
-          "path": "./icons/mocha/browserslist.svg"
+          "path": "./icons/latte/browserslist.svg"
         },
         "bun-lock": {
-          "path": "./icons/mocha/bun-lock.svg"
+          "path": "./icons/latte/bun-lock.svg"
         },
         "bun": {
-          "path": "./icons/mocha/bun.svg"
+          "path": "./icons/latte/bun.svg"
         },
         "c-header": {
-          "path": "./icons/mocha/c-header.svg"
+          "path": "./icons/latte/c-header.svg"
         },
         "c": {
-          "path": "./icons/mocha/c.svg"
+          "path": "./icons/latte/c.svg"
         },
         "cabal": {
-          "path": "./icons/mocha/cabal.svg"
+          "path": "./icons/latte/cabal.svg"
         },
         "caddy": {
-          "path": "./icons/mocha/caddy.svg"
+          "path": "./icons/latte/caddy.svg"
         },
         "capacitor": {
-          "path": "./icons/mocha/capacitor.svg"
+          "path": "./icons/latte/capacitor.svg"
         },
         "cargo-lock": {
-          "path": "./icons/mocha/cargo-lock.svg"
+          "path": "./icons/latte/cargo-lock.svg"
         },
         "cargo": {
-          "path": "./icons/mocha/cargo.svg"
+          "path": "./icons/latte/cargo.svg"
         },
         "certificate": {
-          "path": "./icons/mocha/certificate.svg"
+          "path": "./icons/latte/certificate.svg"
         },
         "changelog": {
-          "path": "./icons/mocha/changelog.svg"
+          "path": "./icons/latte/changelog.svg"
         },
         "circle-ci": {
-          "path": "./icons/mocha/circle-ci.svg"
+          "path": "./icons/latte/circle-ci.svg"
         },
         "clojure": {
-          "path": "./icons/mocha/clojure.svg"
+          "path": "./icons/latte/clojure.svg"
         },
         "cmake": {
-          "path": "./icons/mocha/cmake.svg"
+          "path": "./icons/latte/cmake.svg"
         },
         "cobol": {
-          "path": "./icons/mocha/cobol.svg"
+          "path": "./icons/latte/cobol.svg"
         },
         "code-climate": {
-          "path": "./icons/mocha/code-climate.svg"
+          "path": "./icons/latte/code-climate.svg"
         },
         "code-of-conduct": {
-          "path": "./icons/mocha/code-of-conduct.svg"
+          "path": "./icons/latte/code-of-conduct.svg"
         },
         "codeowners": {
-          "path": "./icons/mocha/codeowners.svg"
+          "path": "./icons/latte/codeowners.svg"
         },
         "coffeescript": {
-          "path": "./icons/mocha/coffeescript.svg"
+          "path": "./icons/latte/coffeescript.svg"
         },
         "commitlint": {
-          "path": "./icons/mocha/commitlint.svg"
+          "path": "./icons/latte/commitlint.svg"
         },
         "contributing": {
-          "path": "./icons/mocha/contributing.svg"
+          "path": "./icons/latte/contributing.svg"
         },
         "cpp-header": {
-          "path": "./icons/mocha/cpp-header.svg"
+          "path": "./icons/latte/cpp-header.svg"
         },
         "cpp": {
-          "path": "./icons/mocha/cpp.svg"
+          "path": "./icons/latte/cpp.svg"
         },
         "csharp": {
-          "path": "./icons/mocha/csharp.svg"
+          "path": "./icons/latte/csharp.svg"
         },
         "cspell": {
-          "path": "./icons/mocha/cspell.svg"
+          "path": "./icons/latte/cspell.svg"
         },
         "css-map": {
-          "path": "./icons/mocha/css-map.svg"
+          "path": "./icons/latte/css-map.svg"
         },
         "css": {
-          "path": "./icons/mocha/css.svg"
+          "path": "./icons/latte/css.svg"
         },
         "csv": {
-          "path": "./icons/mocha/csv.svg"
+          "path": "./icons/latte/csv.svg"
         },
         "cucumber": {
-          "path": "./icons/mocha/cucumber.svg"
+          "path": "./icons/latte/cucumber.svg"
         },
         "cuda": {
-          "path": "./icons/mocha/cuda.svg"
+          "path": "./icons/latte/cuda.svg"
         },
         "cypress": {
-          "path": "./icons/mocha/cypress.svg"
+          "path": "./icons/latte/cypress.svg"
         },
         "d": {
-          "path": "./icons/mocha/d.svg"
+          "path": "./icons/latte/d.svg"
         },
         "dart-generated": {
-          "path": "./icons/mocha/dart-generated.svg"
+          "path": "./icons/latte/dart-generated.svg"
         },
         "dart": {
-          "path": "./icons/mocha/dart.svg"
+          "path": "./icons/latte/dart.svg"
         },
         "database": {
-          "path": "./icons/mocha/database.svg"
+          "path": "./icons/latte/database.svg"
         },
         "deno_lock": {
-          "path": "./icons/mocha/deno_lock.svg"
+          "path": "./icons/latte/deno_lock.svg"
         },
         "deno": {
-          "path": "./icons/mocha/deno.svg"
+          "path": "./icons/latte/deno.svg"
         },
         "dependabot": {
-          "path": "./icons/mocha/dependabot.svg"
+          "path": "./icons/latte/dependabot.svg"
         },
         "devcontainer": {
-          "path": "./icons/mocha/devcontainer.svg"
+          "path": "./icons/latte/devcontainer.svg"
         },
         "dhall": {
-          "path": "./icons/mocha/dhall.svg"
+          "path": "./icons/latte/dhall.svg"
         },
         "diff": {
-          "path": "./icons/mocha/diff.svg"
+          "path": "./icons/latte/diff.svg"
         },
         "django": {
-          "path": "./icons/mocha/django.svg"
+          "path": "./icons/latte/django.svg"
         },
         "docker-compose": {
-          "path": "./icons/mocha/docker-compose.svg"
+          "path": "./icons/latte/docker-compose.svg"
         },
         "docker-ignore": {
-          "path": "./icons/mocha/docker-ignore.svg"
+          "path": "./icons/latte/docker-ignore.svg"
         },
         "docker": {
-          "path": "./icons/mocha/docker.svg"
+          "path": "./icons/latte/docker.svg"
         },
         "drawio": {
-          "path": "./icons/mocha/drawio.svg"
+          "path": "./icons/latte/drawio.svg"
         },
         "drizzle-orm": {
-          "path": "./icons/mocha/drizzle-orm.svg"
+          "path": "./icons/latte/drizzle-orm.svg"
         },
         "dub-selections": {
-          "path": "./icons/mocha/dub-selections.svg"
+          "path": "./icons/latte/dub-selections.svg"
         },
         "dub": {
-          "path": "./icons/mocha/dub.svg"
+          "path": "./icons/latte/dub.svg"
         },
         "editorconfig": {
-          "path": "./icons/mocha/editorconfig.svg"
+          "path": "./icons/latte/editorconfig.svg"
         },
         "ejs": {
-          "path": "./icons/mocha/ejs.svg"
+          "path": "./icons/latte/ejs.svg"
         },
         "eleventy": {
-          "path": "./icons/mocha/eleventy.svg"
+          "path": "./icons/latte/eleventy.svg"
         },
         "elixir": {
-          "path": "./icons/mocha/elixir.svg"
+          "path": "./icons/latte/elixir.svg"
         },
         "elm": {
-          "path": "./icons/mocha/elm.svg"
+          "path": "./icons/latte/elm.svg"
         },
         "ember": {
-          "path": "./icons/mocha/ember.svg"
+          "path": "./icons/latte/ember.svg"
         },
         "env": {
-          "path": "./icons/mocha/env.svg"
+          "path": "./icons/latte/env.svg"
         },
         "envrc": {
-          "path": "./icons/mocha/envrc.svg"
+          "path": "./icons/latte/envrc.svg"
         },
         "erlang": {
-          "path": "./icons/mocha/erlang.svg"
+          "path": "./icons/latte/erlang.svg"
         },
         "esbuild": {
-          "path": "./icons/mocha/esbuild.svg"
+          "path": "./icons/latte/esbuild.svg"
         },
         "eslint-ignore": {
-          "path": "./icons/mocha/eslint-ignore.svg"
+          "path": "./icons/latte/eslint-ignore.svg"
         },
         "eslint": {
-          "path": "./icons/mocha/eslint.svg"
+          "path": "./icons/latte/eslint.svg"
         },
         "exe": {
-          "path": "./icons/mocha/exe.svg"
+          "path": "./icons/latte/exe.svg"
         },
         "fastlane": {
-          "path": "./icons/mocha/fastlane.svg"
+          "path": "./icons/latte/fastlane.svg"
         },
         "favicon": {
-          "path": "./icons/mocha/favicon.svg"
+          "path": "./icons/latte/favicon.svg"
         },
         "figma": {
-          "path": "./icons/mocha/figma.svg"
+          "path": "./icons/latte/figma.svg"
         },
         "firebase": {
-          "path": "./icons/mocha/firebase.svg"
+          "path": "./icons/latte/firebase.svg"
         },
         "flutter": {
-          "path": "./icons/mocha/flutter.svg"
+          "path": "./icons/latte/flutter.svg"
         },
         "font": {
-          "path": "./icons/mocha/font.svg"
+          "path": "./icons/latte/font.svg"
         },
         "fortran": {
-          "path": "./icons/mocha/fortran.svg"
+          "path": "./icons/latte/fortran.svg"
         },
         "fsharp": {
-          "path": "./icons/mocha/fsharp.svg"
+          "path": "./icons/latte/fsharp.svg"
         },
         "fvm": {
-          "path": "./icons/mocha/fvm.svg"
+          "path": "./icons/latte/fvm.svg"
         },
         "gatsby": {
-          "path": "./icons/mocha/gatsby.svg"
+          "path": "./icons/latte/gatsby.svg"
         },
         "gcp": {
-          "path": "./icons/mocha/gcp.svg"
+          "path": "./icons/latte/gcp.svg"
         },
         "git-cliff": {
-          "path": "./icons/mocha/git-cliff.svg"
+          "path": "./icons/latte/git-cliff.svg"
         },
         "git": {
-          "path": "./icons/mocha/git.svg"
+          "path": "./icons/latte/git.svg"
         },
         "gitlab": {
-          "path": "./icons/mocha/gitlab.svg"
+          "path": "./icons/latte/gitlab.svg"
         },
         "gitpod": {
-          "path": "./icons/mocha/gitpod.svg"
+          "path": "./icons/latte/gitpod.svg"
         },
         "gleam-config": {
-          "path": "./icons/mocha/gleam-config.svg"
+          "path": "./icons/latte/gleam-config.svg"
         },
         "gleam": {
-          "path": "./icons/mocha/gleam.svg"
+          "path": "./icons/latte/gleam.svg"
         },
         "go-mod": {
-          "path": "./icons/mocha/go-mod.svg"
+          "path": "./icons/latte/go-mod.svg"
         },
         "go-template": {
-          "path": "./icons/mocha/go-template.svg"
+          "path": "./icons/latte/go-template.svg"
         },
         "go": {
-          "path": "./icons/mocha/go.svg"
+          "path": "./icons/latte/go.svg"
         },
         "godot-assets": {
-          "path": "./icons/mocha/godot-assets.svg"
+          "path": "./icons/latte/godot-assets.svg"
         },
         "godot": {
-          "path": "./icons/mocha/godot.svg"
+          "path": "./icons/latte/godot.svg"
         },
         "gradle": {
-          "path": "./icons/mocha/gradle.svg"
+          "path": "./icons/latte/gradle.svg"
         },
         "graphql": {
-          "path": "./icons/mocha/graphql.svg"
+          "path": "./icons/latte/graphql.svg"
         },
         "groovy": {
-          "path": "./icons/mocha/groovy.svg"
+          "path": "./icons/latte/groovy.svg"
         },
         "gulp": {
-          "path": "./icons/mocha/gulp.svg"
+          "path": "./icons/latte/gulp.svg"
         },
         "haml": {
-          "path": "./icons/mocha/haml.svg"
+          "path": "./icons/latte/haml.svg"
         },
         "handlebars": {
-          "path": "./icons/mocha/handlebars.svg"
+          "path": "./icons/latte/handlebars.svg"
         },
         "hardhat": {
-          "path": "./icons/mocha/hardhat.svg"
+          "path": "./icons/latte/hardhat.svg"
         },
         "haskell": {
-          "path": "./icons/mocha/haskell.svg"
+          "path": "./icons/latte/haskell.svg"
         },
         "haxe": {
-          "path": "./icons/mocha/haxe.svg"
+          "path": "./icons/latte/haxe.svg"
         },
         "helm": {
-          "path": "./icons/mocha/helm.svg"
+          "path": "./icons/latte/helm.svg"
         },
         "heroku": {
-          "path": "./icons/mocha/heroku.svg"
+          "path": "./icons/latte/heroku.svg"
         },
         "histoire": {
-          "path": "./icons/mocha/histoire.svg"
+          "path": "./icons/latte/histoire.svg"
         },
         "html": {
-          "path": "./icons/mocha/html.svg"
+          "path": "./icons/latte/html.svg"
         },
         "http": {
-          "path": "./icons/mocha/http.svg"
+          "path": "./icons/latte/http.svg"
         },
         "huff": {
-          "path": "./icons/mocha/huff.svg"
+          "path": "./icons/latte/huff.svg"
         },
         "hugo": {
-          "path": "./icons/mocha/hugo.svg"
+          "path": "./icons/latte/hugo.svg"
         },
         "humans": {
-          "path": "./icons/mocha/humans.svg"
+          "path": "./icons/latte/humans.svg"
         },
         "husky": {
-          "path": "./icons/mocha/husky.svg"
+          "path": "./icons/latte/husky.svg"
         },
         "image": {
-          "path": "./icons/mocha/image.svg"
+          "path": "./icons/latte/image.svg"
         },
         "ionic": {
-          "path": "./icons/mocha/ionic.svg"
+          "path": "./icons/latte/ionic.svg"
         },
         "java-class": {
-          "path": "./icons/mocha/java-class.svg"
+          "path": "./icons/latte/java-class.svg"
         },
         "java-jar": {
-          "path": "./icons/mocha/java-jar.svg"
+          "path": "./icons/latte/java-jar.svg"
         },
         "java": {
-          "path": "./icons/mocha/java.svg"
+          "path": "./icons/latte/java.svg"
         },
         "javascript-config": {
-          "path": "./icons/mocha/javascript-config.svg"
+          "path": "./icons/latte/javascript-config.svg"
         },
         "javascript-map": {
-          "path": "./icons/mocha/javascript-map.svg"
+          "path": "./icons/latte/javascript-map.svg"
         },
         "javascript-react": {
-          "path": "./icons/mocha/javascript-react.svg"
+          "path": "./icons/latte/javascript-react.svg"
         },
         "javascript-test": {
-          "path": "./icons/mocha/javascript-test.svg"
+          "path": "./icons/latte/javascript-test.svg"
         },
         "javascript": {
-          "path": "./icons/mocha/javascript.svg"
+          "path": "./icons/latte/javascript.svg"
         },
         "jest": {
-          "path": "./icons/mocha/jest.svg"
+          "path": "./icons/latte/jest.svg"
         },
         "jinja": {
-          "path": "./icons/mocha/jinja.svg"
+          "path": "./icons/latte/jinja.svg"
         },
         "json-schema": {
-          "path": "./icons/mocha/json-schema.svg"
+          "path": "./icons/latte/json-schema.svg"
         },
         "json": {
-          "path": "./icons/mocha/json.svg"
+          "path": "./icons/latte/json.svg"
         },
         "juce": {
-          "path": "./icons/mocha/juce.svg"
+          "path": "./icons/latte/juce.svg"
         },
         "julia": {
-          "path": "./icons/mocha/julia.svg"
+          "path": "./icons/latte/julia.svg"
         },
         "jupyter": {
-          "path": "./icons/mocha/jupyter.svg"
+          "path": "./icons/latte/jupyter.svg"
         },
         "just": {
-          "path": "./icons/mocha/just.svg"
+          "path": "./icons/latte/just.svg"
         },
         "kdl": {
-          "path": "./icons/mocha/kdl.svg"
+          "path": "./icons/latte/kdl.svg"
         },
         "key": {
-          "path": "./icons/mocha/key.svg"
+          "path": "./icons/latte/key.svg"
         },
         "kotlin": {
-          "path": "./icons/mocha/kotlin.svg"
+          "path": "./icons/latte/kotlin.svg"
         },
         "laravel": {
-          "path": "./icons/mocha/laravel.svg"
+          "path": "./icons/latte/laravel.svg"
         },
         "latex": {
-          "path": "./icons/mocha/latex.svg"
+          "path": "./icons/latte/latex.svg"
         },
         "latte": {
-          "path": "./icons/mocha/latte.svg"
+          "path": "./icons/latte/latte.svg"
         },
         "lerna": {
-          "path": "./icons/mocha/lerna.svg"
+          "path": "./icons/latte/lerna.svg"
         },
         "less": {
-          "path": "./icons/mocha/less.svg"
+          "path": "./icons/latte/less.svg"
         },
         "lib": {
-          "path": "./icons/mocha/lib.svg"
+          "path": "./icons/latte/lib.svg"
         },
         "license": {
-          "path": "./icons/mocha/license.svg"
+          "path": "./icons/latte/license.svg"
         },
         "lint-staged": {
-          "path": "./icons/mocha/lint-staged.svg"
+          "path": "./icons/latte/lint-staged.svg"
         },
         "liquid": {
-          "path": "./icons/mocha/liquid.svg"
+          "path": "./icons/latte/liquid.svg"
         },
         "lisp": {
-          "path": "./icons/mocha/lisp.svg"
+          "path": "./icons/latte/lisp.svg"
         },
         "log": {
-          "path": "./icons/mocha/log.svg"
+          "path": "./icons/latte/log.svg"
         },
         "lua": {
-          "path": "./icons/mocha/lua.svg"
+          "path": "./icons/latte/lua.svg"
         },
         "luau": {
-          "path": "./icons/mocha/luau.svg"
+          "path": "./icons/latte/luau.svg"
         },
         "makefile": {
-          "path": "./icons/mocha/makefile.svg"
+          "path": "./icons/latte/makefile.svg"
         },
         "markdown-mdx": {
-          "path": "./icons/mocha/markdown-mdx.svg"
+          "path": "./icons/latte/markdown-mdx.svg"
         },
         "markdown": {
-          "path": "./icons/mocha/markdown.svg"
+          "path": "./icons/latte/markdown.svg"
         },
         "marko": {
-          "path": "./icons/mocha/marko.svg"
+          "path": "./icons/latte/marko.svg"
         },
         "matlab": {
-          "path": "./icons/mocha/matlab.svg"
+          "path": "./icons/latte/matlab.svg"
         },
         "mdbook": {
-          "path": "./icons/mocha/mdbook.svg"
+          "path": "./icons/latte/mdbook.svg"
         },
         "mermaid": {
-          "path": "./icons/mocha/mermaid.svg"
+          "path": "./icons/latte/mermaid.svg"
         },
         "meson": {
-          "path": "./icons/mocha/meson.svg"
+          "path": "./icons/latte/meson.svg"
         },
         "midi": {
-          "path": "./icons/mocha/midi.svg"
+          "path": "./icons/latte/midi.svg"
         },
         "mjml": {
-          "path": "./icons/mocha/mjml.svg"
+          "path": "./icons/latte/mjml.svg"
         },
         "modernizr": {
-          "path": "./icons/mocha/modernizr.svg"
+          "path": "./icons/latte/modernizr.svg"
         },
         "ms-excel": {
-          "path": "./icons/mocha/ms-excel.svg"
+          "path": "./icons/latte/ms-excel.svg"
         },
         "ms-powerpoint": {
-          "path": "./icons/mocha/ms-powerpoint.svg"
+          "path": "./icons/latte/ms-powerpoint.svg"
         },
         "ms-word": {
-          "path": "./icons/mocha/ms-word.svg"
+          "path": "./icons/latte/ms-word.svg"
         },
         "nativescript": {
-          "path": "./icons/mocha/nativescript.svg"
+          "path": "./icons/latte/nativescript.svg"
         },
         "nest": {
-          "path": "./icons/mocha/nest.svg"
+          "path": "./icons/latte/nest.svg"
         },
         "netlify": {
-          "path": "./icons/mocha/netlify.svg"
+          "path": "./icons/latte/netlify.svg"
         },
         "next": {
-          "path": "./icons/mocha/next.svg"
+          "path": "./icons/latte/next.svg"
         },
         "nextflow": {
-          "path": "./icons/mocha/nextflow.svg"
+          "path": "./icons/latte/nextflow.svg"
         },
         "nginx": {
-          "path": "./icons/mocha/nginx.svg"
+          "path": "./icons/latte/nginx.svg"
         },
         "nim": {
-          "path": "./icons/mocha/nim.svg"
+          "path": "./icons/latte/nim.svg"
         },
         "ninja": {
-          "path": "./icons/mocha/ninja.svg"
+          "path": "./icons/latte/ninja.svg"
         },
         "nix-lock": {
-          "path": "./icons/mocha/nix-lock.svg"
+          "path": "./icons/latte/nix-lock.svg"
         },
         "nix": {
-          "path": "./icons/mocha/nix.svg"
+          "path": "./icons/latte/nix.svg"
         },
         "nodemon": {
-          "path": "./icons/mocha/nodemon.svg"
+          "path": "./icons/latte/nodemon.svg"
         },
         "npm-ignore": {
-          "path": "./icons/mocha/npm-ignore.svg"
+          "path": "./icons/latte/npm-ignore.svg"
         },
         "npm-lock": {
-          "path": "./icons/mocha/npm-lock.svg"
+          "path": "./icons/latte/npm-lock.svg"
         },
         "npm": {
-          "path": "./icons/mocha/npm.svg"
+          "path": "./icons/latte/npm.svg"
         },
         "nuget": {
-          "path": "./icons/mocha/nuget.svg"
+          "path": "./icons/latte/nuget.svg"
         },
         "nunjucks": {
-          "path": "./icons/mocha/nunjucks.svg"
+          "path": "./icons/latte/nunjucks.svg"
         },
         "nuxt-ignore": {
-          "path": "./icons/mocha/nuxt-ignore.svg"
+          "path": "./icons/latte/nuxt-ignore.svg"
         },
         "nuxt": {
-          "path": "./icons/mocha/nuxt.svg"
+          "path": "./icons/latte/nuxt.svg"
         },
         "ocaml": {
-          "path": "./icons/mocha/ocaml.svg"
+          "path": "./icons/latte/ocaml.svg"
         },
         "org": {
-          "path": "./icons/mocha/org.svg"
+          "path": "./icons/latte/org.svg"
         },
         "package-json": {
-          "path": "./icons/mocha/package-json.svg"
+          "path": "./icons/latte/package-json.svg"
         },
         "panda-css": {
-          "path": "./icons/mocha/panda-css.svg"
+          "path": "./icons/latte/panda-css.svg"
         },
         "pdf": {
-          "path": "./icons/mocha/pdf.svg"
+          "path": "./icons/latte/pdf.svg"
         },
         "perl": {
-          "path": "./icons/mocha/perl.svg"
+          "path": "./icons/latte/perl.svg"
         },
         "php": {
-          "path": "./icons/mocha/php.svg"
+          "path": "./icons/latte/php.svg"
         },
         "phrase": {
-          "path": "./icons/mocha/phrase.svg"
+          "path": "./icons/latte/phrase.svg"
         },
         "phtml": {
-          "path": "./icons/mocha/phtml.svg"
+          "path": "./icons/latte/phtml.svg"
         },
         "pixi-lock": {
-          "path": "./icons/mocha/pixi-lock.svg"
+          "path": "./icons/latte/pixi-lock.svg"
         },
         "pixi": {
-          "path": "./icons/mocha/pixi.svg"
+          "path": "./icons/latte/pixi.svg"
         },
         "plantuml": {
-          "path": "./icons/mocha/plantuml.svg"
+          "path": "./icons/latte/plantuml.svg"
         },
         "playwright": {
-          "path": "./icons/mocha/playwright.svg"
+          "path": "./icons/latte/playwright.svg"
         },
         "plop": {
-          "path": "./icons/mocha/plop.svg"
+          "path": "./icons/latte/plop.svg"
         },
         "pnpm-lock": {
-          "path": "./icons/mocha/pnpm-lock.svg"
+          "path": "./icons/latte/pnpm-lock.svg"
         },
         "pnpm": {
-          "path": "./icons/mocha/pnpm.svg"
+          "path": "./icons/latte/pnpm.svg"
         },
         "poetry-lock": {
-          "path": "./icons/mocha/poetry-lock.svg"
+          "path": "./icons/latte/poetry-lock.svg"
         },
         "postcss": {
-          "path": "./icons/mocha/postcss.svg"
+          "path": "./icons/latte/postcss.svg"
         },
         "powershell": {
-          "path": "./icons/mocha/powershell.svg"
+          "path": "./icons/latte/powershell.svg"
         },
         "pre-commit": {
-          "path": "./icons/mocha/pre-commit.svg"
+          "path": "./icons/latte/pre-commit.svg"
         },
         "premake": {
-          "path": "./icons/mocha/premake.svg"
+          "path": "./icons/latte/premake.svg"
         },
         "prettier-ignore": {
-          "path": "./icons/mocha/prettier-ignore.svg"
+          "path": "./icons/latte/prettier-ignore.svg"
         },
         "prettier": {
-          "path": "./icons/mocha/prettier.svg"
+          "path": "./icons/latte/prettier.svg"
         },
         "prisma": {
-          "path": "./icons/mocha/prisma.svg"
+          "path": "./icons/latte/prisma.svg"
         },
         "prolog": {
-          "path": "./icons/mocha/prolog.svg"
+          "path": "./icons/latte/prolog.svg"
         },
         "properties": {
-          "path": "./icons/mocha/properties.svg"
+          "path": "./icons/latte/properties.svg"
         },
         "proto": {
-          "path": "./icons/mocha/proto.svg"
+          "path": "./icons/latte/proto.svg"
         },
         "pug": {
-          "path": "./icons/mocha/pug.svg"
+          "path": "./icons/latte/pug.svg"
         },
         "puppeteer": {
-          "path": "./icons/mocha/puppeteer.svg"
+          "path": "./icons/latte/puppeteer.svg"
         },
         "python-compiled": {
-          "path": "./icons/mocha/python-compiled.svg"
+          "path": "./icons/latte/python-compiled.svg"
         },
         "python-config": {
-          "path": "./icons/mocha/python-config.svg"
+          "path": "./icons/latte/python-config.svg"
         },
         "python": {
-          "path": "./icons/mocha/python.svg"
+          "path": "./icons/latte/python.svg"
         },
         "r": {
-          "path": "./icons/mocha/r.svg"
+          "path": "./icons/latte/r.svg"
         },
         "racket": {
-          "path": "./icons/mocha/racket.svg"
+          "path": "./icons/latte/racket.svg"
         },
         "razor": {
-          "path": "./icons/mocha/razor.svg"
+          "path": "./icons/latte/razor.svg"
         },
         "readme": {
-          "path": "./icons/mocha/readme.svg"
+          "path": "./icons/latte/readme.svg"
         },
         "reason": {
-          "path": "./icons/mocha/reason.svg"
+          "path": "./icons/latte/reason.svg"
         },
         "redwood": {
-          "path": "./icons/mocha/redwood.svg"
+          "path": "./icons/latte/redwood.svg"
         },
         "release": {
-          "path": "./icons/mocha/release.svg"
+          "path": "./icons/latte/release.svg"
         },
         "remix": {
-          "path": "./icons/mocha/remix.svg"
+          "path": "./icons/latte/remix.svg"
         },
         "renovate": {
-          "path": "./icons/mocha/renovate.svg"
+          "path": "./icons/latte/renovate.svg"
         },
         "rescript": {
-          "path": "./icons/mocha/rescript.svg"
+          "path": "./icons/latte/rescript.svg"
         },
         "roblox": {
-          "path": "./icons/mocha/roblox.svg"
+          "path": "./icons/latte/roblox.svg"
         },
         "robots": {
-          "path": "./icons/mocha/robots.svg"
+          "path": "./icons/latte/robots.svg"
         },
         "rollup": {
-          "path": "./icons/mocha/rollup.svg"
+          "path": "./icons/latte/rollup.svg"
         },
         "ruby-gem-lock": {
-          "path": "./icons/mocha/ruby-gem-lock.svg"
+          "path": "./icons/latte/ruby-gem-lock.svg"
         },
         "ruby-gem": {
-          "path": "./icons/mocha/ruby-gem.svg"
+          "path": "./icons/latte/ruby-gem.svg"
         },
         "ruby": {
-          "path": "./icons/mocha/ruby.svg"
+          "path": "./icons/latte/ruby.svg"
         },
         "ruff": {
-          "path": "./icons/mocha/ruff.svg"
+          "path": "./icons/latte/ruff.svg"
         },
         "rust-config": {
-          "path": "./icons/mocha/rust-config.svg"
+          "path": "./icons/latte/rust-config.svg"
         },
         "rust": {
-          "path": "./icons/mocha/rust.svg"
+          "path": "./icons/latte/rust.svg"
         },
         "salesforce": {
-          "path": "./icons/mocha/salesforce.svg"
+          "path": "./icons/latte/salesforce.svg"
         },
         "sass": {
-          "path": "./icons/mocha/sass.svg"
+          "path": "./icons/latte/sass.svg"
         },
         "scala": {
-          "path": "./icons/mocha/scala.svg"
+          "path": "./icons/latte/scala.svg"
         },
         "search": {
-          "path": "./icons/mocha/search.svg"
+          "path": "./icons/latte/search.svg"
         },
         "security": {
-          "path": "./icons/mocha/security.svg"
+          "path": "./icons/latte/security.svg"
         },
         "semantic-release": {
-          "path": "./icons/mocha/semantic-release.svg"
+          "path": "./icons/latte/semantic-release.svg"
         },
         "semgrep-ignore": {
-          "path": "./icons/mocha/semgrep-ignore.svg"
+          "path": "./icons/latte/semgrep-ignore.svg"
         },
         "semgrep": {
-          "path": "./icons/mocha/semgrep.svg"
+          "path": "./icons/latte/semgrep.svg"
         },
         "sentry": {
-          "path": "./icons/mocha/sentry.svg"
+          "path": "./icons/latte/sentry.svg"
         },
         "serverless": {
-          "path": "./icons/mocha/serverless.svg"
+          "path": "./icons/latte/serverless.svg"
         },
         "shader": {
-          "path": "./icons/mocha/shader.svg"
+          "path": "./icons/latte/shader.svg"
         },
         "sketch": {
-          "path": "./icons/mocha/sketch.svg"
+          "path": "./icons/latte/sketch.svg"
         },
         "snowpack": {
-          "path": "./icons/mocha/snowpack.svg"
+          "path": "./icons/latte/snowpack.svg"
         },
         "solidity": {
-          "path": "./icons/mocha/solidity.svg"
+          "path": "./icons/latte/solidity.svg"
         },
         "sonar-cloud": {
-          "path": "./icons/mocha/sonar-cloud.svg"
+          "path": "./icons/latte/sonar-cloud.svg"
         },
         "spwn": {
-          "path": "./icons/mocha/spwn.svg"
+          "path": "./icons/latte/spwn.svg"
         },
         "stackblitz": {
-          "path": "./icons/mocha/stackblitz.svg"
+          "path": "./icons/latte/stackblitz.svg"
         },
         "stata": {
-          "path": "./icons/mocha/stata.svg"
+          "path": "./icons/latte/stata.svg"
         },
         "stencil": {
-          "path": "./icons/mocha/stencil.svg"
+          "path": "./icons/latte/stencil.svg"
         },
         "stitches": {
-          "path": "./icons/mocha/stitches.svg"
+          "path": "./icons/latte/stitches.svg"
         },
         "storybook-svelte": {
-          "path": "./icons/mocha/storybook-svelte.svg"
+          "path": "./icons/latte/storybook-svelte.svg"
         },
         "storybook-vue": {
-          "path": "./icons/mocha/storybook-vue.svg"
+          "path": "./icons/latte/storybook-vue.svg"
         },
         "storybook": {
-          "path": "./icons/mocha/storybook.svg"
+          "path": "./icons/latte/storybook.svg"
         },
         "stylelint-ignore": {
-          "path": "./icons/mocha/stylelint-ignore.svg"
+          "path": "./icons/latte/stylelint-ignore.svg"
         },
         "stylelint": {
-          "path": "./icons/mocha/stylelint.svg"
+          "path": "./icons/latte/stylelint.svg"
         },
         "sublime": {
-          "path": "./icons/mocha/sublime.svg"
+          "path": "./icons/latte/sublime.svg"
         },
         "super-collider": {
-          "path": "./icons/mocha/super-collider.svg"
+          "path": "./icons/latte/super-collider.svg"
         },
         "svelte-config": {
-          "path": "./icons/mocha/svelte-config.svg"
+          "path": "./icons/latte/svelte-config.svg"
         },
         "svelte": {
-          "path": "./icons/mocha/svelte.svg"
+          "path": "./icons/latte/svelte.svg"
         },
         "svg": {
-          "path": "./icons/mocha/svg.svg"
+          "path": "./icons/latte/svg.svg"
         },
         "swift": {
-          "path": "./icons/mocha/swift.svg"
+          "path": "./icons/latte/swift.svg"
         },
         "tailwind": {
-          "path": "./icons/mocha/tailwind.svg"
+          "path": "./icons/latte/tailwind.svg"
         },
         "taskfile": {
-          "path": "./icons/mocha/taskfile.svg"
+          "path": "./icons/latte/taskfile.svg"
         },
         "tauri-ignore": {
-          "path": "./icons/mocha/tauri-ignore.svg"
+          "path": "./icons/latte/tauri-ignore.svg"
         },
         "tauri": {
-          "path": "./icons/mocha/tauri.svg"
+          "path": "./icons/latte/tauri.svg"
         },
         "terraform": {
-          "path": "./icons/mocha/terraform.svg"
+          "path": "./icons/latte/terraform.svg"
         },
         "text": {
-          "path": "./icons/mocha/text.svg"
+          "path": "./icons/latte/text.svg"
         },
         "todo": {
-          "path": "./icons/mocha/todo.svg"
+          "path": "./icons/latte/todo.svg"
         },
         "toml": {
-          "path": "./icons/mocha/toml.svg"
+          "path": "./icons/latte/toml.svg"
         },
         "turbo": {
-          "path": "./icons/mocha/turbo.svg"
+          "path": "./icons/latte/turbo.svg"
         },
         "twig": {
-          "path": "./icons/mocha/twig.svg"
+          "path": "./icons/latte/twig.svg"
         },
         "twine": {
-          "path": "./icons/mocha/twine.svg"
+          "path": "./icons/latte/twine.svg"
         },
         "typescript-config": {
-          "path": "./icons/mocha/typescript-config.svg"
+          "path": "./icons/latte/typescript-config.svg"
         },
         "typescript-def": {
-          "path": "./icons/mocha/typescript-def.svg"
+          "path": "./icons/latte/typescript-def.svg"
         },
         "typescript-react": {
-          "path": "./icons/mocha/typescript-react.svg"
+          "path": "./icons/latte/typescript-react.svg"
         },
         "typescript-test": {
-          "path": "./icons/mocha/typescript-test.svg"
+          "path": "./icons/latte/typescript-test.svg"
         },
         "typescript": {
-          "path": "./icons/mocha/typescript.svg"
+          "path": "./icons/latte/typescript.svg"
         },
         "typst": {
-          "path": "./icons/mocha/typst.svg"
+          "path": "./icons/latte/typst.svg"
         },
         "unity": {
-          "path": "./icons/mocha/unity.svg"
+          "path": "./icons/latte/unity.svg"
         },
         "unocss": {
-          "path": "./icons/mocha/unocss.svg"
+          "path": "./icons/latte/unocss.svg"
         },
         "url": {
-          "path": "./icons/mocha/url.svg"
+          "path": "./icons/latte/url.svg"
         },
         "uv": {
-          "path": "./icons/mocha/uv.svg"
+          "path": "./icons/latte/uv.svg"
         },
         "v": {
-          "path": "./icons/mocha/v.svg"
+          "path": "./icons/latte/v.svg"
         },
         "vanilla-extract": {
-          "path": "./icons/mocha/vanilla-extract.svg"
+          "path": "./icons/latte/vanilla-extract.svg"
         },
         "vento": {
-          "path": "./icons/mocha/vento.svg"
+          "path": "./icons/latte/vento.svg"
         },
         "vercel-ignore": {
-          "path": "./icons/mocha/vercel-ignore.svg"
+          "path": "./icons/latte/vercel-ignore.svg"
         },
         "vercel": {
-          "path": "./icons/mocha/vercel.svg"
+          "path": "./icons/latte/vercel.svg"
         },
         "verilog": {
-          "path": "./icons/mocha/verilog.svg"
+          "path": "./icons/latte/verilog.svg"
         },
         "vhs": {
-          "path": "./icons/mocha/vhs.svg"
+          "path": "./icons/latte/vhs.svg"
         },
         "video": {
-          "path": "./icons/mocha/video.svg"
+          "path": "./icons/latte/video.svg"
         },
         "vim": {
-          "path": "./icons/mocha/vim.svg"
+          "path": "./icons/latte/vim.svg"
         },
         "visual-studio": {
-          "path": "./icons/mocha/visual-studio.svg"
+          "path": "./icons/latte/visual-studio.svg"
         },
         "vital": {
-          "path": "./icons/mocha/vital.svg"
+          "path": "./icons/latte/vital.svg"
         },
         "vite": {
-          "path": "./icons/mocha/vite.svg"
+          "path": "./icons/latte/vite.svg"
         },
         "vitest": {
-          "path": "./icons/mocha/vitest.svg"
+          "path": "./icons/latte/vitest.svg"
         },
         "vs-codium": {
-          "path": "./icons/mocha/vs-codium.svg"
+          "path": "./icons/latte/vs-codium.svg"
         },
         "vscode-ignore": {
-          "path": "./icons/mocha/vscode-ignore.svg"
+          "path": "./icons/latte/vscode-ignore.svg"
         },
         "vscode": {
-          "path": "./icons/mocha/vscode.svg"
+          "path": "./icons/latte/vscode.svg"
         },
         "vue-config": {
-          "path": "./icons/mocha/vue-config.svg"
+          "path": "./icons/latte/vue-config.svg"
         },
         "vue": {
-          "path": "./icons/mocha/vue.svg"
+          "path": "./icons/latte/vue.svg"
         },
         "web-assembly": {
-          "path": "./icons/mocha/web-assembly.svg"
+          "path": "./icons/latte/web-assembly.svg"
         },
         "webpack": {
-          "path": "./icons/mocha/webpack.svg"
+          "path": "./icons/latte/webpack.svg"
         },
         "windi": {
-          "path": "./icons/mocha/windi.svg"
+          "path": "./icons/latte/windi.svg"
         },
         "workflow": {
-          "path": "./icons/mocha/workflow.svg"
+          "path": "./icons/latte/workflow.svg"
         },
         "wxt": {
-          "path": "./icons/mocha/wxt.svg"
+          "path": "./icons/latte/wxt.svg"
         },
         "xaml": {
-          "path": "./icons/mocha/xaml.svg"
+          "path": "./icons/latte/xaml.svg"
         },
         "xcode": {
-          "path": "./icons/mocha/xcode.svg"
+          "path": "./icons/latte/xcode.svg"
         },
         "xmake": {
-          "path": "./icons/mocha/xmake.svg"
+          "path": "./icons/latte/xmake.svg"
         },
         "xml": {
-          "path": "./icons/mocha/xml.svg"
+          "path": "./icons/latte/xml.svg"
         },
         "yaml": {
-          "path": "./icons/mocha/yaml.svg"
+          "path": "./icons/latte/yaml.svg"
         },
         "yarn-lock": {
-          "path": "./icons/mocha/yarn-lock.svg"
+          "path": "./icons/latte/yarn-lock.svg"
         },
         "yarn": {
-          "path": "./icons/mocha/yarn.svg"
+          "path": "./icons/latte/yarn.svg"
         },
         "zap": {
-          "path": "./icons/mocha/zap.svg"
+          "path": "./icons/latte/zap.svg"
         },
         "zig": {
-          "path": "./icons/mocha/zig.svg"
+          "path": "./icons/latte/zig.svg"
         },
         "zip": {
-          "path": "./icons/mocha/zip.svg"
+          "path": "./icons/latte/zip.svg"
+        },
+        "lock": {
+          "path": "./icons/latte/lock.svg"
+        },
+        "settings": {
+          "path": "./icons/latte/config.svg"
         }
       }
     },
@@ -4384,1018 +4390,1024 @@
       },
       "file_icons": {
         "adobe-ae": {
-          "path": "./icons/mocha/adobe-ae.svg"
+          "path": "./icons/frappe/adobe-ae.svg"
         },
         "adobe-ai": {
-          "path": "./icons/mocha/adobe-ai.svg"
+          "path": "./icons/frappe/adobe-ai.svg"
         },
         "adobe-id": {
-          "path": "./icons/mocha/adobe-id.svg"
+          "path": "./icons/frappe/adobe-id.svg"
         },
         "adobe-ps": {
-          "path": "./icons/mocha/adobe-ps.svg"
+          "path": "./icons/frappe/adobe-ps.svg"
         },
         "adobe-xd": {
-          "path": "./icons/mocha/adobe-xd.svg"
+          "path": "./icons/frappe/adobe-xd.svg"
         },
         "adonis": {
-          "path": "./icons/mocha/adonis.svg"
+          "path": "./icons/frappe/adonis.svg"
         },
         "alex": {
-          "path": "./icons/mocha/alex.svg"
+          "path": "./icons/frappe/alex.svg"
         },
         "amber": {
-          "path": "./icons/mocha/amber.svg"
+          "path": "./icons/frappe/amber.svg"
         },
         "android": {
-          "path": "./icons/mocha/android.svg"
+          "path": "./icons/frappe/android.svg"
         },
         "angular": {
-          "path": "./icons/mocha/angular.svg"
+          "path": "./icons/frappe/angular.svg"
         },
         "ansible-lint": {
-          "path": "./icons/mocha/ansible-lint.svg"
+          "path": "./icons/frappe/ansible-lint.svg"
         },
         "antlr": {
-          "path": "./icons/mocha/antlr.svg"
+          "path": "./icons/frappe/antlr.svg"
         },
         "apache": {
-          "path": "./icons/mocha/apache.svg"
+          "path": "./icons/frappe/apache.svg"
         },
         "api-blueprint": {
-          "path": "./icons/mocha/api-blueprint.svg"
+          "path": "./icons/frappe/api-blueprint.svg"
         },
         "apollo": {
-          "path": "./icons/mocha/apollo.svg"
+          "path": "./icons/frappe/apollo.svg"
         },
         "apple": {
-          "path": "./icons/mocha/apple.svg"
+          "path": "./icons/frappe/apple.svg"
         },
         "asciidoc": {
-          "path": "./icons/mocha/asciidoc.svg"
+          "path": "./icons/frappe/asciidoc.svg"
         },
         "assembly": {
-          "path": "./icons/mocha/assembly.svg"
+          "path": "./icons/frappe/assembly.svg"
         },
         "astro-config": {
-          "path": "./icons/mocha/astro-config.svg"
+          "path": "./icons/frappe/astro-config.svg"
         },
         "astro": {
-          "path": "./icons/mocha/astro.svg"
+          "path": "./icons/frappe/astro.svg"
         },
         "audio": {
-          "path": "./icons/mocha/audio.svg"
+          "path": "./icons/frappe/audio.svg"
         },
         "autohotkey": {
-          "path": "./icons/mocha/autohotkey.svg"
+          "path": "./icons/frappe/autohotkey.svg"
         },
         "azure-pipelines": {
-          "path": "./icons/mocha/azure-pipelines.svg"
+          "path": "./icons/frappe/azure-pipelines.svg"
         },
         "babel": {
-          "path": "./icons/mocha/babel.svg"
+          "path": "./icons/frappe/babel.svg"
         },
         "bash": {
-          "path": "./icons/mocha/bash.svg"
+          "path": "./icons/frappe/bash.svg"
         },
         "batch": {
-          "path": "./icons/mocha/batch.svg"
+          "path": "./icons/frappe/batch.svg"
         },
         "bazel": {
-          "path": "./icons/mocha/bazel.svg"
+          "path": "./icons/frappe/bazel.svg"
         },
         "benchmark": {
-          "path": "./icons/mocha/benchmark.svg"
+          "path": "./icons/frappe/benchmark.svg"
         },
         "binary": {
-          "path": "./icons/mocha/binary.svg"
+          "path": "./icons/frappe/binary.svg"
         },
         "biome": {
-          "path": "./icons/mocha/biome.svg"
+          "path": "./icons/frappe/biome.svg"
         },
         "bitbucket": {
-          "path": "./icons/mocha/bitbucket.svg"
+          "path": "./icons/frappe/bitbucket.svg"
         },
         "blitz": {
-          "path": "./icons/mocha/blitz.svg"
+          "path": "./icons/frappe/blitz.svg"
         },
         "bower": {
-          "path": "./icons/mocha/bower.svg"
+          "path": "./icons/frappe/bower.svg"
         },
         "browserslist": {
-          "path": "./icons/mocha/browserslist.svg"
+          "path": "./icons/frappe/browserslist.svg"
         },
         "bun-lock": {
-          "path": "./icons/mocha/bun-lock.svg"
+          "path": "./icons/frappe/bun-lock.svg"
         },
         "bun": {
-          "path": "./icons/mocha/bun.svg"
+          "path": "./icons/frappe/bun.svg"
         },
         "c-header": {
-          "path": "./icons/mocha/c-header.svg"
+          "path": "./icons/frappe/c-header.svg"
         },
         "c": {
-          "path": "./icons/mocha/c.svg"
+          "path": "./icons/frappe/c.svg"
         },
         "cabal": {
-          "path": "./icons/mocha/cabal.svg"
+          "path": "./icons/frappe/cabal.svg"
         },
         "caddy": {
-          "path": "./icons/mocha/caddy.svg"
+          "path": "./icons/frappe/caddy.svg"
         },
         "capacitor": {
-          "path": "./icons/mocha/capacitor.svg"
+          "path": "./icons/frappe/capacitor.svg"
         },
         "cargo-lock": {
-          "path": "./icons/mocha/cargo-lock.svg"
+          "path": "./icons/frappe/cargo-lock.svg"
         },
         "cargo": {
-          "path": "./icons/mocha/cargo.svg"
+          "path": "./icons/frappe/cargo.svg"
         },
         "certificate": {
-          "path": "./icons/mocha/certificate.svg"
+          "path": "./icons/frappe/certificate.svg"
         },
         "changelog": {
-          "path": "./icons/mocha/changelog.svg"
+          "path": "./icons/frappe/changelog.svg"
         },
         "circle-ci": {
-          "path": "./icons/mocha/circle-ci.svg"
+          "path": "./icons/frappe/circle-ci.svg"
         },
         "clojure": {
-          "path": "./icons/mocha/clojure.svg"
+          "path": "./icons/frappe/clojure.svg"
         },
         "cmake": {
-          "path": "./icons/mocha/cmake.svg"
+          "path": "./icons/frappe/cmake.svg"
         },
         "cobol": {
-          "path": "./icons/mocha/cobol.svg"
+          "path": "./icons/frappe/cobol.svg"
         },
         "code-climate": {
-          "path": "./icons/mocha/code-climate.svg"
+          "path": "./icons/frappe/code-climate.svg"
         },
         "code-of-conduct": {
-          "path": "./icons/mocha/code-of-conduct.svg"
+          "path": "./icons/frappe/code-of-conduct.svg"
         },
         "codeowners": {
-          "path": "./icons/mocha/codeowners.svg"
+          "path": "./icons/frappe/codeowners.svg"
         },
         "coffeescript": {
-          "path": "./icons/mocha/coffeescript.svg"
+          "path": "./icons/frappe/coffeescript.svg"
         },
         "commitlint": {
-          "path": "./icons/mocha/commitlint.svg"
+          "path": "./icons/frappe/commitlint.svg"
         },
         "contributing": {
-          "path": "./icons/mocha/contributing.svg"
+          "path": "./icons/frappe/contributing.svg"
         },
         "cpp-header": {
-          "path": "./icons/mocha/cpp-header.svg"
+          "path": "./icons/frappe/cpp-header.svg"
         },
         "cpp": {
-          "path": "./icons/mocha/cpp.svg"
+          "path": "./icons/frappe/cpp.svg"
         },
         "csharp": {
-          "path": "./icons/mocha/csharp.svg"
+          "path": "./icons/frappe/csharp.svg"
         },
         "cspell": {
-          "path": "./icons/mocha/cspell.svg"
+          "path": "./icons/frappe/cspell.svg"
         },
         "css-map": {
-          "path": "./icons/mocha/css-map.svg"
+          "path": "./icons/frappe/css-map.svg"
         },
         "css": {
-          "path": "./icons/mocha/css.svg"
+          "path": "./icons/frappe/css.svg"
         },
         "csv": {
-          "path": "./icons/mocha/csv.svg"
+          "path": "./icons/frappe/csv.svg"
         },
         "cucumber": {
-          "path": "./icons/mocha/cucumber.svg"
+          "path": "./icons/frappe/cucumber.svg"
         },
         "cuda": {
-          "path": "./icons/mocha/cuda.svg"
+          "path": "./icons/frappe/cuda.svg"
         },
         "cypress": {
-          "path": "./icons/mocha/cypress.svg"
+          "path": "./icons/frappe/cypress.svg"
         },
         "d": {
-          "path": "./icons/mocha/d.svg"
+          "path": "./icons/frappe/d.svg"
         },
         "dart-generated": {
-          "path": "./icons/mocha/dart-generated.svg"
+          "path": "./icons/frappe/dart-generated.svg"
         },
         "dart": {
-          "path": "./icons/mocha/dart.svg"
+          "path": "./icons/frappe/dart.svg"
         },
         "database": {
-          "path": "./icons/mocha/database.svg"
+          "path": "./icons/frappe/database.svg"
         },
         "deno_lock": {
-          "path": "./icons/mocha/deno_lock.svg"
+          "path": "./icons/frappe/deno_lock.svg"
         },
         "deno": {
-          "path": "./icons/mocha/deno.svg"
+          "path": "./icons/frappe/deno.svg"
         },
         "dependabot": {
-          "path": "./icons/mocha/dependabot.svg"
+          "path": "./icons/frappe/dependabot.svg"
         },
         "devcontainer": {
-          "path": "./icons/mocha/devcontainer.svg"
+          "path": "./icons/frappe/devcontainer.svg"
         },
         "dhall": {
-          "path": "./icons/mocha/dhall.svg"
+          "path": "./icons/frappe/dhall.svg"
         },
         "diff": {
-          "path": "./icons/mocha/diff.svg"
+          "path": "./icons/frappe/diff.svg"
         },
         "django": {
-          "path": "./icons/mocha/django.svg"
+          "path": "./icons/frappe/django.svg"
         },
         "docker-compose": {
-          "path": "./icons/mocha/docker-compose.svg"
+          "path": "./icons/frappe/docker-compose.svg"
         },
         "docker-ignore": {
-          "path": "./icons/mocha/docker-ignore.svg"
+          "path": "./icons/frappe/docker-ignore.svg"
         },
         "docker": {
-          "path": "./icons/mocha/docker.svg"
+          "path": "./icons/frappe/docker.svg"
         },
         "drawio": {
-          "path": "./icons/mocha/drawio.svg"
+          "path": "./icons/frappe/drawio.svg"
         },
         "drizzle-orm": {
-          "path": "./icons/mocha/drizzle-orm.svg"
+          "path": "./icons/frappe/drizzle-orm.svg"
         },
         "dub-selections": {
-          "path": "./icons/mocha/dub-selections.svg"
+          "path": "./icons/frappe/dub-selections.svg"
         },
         "dub": {
-          "path": "./icons/mocha/dub.svg"
+          "path": "./icons/frappe/dub.svg"
         },
         "editorconfig": {
-          "path": "./icons/mocha/editorconfig.svg"
+          "path": "./icons/frappe/editorconfig.svg"
         },
         "ejs": {
-          "path": "./icons/mocha/ejs.svg"
+          "path": "./icons/frappe/ejs.svg"
         },
         "eleventy": {
-          "path": "./icons/mocha/eleventy.svg"
+          "path": "./icons/frappe/eleventy.svg"
         },
         "elixir": {
-          "path": "./icons/mocha/elixir.svg"
+          "path": "./icons/frappe/elixir.svg"
         },
         "elm": {
-          "path": "./icons/mocha/elm.svg"
+          "path": "./icons/frappe/elm.svg"
         },
         "ember": {
-          "path": "./icons/mocha/ember.svg"
+          "path": "./icons/frappe/ember.svg"
         },
         "env": {
-          "path": "./icons/mocha/env.svg"
+          "path": "./icons/frappe/env.svg"
         },
         "envrc": {
-          "path": "./icons/mocha/envrc.svg"
+          "path": "./icons/frappe/envrc.svg"
         },
         "erlang": {
-          "path": "./icons/mocha/erlang.svg"
+          "path": "./icons/frappe/erlang.svg"
         },
         "esbuild": {
-          "path": "./icons/mocha/esbuild.svg"
+          "path": "./icons/frappe/esbuild.svg"
         },
         "eslint-ignore": {
-          "path": "./icons/mocha/eslint-ignore.svg"
+          "path": "./icons/frappe/eslint-ignore.svg"
         },
         "eslint": {
-          "path": "./icons/mocha/eslint.svg"
+          "path": "./icons/frappe/eslint.svg"
         },
         "exe": {
-          "path": "./icons/mocha/exe.svg"
+          "path": "./icons/frappe/exe.svg"
         },
         "fastlane": {
-          "path": "./icons/mocha/fastlane.svg"
+          "path": "./icons/frappe/fastlane.svg"
         },
         "favicon": {
-          "path": "./icons/mocha/favicon.svg"
+          "path": "./icons/frappe/favicon.svg"
         },
         "figma": {
-          "path": "./icons/mocha/figma.svg"
+          "path": "./icons/frappe/figma.svg"
         },
         "firebase": {
-          "path": "./icons/mocha/firebase.svg"
+          "path": "./icons/frappe/firebase.svg"
         },
         "flutter": {
-          "path": "./icons/mocha/flutter.svg"
+          "path": "./icons/frappe/flutter.svg"
         },
         "font": {
-          "path": "./icons/mocha/font.svg"
+          "path": "./icons/frappe/font.svg"
         },
         "fortran": {
-          "path": "./icons/mocha/fortran.svg"
+          "path": "./icons/frappe/fortran.svg"
         },
         "fsharp": {
-          "path": "./icons/mocha/fsharp.svg"
+          "path": "./icons/frappe/fsharp.svg"
         },
         "fvm": {
-          "path": "./icons/mocha/fvm.svg"
+          "path": "./icons/frappe/fvm.svg"
         },
         "gatsby": {
-          "path": "./icons/mocha/gatsby.svg"
+          "path": "./icons/frappe/gatsby.svg"
         },
         "gcp": {
-          "path": "./icons/mocha/gcp.svg"
+          "path": "./icons/frappe/gcp.svg"
         },
         "git-cliff": {
-          "path": "./icons/mocha/git-cliff.svg"
+          "path": "./icons/frappe/git-cliff.svg"
         },
         "git": {
-          "path": "./icons/mocha/git.svg"
+          "path": "./icons/frappe/git.svg"
         },
         "gitlab": {
-          "path": "./icons/mocha/gitlab.svg"
+          "path": "./icons/frappe/gitlab.svg"
         },
         "gitpod": {
-          "path": "./icons/mocha/gitpod.svg"
+          "path": "./icons/frappe/gitpod.svg"
         },
         "gleam-config": {
-          "path": "./icons/mocha/gleam-config.svg"
+          "path": "./icons/frappe/gleam-config.svg"
         },
         "gleam": {
-          "path": "./icons/mocha/gleam.svg"
+          "path": "./icons/frappe/gleam.svg"
         },
         "go-mod": {
-          "path": "./icons/mocha/go-mod.svg"
+          "path": "./icons/frappe/go-mod.svg"
         },
         "go-template": {
-          "path": "./icons/mocha/go-template.svg"
+          "path": "./icons/frappe/go-template.svg"
         },
         "go": {
-          "path": "./icons/mocha/go.svg"
+          "path": "./icons/frappe/go.svg"
         },
         "godot-assets": {
-          "path": "./icons/mocha/godot-assets.svg"
+          "path": "./icons/frappe/godot-assets.svg"
         },
         "godot": {
-          "path": "./icons/mocha/godot.svg"
+          "path": "./icons/frappe/godot.svg"
         },
         "gradle": {
-          "path": "./icons/mocha/gradle.svg"
+          "path": "./icons/frappe/gradle.svg"
         },
         "graphql": {
-          "path": "./icons/mocha/graphql.svg"
+          "path": "./icons/frappe/graphql.svg"
         },
         "groovy": {
-          "path": "./icons/mocha/groovy.svg"
+          "path": "./icons/frappe/groovy.svg"
         },
         "gulp": {
-          "path": "./icons/mocha/gulp.svg"
+          "path": "./icons/frappe/gulp.svg"
         },
         "haml": {
-          "path": "./icons/mocha/haml.svg"
+          "path": "./icons/frappe/haml.svg"
         },
         "handlebars": {
-          "path": "./icons/mocha/handlebars.svg"
+          "path": "./icons/frappe/handlebars.svg"
         },
         "hardhat": {
-          "path": "./icons/mocha/hardhat.svg"
+          "path": "./icons/frappe/hardhat.svg"
         },
         "haskell": {
-          "path": "./icons/mocha/haskell.svg"
+          "path": "./icons/frappe/haskell.svg"
         },
         "haxe": {
-          "path": "./icons/mocha/haxe.svg"
+          "path": "./icons/frappe/haxe.svg"
         },
         "helm": {
-          "path": "./icons/mocha/helm.svg"
+          "path": "./icons/frappe/helm.svg"
         },
         "heroku": {
-          "path": "./icons/mocha/heroku.svg"
+          "path": "./icons/frappe/heroku.svg"
         },
         "histoire": {
-          "path": "./icons/mocha/histoire.svg"
+          "path": "./icons/frappe/histoire.svg"
         },
         "html": {
-          "path": "./icons/mocha/html.svg"
+          "path": "./icons/frappe/html.svg"
         },
         "http": {
-          "path": "./icons/mocha/http.svg"
+          "path": "./icons/frappe/http.svg"
         },
         "huff": {
-          "path": "./icons/mocha/huff.svg"
+          "path": "./icons/frappe/huff.svg"
         },
         "hugo": {
-          "path": "./icons/mocha/hugo.svg"
+          "path": "./icons/frappe/hugo.svg"
         },
         "humans": {
-          "path": "./icons/mocha/humans.svg"
+          "path": "./icons/frappe/humans.svg"
         },
         "husky": {
-          "path": "./icons/mocha/husky.svg"
+          "path": "./icons/frappe/husky.svg"
         },
         "image": {
-          "path": "./icons/mocha/image.svg"
+          "path": "./icons/frappe/image.svg"
         },
         "ionic": {
-          "path": "./icons/mocha/ionic.svg"
+          "path": "./icons/frappe/ionic.svg"
         },
         "java-class": {
-          "path": "./icons/mocha/java-class.svg"
+          "path": "./icons/frappe/java-class.svg"
         },
         "java-jar": {
-          "path": "./icons/mocha/java-jar.svg"
+          "path": "./icons/frappe/java-jar.svg"
         },
         "java": {
-          "path": "./icons/mocha/java.svg"
+          "path": "./icons/frappe/java.svg"
         },
         "javascript-config": {
-          "path": "./icons/mocha/javascript-config.svg"
+          "path": "./icons/frappe/javascript-config.svg"
         },
         "javascript-map": {
-          "path": "./icons/mocha/javascript-map.svg"
+          "path": "./icons/frappe/javascript-map.svg"
         },
         "javascript-react": {
-          "path": "./icons/mocha/javascript-react.svg"
+          "path": "./icons/frappe/javascript-react.svg"
         },
         "javascript-test": {
-          "path": "./icons/mocha/javascript-test.svg"
+          "path": "./icons/frappe/javascript-test.svg"
         },
         "javascript": {
-          "path": "./icons/mocha/javascript.svg"
+          "path": "./icons/frappe/javascript.svg"
         },
         "jest": {
-          "path": "./icons/mocha/jest.svg"
+          "path": "./icons/frappe/jest.svg"
         },
         "jinja": {
-          "path": "./icons/mocha/jinja.svg"
+          "path": "./icons/frappe/jinja.svg"
         },
         "json-schema": {
-          "path": "./icons/mocha/json-schema.svg"
+          "path": "./icons/frappe/json-schema.svg"
         },
         "json": {
-          "path": "./icons/mocha/json.svg"
+          "path": "./icons/frappe/json.svg"
         },
         "juce": {
-          "path": "./icons/mocha/juce.svg"
+          "path": "./icons/frappe/juce.svg"
         },
         "julia": {
-          "path": "./icons/mocha/julia.svg"
+          "path": "./icons/frappe/julia.svg"
         },
         "jupyter": {
-          "path": "./icons/mocha/jupyter.svg"
+          "path": "./icons/frappe/jupyter.svg"
         },
         "just": {
-          "path": "./icons/mocha/just.svg"
+          "path": "./icons/frappe/just.svg"
         },
         "kdl": {
-          "path": "./icons/mocha/kdl.svg"
+          "path": "./icons/frappe/kdl.svg"
         },
         "key": {
-          "path": "./icons/mocha/key.svg"
+          "path": "./icons/frappe/key.svg"
         },
         "kotlin": {
-          "path": "./icons/mocha/kotlin.svg"
+          "path": "./icons/frappe/kotlin.svg"
         },
         "laravel": {
-          "path": "./icons/mocha/laravel.svg"
+          "path": "./icons/frappe/laravel.svg"
         },
         "latex": {
-          "path": "./icons/mocha/latex.svg"
+          "path": "./icons/frappe/latex.svg"
         },
         "latte": {
-          "path": "./icons/mocha/latte.svg"
+          "path": "./icons/frappe/latte.svg"
         },
         "lerna": {
-          "path": "./icons/mocha/lerna.svg"
+          "path": "./icons/frappe/lerna.svg"
         },
         "less": {
-          "path": "./icons/mocha/less.svg"
+          "path": "./icons/frappe/less.svg"
         },
         "lib": {
-          "path": "./icons/mocha/lib.svg"
+          "path": "./icons/frappe/lib.svg"
         },
         "license": {
-          "path": "./icons/mocha/license.svg"
+          "path": "./icons/frappe/license.svg"
         },
         "lint-staged": {
-          "path": "./icons/mocha/lint-staged.svg"
+          "path": "./icons/frappe/lint-staged.svg"
         },
         "liquid": {
-          "path": "./icons/mocha/liquid.svg"
+          "path": "./icons/frappe/liquid.svg"
         },
         "lisp": {
-          "path": "./icons/mocha/lisp.svg"
+          "path": "./icons/frappe/lisp.svg"
         },
         "log": {
-          "path": "./icons/mocha/log.svg"
+          "path": "./icons/frappe/log.svg"
         },
         "lua": {
-          "path": "./icons/mocha/lua.svg"
+          "path": "./icons/frappe/lua.svg"
         },
         "luau": {
-          "path": "./icons/mocha/luau.svg"
+          "path": "./icons/frappe/luau.svg"
         },
         "makefile": {
-          "path": "./icons/mocha/makefile.svg"
+          "path": "./icons/frappe/makefile.svg"
         },
         "markdown-mdx": {
-          "path": "./icons/mocha/markdown-mdx.svg"
+          "path": "./icons/frappe/markdown-mdx.svg"
         },
         "markdown": {
-          "path": "./icons/mocha/markdown.svg"
+          "path": "./icons/frappe/markdown.svg"
         },
         "marko": {
-          "path": "./icons/mocha/marko.svg"
+          "path": "./icons/frappe/marko.svg"
         },
         "matlab": {
-          "path": "./icons/mocha/matlab.svg"
+          "path": "./icons/frappe/matlab.svg"
         },
         "mdbook": {
-          "path": "./icons/mocha/mdbook.svg"
+          "path": "./icons/frappe/mdbook.svg"
         },
         "mermaid": {
-          "path": "./icons/mocha/mermaid.svg"
+          "path": "./icons/frappe/mermaid.svg"
         },
         "meson": {
-          "path": "./icons/mocha/meson.svg"
+          "path": "./icons/frappe/meson.svg"
         },
         "midi": {
-          "path": "./icons/mocha/midi.svg"
+          "path": "./icons/frappe/midi.svg"
         },
         "mjml": {
-          "path": "./icons/mocha/mjml.svg"
+          "path": "./icons/frappe/mjml.svg"
         },
         "modernizr": {
-          "path": "./icons/mocha/modernizr.svg"
+          "path": "./icons/frappe/modernizr.svg"
         },
         "ms-excel": {
-          "path": "./icons/mocha/ms-excel.svg"
+          "path": "./icons/frappe/ms-excel.svg"
         },
         "ms-powerpoint": {
-          "path": "./icons/mocha/ms-powerpoint.svg"
+          "path": "./icons/frappe/ms-powerpoint.svg"
         },
         "ms-word": {
-          "path": "./icons/mocha/ms-word.svg"
+          "path": "./icons/frappe/ms-word.svg"
         },
         "nativescript": {
-          "path": "./icons/mocha/nativescript.svg"
+          "path": "./icons/frappe/nativescript.svg"
         },
         "nest": {
-          "path": "./icons/mocha/nest.svg"
+          "path": "./icons/frappe/nest.svg"
         },
         "netlify": {
-          "path": "./icons/mocha/netlify.svg"
+          "path": "./icons/frappe/netlify.svg"
         },
         "next": {
-          "path": "./icons/mocha/next.svg"
+          "path": "./icons/frappe/next.svg"
         },
         "nextflow": {
-          "path": "./icons/mocha/nextflow.svg"
+          "path": "./icons/frappe/nextflow.svg"
         },
         "nginx": {
-          "path": "./icons/mocha/nginx.svg"
+          "path": "./icons/frappe/nginx.svg"
         },
         "nim": {
-          "path": "./icons/mocha/nim.svg"
+          "path": "./icons/frappe/nim.svg"
         },
         "ninja": {
-          "path": "./icons/mocha/ninja.svg"
+          "path": "./icons/frappe/ninja.svg"
         },
         "nix-lock": {
-          "path": "./icons/mocha/nix-lock.svg"
+          "path": "./icons/frappe/nix-lock.svg"
         },
         "nix": {
-          "path": "./icons/mocha/nix.svg"
+          "path": "./icons/frappe/nix.svg"
         },
         "nodemon": {
-          "path": "./icons/mocha/nodemon.svg"
+          "path": "./icons/frappe/nodemon.svg"
         },
         "npm-ignore": {
-          "path": "./icons/mocha/npm-ignore.svg"
+          "path": "./icons/frappe/npm-ignore.svg"
         },
         "npm-lock": {
-          "path": "./icons/mocha/npm-lock.svg"
+          "path": "./icons/frappe/npm-lock.svg"
         },
         "npm": {
-          "path": "./icons/mocha/npm.svg"
+          "path": "./icons/frappe/npm.svg"
         },
         "nuget": {
-          "path": "./icons/mocha/nuget.svg"
+          "path": "./icons/frappe/nuget.svg"
         },
         "nunjucks": {
-          "path": "./icons/mocha/nunjucks.svg"
+          "path": "./icons/frappe/nunjucks.svg"
         },
         "nuxt-ignore": {
-          "path": "./icons/mocha/nuxt-ignore.svg"
+          "path": "./icons/frappe/nuxt-ignore.svg"
         },
         "nuxt": {
-          "path": "./icons/mocha/nuxt.svg"
+          "path": "./icons/frappe/nuxt.svg"
         },
         "ocaml": {
-          "path": "./icons/mocha/ocaml.svg"
+          "path": "./icons/frappe/ocaml.svg"
         },
         "org": {
-          "path": "./icons/mocha/org.svg"
+          "path": "./icons/frappe/org.svg"
         },
         "package-json": {
-          "path": "./icons/mocha/package-json.svg"
+          "path": "./icons/frappe/package-json.svg"
         },
         "panda-css": {
-          "path": "./icons/mocha/panda-css.svg"
+          "path": "./icons/frappe/panda-css.svg"
         },
         "pdf": {
-          "path": "./icons/mocha/pdf.svg"
+          "path": "./icons/frappe/pdf.svg"
         },
         "perl": {
-          "path": "./icons/mocha/perl.svg"
+          "path": "./icons/frappe/perl.svg"
         },
         "php": {
-          "path": "./icons/mocha/php.svg"
+          "path": "./icons/frappe/php.svg"
         },
         "phrase": {
-          "path": "./icons/mocha/phrase.svg"
+          "path": "./icons/frappe/phrase.svg"
         },
         "phtml": {
-          "path": "./icons/mocha/phtml.svg"
+          "path": "./icons/frappe/phtml.svg"
         },
         "pixi-lock": {
-          "path": "./icons/mocha/pixi-lock.svg"
+          "path": "./icons/frappe/pixi-lock.svg"
         },
         "pixi": {
-          "path": "./icons/mocha/pixi.svg"
+          "path": "./icons/frappe/pixi.svg"
         },
         "plantuml": {
-          "path": "./icons/mocha/plantuml.svg"
+          "path": "./icons/frappe/plantuml.svg"
         },
         "playwright": {
-          "path": "./icons/mocha/playwright.svg"
+          "path": "./icons/frappe/playwright.svg"
         },
         "plop": {
-          "path": "./icons/mocha/plop.svg"
+          "path": "./icons/frappe/plop.svg"
         },
         "pnpm-lock": {
-          "path": "./icons/mocha/pnpm-lock.svg"
+          "path": "./icons/frappe/pnpm-lock.svg"
         },
         "pnpm": {
-          "path": "./icons/mocha/pnpm.svg"
+          "path": "./icons/frappe/pnpm.svg"
         },
         "poetry-lock": {
-          "path": "./icons/mocha/poetry-lock.svg"
+          "path": "./icons/frappe/poetry-lock.svg"
         },
         "postcss": {
-          "path": "./icons/mocha/postcss.svg"
+          "path": "./icons/frappe/postcss.svg"
         },
         "powershell": {
-          "path": "./icons/mocha/powershell.svg"
+          "path": "./icons/frappe/powershell.svg"
         },
         "pre-commit": {
-          "path": "./icons/mocha/pre-commit.svg"
+          "path": "./icons/frappe/pre-commit.svg"
         },
         "premake": {
-          "path": "./icons/mocha/premake.svg"
+          "path": "./icons/frappe/premake.svg"
         },
         "prettier-ignore": {
-          "path": "./icons/mocha/prettier-ignore.svg"
+          "path": "./icons/frappe/prettier-ignore.svg"
         },
         "prettier": {
-          "path": "./icons/mocha/prettier.svg"
+          "path": "./icons/frappe/prettier.svg"
         },
         "prisma": {
-          "path": "./icons/mocha/prisma.svg"
+          "path": "./icons/frappe/prisma.svg"
         },
         "prolog": {
-          "path": "./icons/mocha/prolog.svg"
+          "path": "./icons/frappe/prolog.svg"
         },
         "properties": {
-          "path": "./icons/mocha/properties.svg"
+          "path": "./icons/frappe/properties.svg"
         },
         "proto": {
-          "path": "./icons/mocha/proto.svg"
+          "path": "./icons/frappe/proto.svg"
         },
         "pug": {
-          "path": "./icons/mocha/pug.svg"
+          "path": "./icons/frappe/pug.svg"
         },
         "puppeteer": {
-          "path": "./icons/mocha/puppeteer.svg"
+          "path": "./icons/frappe/puppeteer.svg"
         },
         "python-compiled": {
-          "path": "./icons/mocha/python-compiled.svg"
+          "path": "./icons/frappe/python-compiled.svg"
         },
         "python-config": {
-          "path": "./icons/mocha/python-config.svg"
+          "path": "./icons/frappe/python-config.svg"
         },
         "python": {
-          "path": "./icons/mocha/python.svg"
+          "path": "./icons/frappe/python.svg"
         },
         "r": {
-          "path": "./icons/mocha/r.svg"
+          "path": "./icons/frappe/r.svg"
         },
         "racket": {
-          "path": "./icons/mocha/racket.svg"
+          "path": "./icons/frappe/racket.svg"
         },
         "razor": {
-          "path": "./icons/mocha/razor.svg"
+          "path": "./icons/frappe/razor.svg"
         },
         "readme": {
-          "path": "./icons/mocha/readme.svg"
+          "path": "./icons/frappe/readme.svg"
         },
         "reason": {
-          "path": "./icons/mocha/reason.svg"
+          "path": "./icons/frappe/reason.svg"
         },
         "redwood": {
-          "path": "./icons/mocha/redwood.svg"
+          "path": "./icons/frappe/redwood.svg"
         },
         "release": {
-          "path": "./icons/mocha/release.svg"
+          "path": "./icons/frappe/release.svg"
         },
         "remix": {
-          "path": "./icons/mocha/remix.svg"
+          "path": "./icons/frappe/remix.svg"
         },
         "renovate": {
-          "path": "./icons/mocha/renovate.svg"
+          "path": "./icons/frappe/renovate.svg"
         },
         "rescript": {
-          "path": "./icons/mocha/rescript.svg"
+          "path": "./icons/frappe/rescript.svg"
         },
         "roblox": {
-          "path": "./icons/mocha/roblox.svg"
+          "path": "./icons/frappe/roblox.svg"
         },
         "robots": {
-          "path": "./icons/mocha/robots.svg"
+          "path": "./icons/frappe/robots.svg"
         },
         "rollup": {
-          "path": "./icons/mocha/rollup.svg"
+          "path": "./icons/frappe/rollup.svg"
         },
         "ruby-gem-lock": {
-          "path": "./icons/mocha/ruby-gem-lock.svg"
+          "path": "./icons/frappe/ruby-gem-lock.svg"
         },
         "ruby-gem": {
-          "path": "./icons/mocha/ruby-gem.svg"
+          "path": "./icons/frappe/ruby-gem.svg"
         },
         "ruby": {
-          "path": "./icons/mocha/ruby.svg"
+          "path": "./icons/frappe/ruby.svg"
         },
         "ruff": {
-          "path": "./icons/mocha/ruff.svg"
+          "path": "./icons/frappe/ruff.svg"
         },
         "rust-config": {
-          "path": "./icons/mocha/rust-config.svg"
+          "path": "./icons/frappe/rust-config.svg"
         },
         "rust": {
-          "path": "./icons/mocha/rust.svg"
+          "path": "./icons/frappe/rust.svg"
         },
         "salesforce": {
-          "path": "./icons/mocha/salesforce.svg"
+          "path": "./icons/frappe/salesforce.svg"
         },
         "sass": {
-          "path": "./icons/mocha/sass.svg"
+          "path": "./icons/frappe/sass.svg"
         },
         "scala": {
-          "path": "./icons/mocha/scala.svg"
+          "path": "./icons/frappe/scala.svg"
         },
         "search": {
-          "path": "./icons/mocha/search.svg"
+          "path": "./icons/frappe/search.svg"
         },
         "security": {
-          "path": "./icons/mocha/security.svg"
+          "path": "./icons/frappe/security.svg"
         },
         "semantic-release": {
-          "path": "./icons/mocha/semantic-release.svg"
+          "path": "./icons/frappe/semantic-release.svg"
         },
         "semgrep-ignore": {
-          "path": "./icons/mocha/semgrep-ignore.svg"
+          "path": "./icons/frappe/semgrep-ignore.svg"
         },
         "semgrep": {
-          "path": "./icons/mocha/semgrep.svg"
+          "path": "./icons/frappe/semgrep.svg"
         },
         "sentry": {
-          "path": "./icons/mocha/sentry.svg"
+          "path": "./icons/frappe/sentry.svg"
         },
         "serverless": {
-          "path": "./icons/mocha/serverless.svg"
+          "path": "./icons/frappe/serverless.svg"
         },
         "shader": {
-          "path": "./icons/mocha/shader.svg"
+          "path": "./icons/frappe/shader.svg"
         },
         "sketch": {
-          "path": "./icons/mocha/sketch.svg"
+          "path": "./icons/frappe/sketch.svg"
         },
         "snowpack": {
-          "path": "./icons/mocha/snowpack.svg"
+          "path": "./icons/frappe/snowpack.svg"
         },
         "solidity": {
-          "path": "./icons/mocha/solidity.svg"
+          "path": "./icons/frappe/solidity.svg"
         },
         "sonar-cloud": {
-          "path": "./icons/mocha/sonar-cloud.svg"
+          "path": "./icons/frappe/sonar-cloud.svg"
         },
         "spwn": {
-          "path": "./icons/mocha/spwn.svg"
+          "path": "./icons/frappe/spwn.svg"
         },
         "stackblitz": {
-          "path": "./icons/mocha/stackblitz.svg"
+          "path": "./icons/frappe/stackblitz.svg"
         },
         "stata": {
-          "path": "./icons/mocha/stata.svg"
+          "path": "./icons/frappe/stata.svg"
         },
         "stencil": {
-          "path": "./icons/mocha/stencil.svg"
+          "path": "./icons/frappe/stencil.svg"
         },
         "stitches": {
-          "path": "./icons/mocha/stitches.svg"
+          "path": "./icons/frappe/stitches.svg"
         },
         "storybook-svelte": {
-          "path": "./icons/mocha/storybook-svelte.svg"
+          "path": "./icons/frappe/storybook-svelte.svg"
         },
         "storybook-vue": {
-          "path": "./icons/mocha/storybook-vue.svg"
+          "path": "./icons/frappe/storybook-vue.svg"
         },
         "storybook": {
-          "path": "./icons/mocha/storybook.svg"
+          "path": "./icons/frappe/storybook.svg"
         },
         "stylelint-ignore": {
-          "path": "./icons/mocha/stylelint-ignore.svg"
+          "path": "./icons/frappe/stylelint-ignore.svg"
         },
         "stylelint": {
-          "path": "./icons/mocha/stylelint.svg"
+          "path": "./icons/frappe/stylelint.svg"
         },
         "sublime": {
-          "path": "./icons/mocha/sublime.svg"
+          "path": "./icons/frappe/sublime.svg"
         },
         "super-collider": {
-          "path": "./icons/mocha/super-collider.svg"
+          "path": "./icons/frappe/super-collider.svg"
         },
         "svelte-config": {
-          "path": "./icons/mocha/svelte-config.svg"
+          "path": "./icons/frappe/svelte-config.svg"
         },
         "svelte": {
-          "path": "./icons/mocha/svelte.svg"
+          "path": "./icons/frappe/svelte.svg"
         },
         "svg": {
-          "path": "./icons/mocha/svg.svg"
+          "path": "./icons/frappe/svg.svg"
         },
         "swift": {
-          "path": "./icons/mocha/swift.svg"
+          "path": "./icons/frappe/swift.svg"
         },
         "tailwind": {
-          "path": "./icons/mocha/tailwind.svg"
+          "path": "./icons/frappe/tailwind.svg"
         },
         "taskfile": {
-          "path": "./icons/mocha/taskfile.svg"
+          "path": "./icons/frappe/taskfile.svg"
         },
         "tauri-ignore": {
-          "path": "./icons/mocha/tauri-ignore.svg"
+          "path": "./icons/frappe/tauri-ignore.svg"
         },
         "tauri": {
-          "path": "./icons/mocha/tauri.svg"
+          "path": "./icons/frappe/tauri.svg"
         },
         "terraform": {
-          "path": "./icons/mocha/terraform.svg"
+          "path": "./icons/frappe/terraform.svg"
         },
         "text": {
-          "path": "./icons/mocha/text.svg"
+          "path": "./icons/frappe/text.svg"
         },
         "todo": {
-          "path": "./icons/mocha/todo.svg"
+          "path": "./icons/frappe/todo.svg"
         },
         "toml": {
-          "path": "./icons/mocha/toml.svg"
+          "path": "./icons/frappe/toml.svg"
         },
         "turbo": {
-          "path": "./icons/mocha/turbo.svg"
+          "path": "./icons/frappe/turbo.svg"
         },
         "twig": {
-          "path": "./icons/mocha/twig.svg"
+          "path": "./icons/frappe/twig.svg"
         },
         "twine": {
-          "path": "./icons/mocha/twine.svg"
+          "path": "./icons/frappe/twine.svg"
         },
         "typescript-config": {
-          "path": "./icons/mocha/typescript-config.svg"
+          "path": "./icons/frappe/typescript-config.svg"
         },
         "typescript-def": {
-          "path": "./icons/mocha/typescript-def.svg"
+          "path": "./icons/frappe/typescript-def.svg"
         },
         "typescript-react": {
-          "path": "./icons/mocha/typescript-react.svg"
+          "path": "./icons/frappe/typescript-react.svg"
         },
         "typescript-test": {
-          "path": "./icons/mocha/typescript-test.svg"
+          "path": "./icons/frappe/typescript-test.svg"
         },
         "typescript": {
-          "path": "./icons/mocha/typescript.svg"
+          "path": "./icons/frappe/typescript.svg"
         },
         "typst": {
-          "path": "./icons/mocha/typst.svg"
+          "path": "./icons/frappe/typst.svg"
         },
         "unity": {
-          "path": "./icons/mocha/unity.svg"
+          "path": "./icons/frappe/unity.svg"
         },
         "unocss": {
-          "path": "./icons/mocha/unocss.svg"
+          "path": "./icons/frappe/unocss.svg"
         },
         "url": {
-          "path": "./icons/mocha/url.svg"
+          "path": "./icons/frappe/url.svg"
         },
         "uv": {
-          "path": "./icons/mocha/uv.svg"
+          "path": "./icons/frappe/uv.svg"
         },
         "v": {
-          "path": "./icons/mocha/v.svg"
+          "path": "./icons/frappe/v.svg"
         },
         "vanilla-extract": {
-          "path": "./icons/mocha/vanilla-extract.svg"
+          "path": "./icons/frappe/vanilla-extract.svg"
         },
         "vento": {
-          "path": "./icons/mocha/vento.svg"
+          "path": "./icons/frappe/vento.svg"
         },
         "vercel-ignore": {
-          "path": "./icons/mocha/vercel-ignore.svg"
+          "path": "./icons/frappe/vercel-ignore.svg"
         },
         "vercel": {
-          "path": "./icons/mocha/vercel.svg"
+          "path": "./icons/frappe/vercel.svg"
         },
         "verilog": {
-          "path": "./icons/mocha/verilog.svg"
+          "path": "./icons/frappe/verilog.svg"
         },
         "vhs": {
-          "path": "./icons/mocha/vhs.svg"
+          "path": "./icons/frappe/vhs.svg"
         },
         "video": {
-          "path": "./icons/mocha/video.svg"
+          "path": "./icons/frappe/video.svg"
         },
         "vim": {
-          "path": "./icons/mocha/vim.svg"
+          "path": "./icons/frappe/vim.svg"
         },
         "visual-studio": {
-          "path": "./icons/mocha/visual-studio.svg"
+          "path": "./icons/frappe/visual-studio.svg"
         },
         "vital": {
-          "path": "./icons/mocha/vital.svg"
+          "path": "./icons/frappe/vital.svg"
         },
         "vite": {
-          "path": "./icons/mocha/vite.svg"
+          "path": "./icons/frappe/vite.svg"
         },
         "vitest": {
-          "path": "./icons/mocha/vitest.svg"
+          "path": "./icons/frappe/vitest.svg"
         },
         "vs-codium": {
-          "path": "./icons/mocha/vs-codium.svg"
+          "path": "./icons/frappe/vs-codium.svg"
         },
         "vscode-ignore": {
-          "path": "./icons/mocha/vscode-ignore.svg"
+          "path": "./icons/frappe/vscode-ignore.svg"
         },
         "vscode": {
-          "path": "./icons/mocha/vscode.svg"
+          "path": "./icons/frappe/vscode.svg"
         },
         "vue-config": {
-          "path": "./icons/mocha/vue-config.svg"
+          "path": "./icons/frappe/vue-config.svg"
         },
         "vue": {
-          "path": "./icons/mocha/vue.svg"
+          "path": "./icons/frappe/vue.svg"
         },
         "web-assembly": {
-          "path": "./icons/mocha/web-assembly.svg"
+          "path": "./icons/frappe/web-assembly.svg"
         },
         "webpack": {
-          "path": "./icons/mocha/webpack.svg"
+          "path": "./icons/frappe/webpack.svg"
         },
         "windi": {
-          "path": "./icons/mocha/windi.svg"
+          "path": "./icons/frappe/windi.svg"
         },
         "workflow": {
-          "path": "./icons/mocha/workflow.svg"
+          "path": "./icons/frappe/workflow.svg"
         },
         "wxt": {
-          "path": "./icons/mocha/wxt.svg"
+          "path": "./icons/frappe/wxt.svg"
         },
         "xaml": {
-          "path": "./icons/mocha/xaml.svg"
+          "path": "./icons/frappe/xaml.svg"
         },
         "xcode": {
-          "path": "./icons/mocha/xcode.svg"
+          "path": "./icons/frappe/xcode.svg"
         },
         "xmake": {
-          "path": "./icons/mocha/xmake.svg"
+          "path": "./icons/frappe/xmake.svg"
         },
         "xml": {
-          "path": "./icons/mocha/xml.svg"
+          "path": "./icons/frappe/xml.svg"
         },
         "yaml": {
-          "path": "./icons/mocha/yaml.svg"
+          "path": "./icons/frappe/yaml.svg"
         },
         "yarn-lock": {
-          "path": "./icons/mocha/yarn-lock.svg"
+          "path": "./icons/frappe/yarn-lock.svg"
         },
         "yarn": {
-          "path": "./icons/mocha/yarn.svg"
+          "path": "./icons/frappe/yarn.svg"
         },
         "zap": {
-          "path": "./icons/mocha/zap.svg"
+          "path": "./icons/frappe/zap.svg"
         },
         "zig": {
-          "path": "./icons/mocha/zig.svg"
+          "path": "./icons/frappe/zig.svg"
         },
         "zip": {
-          "path": "./icons/mocha/zip.svg"
+          "path": "./icons/frappe/zip.svg"
+        },
+        "lock": {
+          "path": "./icons/frappe/lock.svg"
+        },
+        "settings": {
+          "path": "./icons/frappe/config.svg"
         }
       }
     },
@@ -7082,1018 +7094,1024 @@
       },
       "file_icons": {
         "adobe-ae": {
-          "path": "./icons/mocha/adobe-ae.svg"
+          "path": "./icons/macchiato/adobe-ae.svg"
         },
         "adobe-ai": {
-          "path": "./icons/mocha/adobe-ai.svg"
+          "path": "./icons/macchiato/adobe-ai.svg"
         },
         "adobe-id": {
-          "path": "./icons/mocha/adobe-id.svg"
+          "path": "./icons/macchiato/adobe-id.svg"
         },
         "adobe-ps": {
-          "path": "./icons/mocha/adobe-ps.svg"
+          "path": "./icons/macchiato/adobe-ps.svg"
         },
         "adobe-xd": {
-          "path": "./icons/mocha/adobe-xd.svg"
+          "path": "./icons/macchiato/adobe-xd.svg"
         },
         "adonis": {
-          "path": "./icons/mocha/adonis.svg"
+          "path": "./icons/macchiato/adonis.svg"
         },
         "alex": {
-          "path": "./icons/mocha/alex.svg"
+          "path": "./icons/macchiato/alex.svg"
         },
         "amber": {
-          "path": "./icons/mocha/amber.svg"
+          "path": "./icons/macchiato/amber.svg"
         },
         "android": {
-          "path": "./icons/mocha/android.svg"
+          "path": "./icons/macchiato/android.svg"
         },
         "angular": {
-          "path": "./icons/mocha/angular.svg"
+          "path": "./icons/macchiato/angular.svg"
         },
         "ansible-lint": {
-          "path": "./icons/mocha/ansible-lint.svg"
+          "path": "./icons/macchiato/ansible-lint.svg"
         },
         "antlr": {
-          "path": "./icons/mocha/antlr.svg"
+          "path": "./icons/macchiato/antlr.svg"
         },
         "apache": {
-          "path": "./icons/mocha/apache.svg"
+          "path": "./icons/macchiato/apache.svg"
         },
         "api-blueprint": {
-          "path": "./icons/mocha/api-blueprint.svg"
+          "path": "./icons/macchiato/api-blueprint.svg"
         },
         "apollo": {
-          "path": "./icons/mocha/apollo.svg"
+          "path": "./icons/macchiato/apollo.svg"
         },
         "apple": {
-          "path": "./icons/mocha/apple.svg"
+          "path": "./icons/macchiato/apple.svg"
         },
         "asciidoc": {
-          "path": "./icons/mocha/asciidoc.svg"
+          "path": "./icons/macchiato/asciidoc.svg"
         },
         "assembly": {
-          "path": "./icons/mocha/assembly.svg"
+          "path": "./icons/macchiato/assembly.svg"
         },
         "astro-config": {
-          "path": "./icons/mocha/astro-config.svg"
+          "path": "./icons/macchiato/astro-config.svg"
         },
         "astro": {
-          "path": "./icons/mocha/astro.svg"
+          "path": "./icons/macchiato/astro.svg"
         },
         "audio": {
-          "path": "./icons/mocha/audio.svg"
+          "path": "./icons/macchiato/audio.svg"
         },
         "autohotkey": {
-          "path": "./icons/mocha/autohotkey.svg"
+          "path": "./icons/macchiato/autohotkey.svg"
         },
         "azure-pipelines": {
-          "path": "./icons/mocha/azure-pipelines.svg"
+          "path": "./icons/macchiato/azure-pipelines.svg"
         },
         "babel": {
-          "path": "./icons/mocha/babel.svg"
+          "path": "./icons/macchiato/babel.svg"
         },
         "bash": {
-          "path": "./icons/mocha/bash.svg"
+          "path": "./icons/macchiato/bash.svg"
         },
         "batch": {
-          "path": "./icons/mocha/batch.svg"
+          "path": "./icons/macchiato/batch.svg"
         },
         "bazel": {
-          "path": "./icons/mocha/bazel.svg"
+          "path": "./icons/macchiato/bazel.svg"
         },
         "benchmark": {
-          "path": "./icons/mocha/benchmark.svg"
+          "path": "./icons/macchiato/benchmark.svg"
         },
         "binary": {
-          "path": "./icons/mocha/binary.svg"
+          "path": "./icons/macchiato/binary.svg"
         },
         "biome": {
-          "path": "./icons/mocha/biome.svg"
+          "path": "./icons/macchiato/biome.svg"
         },
         "bitbucket": {
-          "path": "./icons/mocha/bitbucket.svg"
+          "path": "./icons/macchiato/bitbucket.svg"
         },
         "blitz": {
-          "path": "./icons/mocha/blitz.svg"
+          "path": "./icons/macchiato/blitz.svg"
         },
         "bower": {
-          "path": "./icons/mocha/bower.svg"
+          "path": "./icons/macchiato/bower.svg"
         },
         "browserslist": {
-          "path": "./icons/mocha/browserslist.svg"
+          "path": "./icons/macchiato/browserslist.svg"
         },
         "bun-lock": {
-          "path": "./icons/mocha/bun-lock.svg"
+          "path": "./icons/macchiato/bun-lock.svg"
         },
         "bun": {
-          "path": "./icons/mocha/bun.svg"
+          "path": "./icons/macchiato/bun.svg"
         },
         "c-header": {
-          "path": "./icons/mocha/c-header.svg"
+          "path": "./icons/macchiato/c-header.svg"
         },
         "c": {
-          "path": "./icons/mocha/c.svg"
+          "path": "./icons/macchiato/c.svg"
         },
         "cabal": {
-          "path": "./icons/mocha/cabal.svg"
+          "path": "./icons/macchiato/cabal.svg"
         },
         "caddy": {
-          "path": "./icons/mocha/caddy.svg"
+          "path": "./icons/macchiato/caddy.svg"
         },
         "capacitor": {
-          "path": "./icons/mocha/capacitor.svg"
+          "path": "./icons/macchiato/capacitor.svg"
         },
         "cargo-lock": {
-          "path": "./icons/mocha/cargo-lock.svg"
+          "path": "./icons/macchiato/cargo-lock.svg"
         },
         "cargo": {
-          "path": "./icons/mocha/cargo.svg"
+          "path": "./icons/macchiato/cargo.svg"
         },
         "certificate": {
-          "path": "./icons/mocha/certificate.svg"
+          "path": "./icons/macchiato/certificate.svg"
         },
         "changelog": {
-          "path": "./icons/mocha/changelog.svg"
+          "path": "./icons/macchiato/changelog.svg"
         },
         "circle-ci": {
-          "path": "./icons/mocha/circle-ci.svg"
+          "path": "./icons/macchiato/circle-ci.svg"
         },
         "clojure": {
-          "path": "./icons/mocha/clojure.svg"
+          "path": "./icons/macchiato/clojure.svg"
         },
         "cmake": {
-          "path": "./icons/mocha/cmake.svg"
+          "path": "./icons/macchiato/cmake.svg"
         },
         "cobol": {
-          "path": "./icons/mocha/cobol.svg"
+          "path": "./icons/macchiato/cobol.svg"
         },
         "code-climate": {
-          "path": "./icons/mocha/code-climate.svg"
+          "path": "./icons/macchiato/code-climate.svg"
         },
         "code-of-conduct": {
-          "path": "./icons/mocha/code-of-conduct.svg"
+          "path": "./icons/macchiato/code-of-conduct.svg"
         },
         "codeowners": {
-          "path": "./icons/mocha/codeowners.svg"
+          "path": "./icons/macchiato/codeowners.svg"
         },
         "coffeescript": {
-          "path": "./icons/mocha/coffeescript.svg"
+          "path": "./icons/macchiato/coffeescript.svg"
         },
         "commitlint": {
-          "path": "./icons/mocha/commitlint.svg"
+          "path": "./icons/macchiato/commitlint.svg"
         },
         "contributing": {
-          "path": "./icons/mocha/contributing.svg"
+          "path": "./icons/macchiato/contributing.svg"
         },
         "cpp-header": {
-          "path": "./icons/mocha/cpp-header.svg"
+          "path": "./icons/macchiato/cpp-header.svg"
         },
         "cpp": {
-          "path": "./icons/mocha/cpp.svg"
+          "path": "./icons/macchiato/cpp.svg"
         },
         "csharp": {
-          "path": "./icons/mocha/csharp.svg"
+          "path": "./icons/macchiato/csharp.svg"
         },
         "cspell": {
-          "path": "./icons/mocha/cspell.svg"
+          "path": "./icons/macchiato/cspell.svg"
         },
         "css-map": {
-          "path": "./icons/mocha/css-map.svg"
+          "path": "./icons/macchiato/css-map.svg"
         },
         "css": {
-          "path": "./icons/mocha/css.svg"
+          "path": "./icons/macchiato/css.svg"
         },
         "csv": {
-          "path": "./icons/mocha/csv.svg"
+          "path": "./icons/macchiato/csv.svg"
         },
         "cucumber": {
-          "path": "./icons/mocha/cucumber.svg"
+          "path": "./icons/macchiato/cucumber.svg"
         },
         "cuda": {
-          "path": "./icons/mocha/cuda.svg"
+          "path": "./icons/macchiato/cuda.svg"
         },
         "cypress": {
-          "path": "./icons/mocha/cypress.svg"
+          "path": "./icons/macchiato/cypress.svg"
         },
         "d": {
-          "path": "./icons/mocha/d.svg"
+          "path": "./icons/macchiato/d.svg"
         },
         "dart-generated": {
-          "path": "./icons/mocha/dart-generated.svg"
+          "path": "./icons/macchiato/dart-generated.svg"
         },
         "dart": {
-          "path": "./icons/mocha/dart.svg"
+          "path": "./icons/macchiato/dart.svg"
         },
         "database": {
-          "path": "./icons/mocha/database.svg"
+          "path": "./icons/macchiato/database.svg"
         },
         "deno_lock": {
-          "path": "./icons/mocha/deno_lock.svg"
+          "path": "./icons/macchiato/deno_lock.svg"
         },
         "deno": {
-          "path": "./icons/mocha/deno.svg"
+          "path": "./icons/macchiato/deno.svg"
         },
         "dependabot": {
-          "path": "./icons/mocha/dependabot.svg"
+          "path": "./icons/macchiato/dependabot.svg"
         },
         "devcontainer": {
-          "path": "./icons/mocha/devcontainer.svg"
+          "path": "./icons/macchiato/devcontainer.svg"
         },
         "dhall": {
-          "path": "./icons/mocha/dhall.svg"
+          "path": "./icons/macchiato/dhall.svg"
         },
         "diff": {
-          "path": "./icons/mocha/diff.svg"
+          "path": "./icons/macchiato/diff.svg"
         },
         "django": {
-          "path": "./icons/mocha/django.svg"
+          "path": "./icons/macchiato/django.svg"
         },
         "docker-compose": {
-          "path": "./icons/mocha/docker-compose.svg"
+          "path": "./icons/macchiato/docker-compose.svg"
         },
         "docker-ignore": {
-          "path": "./icons/mocha/docker-ignore.svg"
+          "path": "./icons/macchiato/docker-ignore.svg"
         },
         "docker": {
-          "path": "./icons/mocha/docker.svg"
+          "path": "./icons/macchiato/docker.svg"
         },
         "drawio": {
-          "path": "./icons/mocha/drawio.svg"
+          "path": "./icons/macchiato/drawio.svg"
         },
         "drizzle-orm": {
-          "path": "./icons/mocha/drizzle-orm.svg"
+          "path": "./icons/macchiato/drizzle-orm.svg"
         },
         "dub-selections": {
-          "path": "./icons/mocha/dub-selections.svg"
+          "path": "./icons/macchiato/dub-selections.svg"
         },
         "dub": {
-          "path": "./icons/mocha/dub.svg"
+          "path": "./icons/macchiato/dub.svg"
         },
         "editorconfig": {
-          "path": "./icons/mocha/editorconfig.svg"
+          "path": "./icons/macchiato/editorconfig.svg"
         },
         "ejs": {
-          "path": "./icons/mocha/ejs.svg"
+          "path": "./icons/macchiato/ejs.svg"
         },
         "eleventy": {
-          "path": "./icons/mocha/eleventy.svg"
+          "path": "./icons/macchiato/eleventy.svg"
         },
         "elixir": {
-          "path": "./icons/mocha/elixir.svg"
+          "path": "./icons/macchiato/elixir.svg"
         },
         "elm": {
-          "path": "./icons/mocha/elm.svg"
+          "path": "./icons/macchiato/elm.svg"
         },
         "ember": {
-          "path": "./icons/mocha/ember.svg"
+          "path": "./icons/macchiato/ember.svg"
         },
         "env": {
-          "path": "./icons/mocha/env.svg"
+          "path": "./icons/macchiato/env.svg"
         },
         "envrc": {
-          "path": "./icons/mocha/envrc.svg"
+          "path": "./icons/macchiato/envrc.svg"
         },
         "erlang": {
-          "path": "./icons/mocha/erlang.svg"
+          "path": "./icons/macchiato/erlang.svg"
         },
         "esbuild": {
-          "path": "./icons/mocha/esbuild.svg"
+          "path": "./icons/macchiato/esbuild.svg"
         },
         "eslint-ignore": {
-          "path": "./icons/mocha/eslint-ignore.svg"
+          "path": "./icons/macchiato/eslint-ignore.svg"
         },
         "eslint": {
-          "path": "./icons/mocha/eslint.svg"
+          "path": "./icons/macchiato/eslint.svg"
         },
         "exe": {
-          "path": "./icons/mocha/exe.svg"
+          "path": "./icons/macchiato/exe.svg"
         },
         "fastlane": {
-          "path": "./icons/mocha/fastlane.svg"
+          "path": "./icons/macchiato/fastlane.svg"
         },
         "favicon": {
-          "path": "./icons/mocha/favicon.svg"
+          "path": "./icons/macchiato/favicon.svg"
         },
         "figma": {
-          "path": "./icons/mocha/figma.svg"
+          "path": "./icons/macchiato/figma.svg"
         },
         "firebase": {
-          "path": "./icons/mocha/firebase.svg"
+          "path": "./icons/macchiato/firebase.svg"
         },
         "flutter": {
-          "path": "./icons/mocha/flutter.svg"
+          "path": "./icons/macchiato/flutter.svg"
         },
         "font": {
-          "path": "./icons/mocha/font.svg"
+          "path": "./icons/macchiato/font.svg"
         },
         "fortran": {
-          "path": "./icons/mocha/fortran.svg"
+          "path": "./icons/macchiato/fortran.svg"
         },
         "fsharp": {
-          "path": "./icons/mocha/fsharp.svg"
+          "path": "./icons/macchiato/fsharp.svg"
         },
         "fvm": {
-          "path": "./icons/mocha/fvm.svg"
+          "path": "./icons/macchiato/fvm.svg"
         },
         "gatsby": {
-          "path": "./icons/mocha/gatsby.svg"
+          "path": "./icons/macchiato/gatsby.svg"
         },
         "gcp": {
-          "path": "./icons/mocha/gcp.svg"
+          "path": "./icons/macchiato/gcp.svg"
         },
         "git-cliff": {
-          "path": "./icons/mocha/git-cliff.svg"
+          "path": "./icons/macchiato/git-cliff.svg"
         },
         "git": {
-          "path": "./icons/mocha/git.svg"
+          "path": "./icons/macchiato/git.svg"
         },
         "gitlab": {
-          "path": "./icons/mocha/gitlab.svg"
+          "path": "./icons/macchiato/gitlab.svg"
         },
         "gitpod": {
-          "path": "./icons/mocha/gitpod.svg"
+          "path": "./icons/macchiato/gitpod.svg"
         },
         "gleam-config": {
-          "path": "./icons/mocha/gleam-config.svg"
+          "path": "./icons/macchiato/gleam-config.svg"
         },
         "gleam": {
-          "path": "./icons/mocha/gleam.svg"
+          "path": "./icons/macchiato/gleam.svg"
         },
         "go-mod": {
-          "path": "./icons/mocha/go-mod.svg"
+          "path": "./icons/macchiato/go-mod.svg"
         },
         "go-template": {
-          "path": "./icons/mocha/go-template.svg"
+          "path": "./icons/macchiato/go-template.svg"
         },
         "go": {
-          "path": "./icons/mocha/go.svg"
+          "path": "./icons/macchiato/go.svg"
         },
         "godot-assets": {
-          "path": "./icons/mocha/godot-assets.svg"
+          "path": "./icons/macchiato/godot-assets.svg"
         },
         "godot": {
-          "path": "./icons/mocha/godot.svg"
+          "path": "./icons/macchiato/godot.svg"
         },
         "gradle": {
-          "path": "./icons/mocha/gradle.svg"
+          "path": "./icons/macchiato/gradle.svg"
         },
         "graphql": {
-          "path": "./icons/mocha/graphql.svg"
+          "path": "./icons/macchiato/graphql.svg"
         },
         "groovy": {
-          "path": "./icons/mocha/groovy.svg"
+          "path": "./icons/macchiato/groovy.svg"
         },
         "gulp": {
-          "path": "./icons/mocha/gulp.svg"
+          "path": "./icons/macchiato/gulp.svg"
         },
         "haml": {
-          "path": "./icons/mocha/haml.svg"
+          "path": "./icons/macchiato/haml.svg"
         },
         "handlebars": {
-          "path": "./icons/mocha/handlebars.svg"
+          "path": "./icons/macchiato/handlebars.svg"
         },
         "hardhat": {
-          "path": "./icons/mocha/hardhat.svg"
+          "path": "./icons/macchiato/hardhat.svg"
         },
         "haskell": {
-          "path": "./icons/mocha/haskell.svg"
+          "path": "./icons/macchiato/haskell.svg"
         },
         "haxe": {
-          "path": "./icons/mocha/haxe.svg"
+          "path": "./icons/macchiato/haxe.svg"
         },
         "helm": {
-          "path": "./icons/mocha/helm.svg"
+          "path": "./icons/macchiato/helm.svg"
         },
         "heroku": {
-          "path": "./icons/mocha/heroku.svg"
+          "path": "./icons/macchiato/heroku.svg"
         },
         "histoire": {
-          "path": "./icons/mocha/histoire.svg"
+          "path": "./icons/macchiato/histoire.svg"
         },
         "html": {
-          "path": "./icons/mocha/html.svg"
+          "path": "./icons/macchiato/html.svg"
         },
         "http": {
-          "path": "./icons/mocha/http.svg"
+          "path": "./icons/macchiato/http.svg"
         },
         "huff": {
-          "path": "./icons/mocha/huff.svg"
+          "path": "./icons/macchiato/huff.svg"
         },
         "hugo": {
-          "path": "./icons/mocha/hugo.svg"
+          "path": "./icons/macchiato/hugo.svg"
         },
         "humans": {
-          "path": "./icons/mocha/humans.svg"
+          "path": "./icons/macchiato/humans.svg"
         },
         "husky": {
-          "path": "./icons/mocha/husky.svg"
+          "path": "./icons/macchiato/husky.svg"
         },
         "image": {
-          "path": "./icons/mocha/image.svg"
+          "path": "./icons/macchiato/image.svg"
         },
         "ionic": {
-          "path": "./icons/mocha/ionic.svg"
+          "path": "./icons/macchiato/ionic.svg"
         },
         "java-class": {
-          "path": "./icons/mocha/java-class.svg"
+          "path": "./icons/macchiato/java-class.svg"
         },
         "java-jar": {
-          "path": "./icons/mocha/java-jar.svg"
+          "path": "./icons/macchiato/java-jar.svg"
         },
         "java": {
-          "path": "./icons/mocha/java.svg"
+          "path": "./icons/macchiato/java.svg"
         },
         "javascript-config": {
-          "path": "./icons/mocha/javascript-config.svg"
+          "path": "./icons/macchiato/javascript-config.svg"
         },
         "javascript-map": {
-          "path": "./icons/mocha/javascript-map.svg"
+          "path": "./icons/macchiato/javascript-map.svg"
         },
         "javascript-react": {
-          "path": "./icons/mocha/javascript-react.svg"
+          "path": "./icons/macchiato/javascript-react.svg"
         },
         "javascript-test": {
-          "path": "./icons/mocha/javascript-test.svg"
+          "path": "./icons/macchiato/javascript-test.svg"
         },
         "javascript": {
-          "path": "./icons/mocha/javascript.svg"
+          "path": "./icons/macchiato/javascript.svg"
         },
         "jest": {
-          "path": "./icons/mocha/jest.svg"
+          "path": "./icons/macchiato/jest.svg"
         },
         "jinja": {
-          "path": "./icons/mocha/jinja.svg"
+          "path": "./icons/macchiato/jinja.svg"
         },
         "json-schema": {
-          "path": "./icons/mocha/json-schema.svg"
+          "path": "./icons/macchiato/json-schema.svg"
         },
         "json": {
-          "path": "./icons/mocha/json.svg"
+          "path": "./icons/macchiato/json.svg"
         },
         "juce": {
-          "path": "./icons/mocha/juce.svg"
+          "path": "./icons/macchiato/juce.svg"
         },
         "julia": {
-          "path": "./icons/mocha/julia.svg"
+          "path": "./icons/macchiato/julia.svg"
         },
         "jupyter": {
-          "path": "./icons/mocha/jupyter.svg"
+          "path": "./icons/macchiato/jupyter.svg"
         },
         "just": {
-          "path": "./icons/mocha/just.svg"
+          "path": "./icons/macchiato/just.svg"
         },
         "kdl": {
-          "path": "./icons/mocha/kdl.svg"
+          "path": "./icons/macchiato/kdl.svg"
         },
         "key": {
-          "path": "./icons/mocha/key.svg"
+          "path": "./icons/macchiato/key.svg"
         },
         "kotlin": {
-          "path": "./icons/mocha/kotlin.svg"
+          "path": "./icons/macchiato/kotlin.svg"
         },
         "laravel": {
-          "path": "./icons/mocha/laravel.svg"
+          "path": "./icons/macchiato/laravel.svg"
         },
         "latex": {
-          "path": "./icons/mocha/latex.svg"
+          "path": "./icons/macchiato/latex.svg"
         },
         "latte": {
-          "path": "./icons/mocha/latte.svg"
+          "path": "./icons/macchiato/latte.svg"
         },
         "lerna": {
-          "path": "./icons/mocha/lerna.svg"
+          "path": "./icons/macchiato/lerna.svg"
         },
         "less": {
-          "path": "./icons/mocha/less.svg"
+          "path": "./icons/macchiato/less.svg"
         },
         "lib": {
-          "path": "./icons/mocha/lib.svg"
+          "path": "./icons/macchiato/lib.svg"
         },
         "license": {
-          "path": "./icons/mocha/license.svg"
+          "path": "./icons/macchiato/license.svg"
         },
         "lint-staged": {
-          "path": "./icons/mocha/lint-staged.svg"
+          "path": "./icons/macchiato/lint-staged.svg"
         },
         "liquid": {
-          "path": "./icons/mocha/liquid.svg"
+          "path": "./icons/macchiato/liquid.svg"
         },
         "lisp": {
-          "path": "./icons/mocha/lisp.svg"
+          "path": "./icons/macchiato/lisp.svg"
         },
         "log": {
-          "path": "./icons/mocha/log.svg"
+          "path": "./icons/macchiato/log.svg"
         },
         "lua": {
-          "path": "./icons/mocha/lua.svg"
+          "path": "./icons/macchiato/lua.svg"
         },
         "luau": {
-          "path": "./icons/mocha/luau.svg"
+          "path": "./icons/macchiato/luau.svg"
         },
         "makefile": {
-          "path": "./icons/mocha/makefile.svg"
+          "path": "./icons/macchiato/makefile.svg"
         },
         "markdown-mdx": {
-          "path": "./icons/mocha/markdown-mdx.svg"
+          "path": "./icons/macchiato/markdown-mdx.svg"
         },
         "markdown": {
-          "path": "./icons/mocha/markdown.svg"
+          "path": "./icons/macchiato/markdown.svg"
         },
         "marko": {
-          "path": "./icons/mocha/marko.svg"
+          "path": "./icons/macchiato/marko.svg"
         },
         "matlab": {
-          "path": "./icons/mocha/matlab.svg"
+          "path": "./icons/macchiato/matlab.svg"
         },
         "mdbook": {
-          "path": "./icons/mocha/mdbook.svg"
+          "path": "./icons/macchiato/mdbook.svg"
         },
         "mermaid": {
-          "path": "./icons/mocha/mermaid.svg"
+          "path": "./icons/macchiato/mermaid.svg"
         },
         "meson": {
-          "path": "./icons/mocha/meson.svg"
+          "path": "./icons/macchiato/meson.svg"
         },
         "midi": {
-          "path": "./icons/mocha/midi.svg"
+          "path": "./icons/macchiato/midi.svg"
         },
         "mjml": {
-          "path": "./icons/mocha/mjml.svg"
+          "path": "./icons/macchiato/mjml.svg"
         },
         "modernizr": {
-          "path": "./icons/mocha/modernizr.svg"
+          "path": "./icons/macchiato/modernizr.svg"
         },
         "ms-excel": {
-          "path": "./icons/mocha/ms-excel.svg"
+          "path": "./icons/macchiato/ms-excel.svg"
         },
         "ms-powerpoint": {
-          "path": "./icons/mocha/ms-powerpoint.svg"
+          "path": "./icons/macchiato/ms-powerpoint.svg"
         },
         "ms-word": {
-          "path": "./icons/mocha/ms-word.svg"
+          "path": "./icons/macchiato/ms-word.svg"
         },
         "nativescript": {
-          "path": "./icons/mocha/nativescript.svg"
+          "path": "./icons/macchiato/nativescript.svg"
         },
         "nest": {
-          "path": "./icons/mocha/nest.svg"
+          "path": "./icons/macchiato/nest.svg"
         },
         "netlify": {
-          "path": "./icons/mocha/netlify.svg"
+          "path": "./icons/macchiato/netlify.svg"
         },
         "next": {
-          "path": "./icons/mocha/next.svg"
+          "path": "./icons/macchiato/next.svg"
         },
         "nextflow": {
-          "path": "./icons/mocha/nextflow.svg"
+          "path": "./icons/macchiato/nextflow.svg"
         },
         "nginx": {
-          "path": "./icons/mocha/nginx.svg"
+          "path": "./icons/macchiato/nginx.svg"
         },
         "nim": {
-          "path": "./icons/mocha/nim.svg"
+          "path": "./icons/macchiato/nim.svg"
         },
         "ninja": {
-          "path": "./icons/mocha/ninja.svg"
+          "path": "./icons/macchiato/ninja.svg"
         },
         "nix-lock": {
-          "path": "./icons/mocha/nix-lock.svg"
+          "path": "./icons/macchiato/nix-lock.svg"
         },
         "nix": {
-          "path": "./icons/mocha/nix.svg"
+          "path": "./icons/macchiato/nix.svg"
         },
         "nodemon": {
-          "path": "./icons/mocha/nodemon.svg"
+          "path": "./icons/macchiato/nodemon.svg"
         },
         "npm-ignore": {
-          "path": "./icons/mocha/npm-ignore.svg"
+          "path": "./icons/macchiato/npm-ignore.svg"
         },
         "npm-lock": {
-          "path": "./icons/mocha/npm-lock.svg"
+          "path": "./icons/macchiato/npm-lock.svg"
         },
         "npm": {
-          "path": "./icons/mocha/npm.svg"
+          "path": "./icons/macchiato/npm.svg"
         },
         "nuget": {
-          "path": "./icons/mocha/nuget.svg"
+          "path": "./icons/macchiato/nuget.svg"
         },
         "nunjucks": {
-          "path": "./icons/mocha/nunjucks.svg"
+          "path": "./icons/macchiato/nunjucks.svg"
         },
         "nuxt-ignore": {
-          "path": "./icons/mocha/nuxt-ignore.svg"
+          "path": "./icons/macchiato/nuxt-ignore.svg"
         },
         "nuxt": {
-          "path": "./icons/mocha/nuxt.svg"
+          "path": "./icons/macchiato/nuxt.svg"
         },
         "ocaml": {
-          "path": "./icons/mocha/ocaml.svg"
+          "path": "./icons/macchiato/ocaml.svg"
         },
         "org": {
-          "path": "./icons/mocha/org.svg"
+          "path": "./icons/macchiato/org.svg"
         },
         "package-json": {
-          "path": "./icons/mocha/package-json.svg"
+          "path": "./icons/macchiato/package-json.svg"
         },
         "panda-css": {
-          "path": "./icons/mocha/panda-css.svg"
+          "path": "./icons/macchiato/panda-css.svg"
         },
         "pdf": {
-          "path": "./icons/mocha/pdf.svg"
+          "path": "./icons/macchiato/pdf.svg"
         },
         "perl": {
-          "path": "./icons/mocha/perl.svg"
+          "path": "./icons/macchiato/perl.svg"
         },
         "php": {
-          "path": "./icons/mocha/php.svg"
+          "path": "./icons/macchiato/php.svg"
         },
         "phrase": {
-          "path": "./icons/mocha/phrase.svg"
+          "path": "./icons/macchiato/phrase.svg"
         },
         "phtml": {
-          "path": "./icons/mocha/phtml.svg"
+          "path": "./icons/macchiato/phtml.svg"
         },
         "pixi-lock": {
-          "path": "./icons/mocha/pixi-lock.svg"
+          "path": "./icons/macchiato/pixi-lock.svg"
         },
         "pixi": {
-          "path": "./icons/mocha/pixi.svg"
+          "path": "./icons/macchiato/pixi.svg"
         },
         "plantuml": {
-          "path": "./icons/mocha/plantuml.svg"
+          "path": "./icons/macchiato/plantuml.svg"
         },
         "playwright": {
-          "path": "./icons/mocha/playwright.svg"
+          "path": "./icons/macchiato/playwright.svg"
         },
         "plop": {
-          "path": "./icons/mocha/plop.svg"
+          "path": "./icons/macchiato/plop.svg"
         },
         "pnpm-lock": {
-          "path": "./icons/mocha/pnpm-lock.svg"
+          "path": "./icons/macchiato/pnpm-lock.svg"
         },
         "pnpm": {
-          "path": "./icons/mocha/pnpm.svg"
+          "path": "./icons/macchiato/pnpm.svg"
         },
         "poetry-lock": {
-          "path": "./icons/mocha/poetry-lock.svg"
+          "path": "./icons/macchiato/poetry-lock.svg"
         },
         "postcss": {
-          "path": "./icons/mocha/postcss.svg"
+          "path": "./icons/macchiato/postcss.svg"
         },
         "powershell": {
-          "path": "./icons/mocha/powershell.svg"
+          "path": "./icons/macchiato/powershell.svg"
         },
         "pre-commit": {
-          "path": "./icons/mocha/pre-commit.svg"
+          "path": "./icons/macchiato/pre-commit.svg"
         },
         "premake": {
-          "path": "./icons/mocha/premake.svg"
+          "path": "./icons/macchiato/premake.svg"
         },
         "prettier-ignore": {
-          "path": "./icons/mocha/prettier-ignore.svg"
+          "path": "./icons/macchiato/prettier-ignore.svg"
         },
         "prettier": {
-          "path": "./icons/mocha/prettier.svg"
+          "path": "./icons/macchiato/prettier.svg"
         },
         "prisma": {
-          "path": "./icons/mocha/prisma.svg"
+          "path": "./icons/macchiato/prisma.svg"
         },
         "prolog": {
-          "path": "./icons/mocha/prolog.svg"
+          "path": "./icons/macchiato/prolog.svg"
         },
         "properties": {
-          "path": "./icons/mocha/properties.svg"
+          "path": "./icons/macchiato/properties.svg"
         },
         "proto": {
-          "path": "./icons/mocha/proto.svg"
+          "path": "./icons/macchiato/proto.svg"
         },
         "pug": {
-          "path": "./icons/mocha/pug.svg"
+          "path": "./icons/macchiato/pug.svg"
         },
         "puppeteer": {
-          "path": "./icons/mocha/puppeteer.svg"
+          "path": "./icons/macchiato/puppeteer.svg"
         },
         "python-compiled": {
-          "path": "./icons/mocha/python-compiled.svg"
+          "path": "./icons/macchiato/python-compiled.svg"
         },
         "python-config": {
-          "path": "./icons/mocha/python-config.svg"
+          "path": "./icons/macchiato/python-config.svg"
         },
         "python": {
-          "path": "./icons/mocha/python.svg"
+          "path": "./icons/macchiato/python.svg"
         },
         "r": {
-          "path": "./icons/mocha/r.svg"
+          "path": "./icons/macchiato/r.svg"
         },
         "racket": {
-          "path": "./icons/mocha/racket.svg"
+          "path": "./icons/macchiato/racket.svg"
         },
         "razor": {
-          "path": "./icons/mocha/razor.svg"
+          "path": "./icons/macchiato/razor.svg"
         },
         "readme": {
-          "path": "./icons/mocha/readme.svg"
+          "path": "./icons/macchiato/readme.svg"
         },
         "reason": {
-          "path": "./icons/mocha/reason.svg"
+          "path": "./icons/macchiato/reason.svg"
         },
         "redwood": {
-          "path": "./icons/mocha/redwood.svg"
+          "path": "./icons/macchiato/redwood.svg"
         },
         "release": {
-          "path": "./icons/mocha/release.svg"
+          "path": "./icons/macchiato/release.svg"
         },
         "remix": {
-          "path": "./icons/mocha/remix.svg"
+          "path": "./icons/macchiato/remix.svg"
         },
         "renovate": {
-          "path": "./icons/mocha/renovate.svg"
+          "path": "./icons/macchiato/renovate.svg"
         },
         "rescript": {
-          "path": "./icons/mocha/rescript.svg"
+          "path": "./icons/macchiato/rescript.svg"
         },
         "roblox": {
-          "path": "./icons/mocha/roblox.svg"
+          "path": "./icons/macchiato/roblox.svg"
         },
         "robots": {
-          "path": "./icons/mocha/robots.svg"
+          "path": "./icons/macchiato/robots.svg"
         },
         "rollup": {
-          "path": "./icons/mocha/rollup.svg"
+          "path": "./icons/macchiato/rollup.svg"
         },
         "ruby-gem-lock": {
-          "path": "./icons/mocha/ruby-gem-lock.svg"
+          "path": "./icons/macchiato/ruby-gem-lock.svg"
         },
         "ruby-gem": {
-          "path": "./icons/mocha/ruby-gem.svg"
+          "path": "./icons/macchiato/ruby-gem.svg"
         },
         "ruby": {
-          "path": "./icons/mocha/ruby.svg"
+          "path": "./icons/macchiato/ruby.svg"
         },
         "ruff": {
-          "path": "./icons/mocha/ruff.svg"
+          "path": "./icons/macchiato/ruff.svg"
         },
         "rust-config": {
-          "path": "./icons/mocha/rust-config.svg"
+          "path": "./icons/macchiato/rust-config.svg"
         },
         "rust": {
-          "path": "./icons/mocha/rust.svg"
+          "path": "./icons/macchiato/rust.svg"
         },
         "salesforce": {
-          "path": "./icons/mocha/salesforce.svg"
+          "path": "./icons/macchiato/salesforce.svg"
         },
         "sass": {
-          "path": "./icons/mocha/sass.svg"
+          "path": "./icons/macchiato/sass.svg"
         },
         "scala": {
-          "path": "./icons/mocha/scala.svg"
+          "path": "./icons/macchiato/scala.svg"
         },
         "search": {
-          "path": "./icons/mocha/search.svg"
+          "path": "./icons/macchiato/search.svg"
         },
         "security": {
-          "path": "./icons/mocha/security.svg"
+          "path": "./icons/macchiato/security.svg"
         },
         "semantic-release": {
-          "path": "./icons/mocha/semantic-release.svg"
+          "path": "./icons/macchiato/semantic-release.svg"
         },
         "semgrep-ignore": {
-          "path": "./icons/mocha/semgrep-ignore.svg"
+          "path": "./icons/macchiato/semgrep-ignore.svg"
         },
         "semgrep": {
-          "path": "./icons/mocha/semgrep.svg"
+          "path": "./icons/macchiato/semgrep.svg"
         },
         "sentry": {
-          "path": "./icons/mocha/sentry.svg"
+          "path": "./icons/macchiato/sentry.svg"
         },
         "serverless": {
-          "path": "./icons/mocha/serverless.svg"
+          "path": "./icons/macchiato/serverless.svg"
         },
         "shader": {
-          "path": "./icons/mocha/shader.svg"
+          "path": "./icons/macchiato/shader.svg"
         },
         "sketch": {
-          "path": "./icons/mocha/sketch.svg"
+          "path": "./icons/macchiato/sketch.svg"
         },
         "snowpack": {
-          "path": "./icons/mocha/snowpack.svg"
+          "path": "./icons/macchiato/snowpack.svg"
         },
         "solidity": {
-          "path": "./icons/mocha/solidity.svg"
+          "path": "./icons/macchiato/solidity.svg"
         },
         "sonar-cloud": {
-          "path": "./icons/mocha/sonar-cloud.svg"
+          "path": "./icons/macchiato/sonar-cloud.svg"
         },
         "spwn": {
-          "path": "./icons/mocha/spwn.svg"
+          "path": "./icons/macchiato/spwn.svg"
         },
         "stackblitz": {
-          "path": "./icons/mocha/stackblitz.svg"
+          "path": "./icons/macchiato/stackblitz.svg"
         },
         "stata": {
-          "path": "./icons/mocha/stata.svg"
+          "path": "./icons/macchiato/stata.svg"
         },
         "stencil": {
-          "path": "./icons/mocha/stencil.svg"
+          "path": "./icons/macchiato/stencil.svg"
         },
         "stitches": {
-          "path": "./icons/mocha/stitches.svg"
+          "path": "./icons/macchiato/stitches.svg"
         },
         "storybook-svelte": {
-          "path": "./icons/mocha/storybook-svelte.svg"
+          "path": "./icons/macchiato/storybook-svelte.svg"
         },
         "storybook-vue": {
-          "path": "./icons/mocha/storybook-vue.svg"
+          "path": "./icons/macchiato/storybook-vue.svg"
         },
         "storybook": {
-          "path": "./icons/mocha/storybook.svg"
+          "path": "./icons/macchiato/storybook.svg"
         },
         "stylelint-ignore": {
-          "path": "./icons/mocha/stylelint-ignore.svg"
+          "path": "./icons/macchiato/stylelint-ignore.svg"
         },
         "stylelint": {
-          "path": "./icons/mocha/stylelint.svg"
+          "path": "./icons/macchiato/stylelint.svg"
         },
         "sublime": {
-          "path": "./icons/mocha/sublime.svg"
+          "path": "./icons/macchiato/sublime.svg"
         },
         "super-collider": {
-          "path": "./icons/mocha/super-collider.svg"
+          "path": "./icons/macchiato/super-collider.svg"
         },
         "svelte-config": {
-          "path": "./icons/mocha/svelte-config.svg"
+          "path": "./icons/macchiato/svelte-config.svg"
         },
         "svelte": {
-          "path": "./icons/mocha/svelte.svg"
+          "path": "./icons/macchiato/svelte.svg"
         },
         "svg": {
-          "path": "./icons/mocha/svg.svg"
+          "path": "./icons/macchiato/svg.svg"
         },
         "swift": {
-          "path": "./icons/mocha/swift.svg"
+          "path": "./icons/macchiato/swift.svg"
         },
         "tailwind": {
-          "path": "./icons/mocha/tailwind.svg"
+          "path": "./icons/macchiato/tailwind.svg"
         },
         "taskfile": {
-          "path": "./icons/mocha/taskfile.svg"
+          "path": "./icons/macchiato/taskfile.svg"
         },
         "tauri-ignore": {
-          "path": "./icons/mocha/tauri-ignore.svg"
+          "path": "./icons/macchiato/tauri-ignore.svg"
         },
         "tauri": {
-          "path": "./icons/mocha/tauri.svg"
+          "path": "./icons/macchiato/tauri.svg"
         },
         "terraform": {
-          "path": "./icons/mocha/terraform.svg"
+          "path": "./icons/macchiato/terraform.svg"
         },
         "text": {
-          "path": "./icons/mocha/text.svg"
+          "path": "./icons/macchiato/text.svg"
         },
         "todo": {
-          "path": "./icons/mocha/todo.svg"
+          "path": "./icons/macchiato/todo.svg"
         },
         "toml": {
-          "path": "./icons/mocha/toml.svg"
+          "path": "./icons/macchiato/toml.svg"
         },
         "turbo": {
-          "path": "./icons/mocha/turbo.svg"
+          "path": "./icons/macchiato/turbo.svg"
         },
         "twig": {
-          "path": "./icons/mocha/twig.svg"
+          "path": "./icons/macchiato/twig.svg"
         },
         "twine": {
-          "path": "./icons/mocha/twine.svg"
+          "path": "./icons/macchiato/twine.svg"
         },
         "typescript-config": {
-          "path": "./icons/mocha/typescript-config.svg"
+          "path": "./icons/macchiato/typescript-config.svg"
         },
         "typescript-def": {
-          "path": "./icons/mocha/typescript-def.svg"
+          "path": "./icons/macchiato/typescript-def.svg"
         },
         "typescript-react": {
-          "path": "./icons/mocha/typescript-react.svg"
+          "path": "./icons/macchiato/typescript-react.svg"
         },
         "typescript-test": {
-          "path": "./icons/mocha/typescript-test.svg"
+          "path": "./icons/macchiato/typescript-test.svg"
         },
         "typescript": {
-          "path": "./icons/mocha/typescript.svg"
+          "path": "./icons/macchiato/typescript.svg"
         },
         "typst": {
-          "path": "./icons/mocha/typst.svg"
+          "path": "./icons/macchiato/typst.svg"
         },
         "unity": {
-          "path": "./icons/mocha/unity.svg"
+          "path": "./icons/macchiato/unity.svg"
         },
         "unocss": {
-          "path": "./icons/mocha/unocss.svg"
+          "path": "./icons/macchiato/unocss.svg"
         },
         "url": {
-          "path": "./icons/mocha/url.svg"
+          "path": "./icons/macchiato/url.svg"
         },
         "uv": {
-          "path": "./icons/mocha/uv.svg"
+          "path": "./icons/macchiato/uv.svg"
         },
         "v": {
-          "path": "./icons/mocha/v.svg"
+          "path": "./icons/macchiato/v.svg"
         },
         "vanilla-extract": {
-          "path": "./icons/mocha/vanilla-extract.svg"
+          "path": "./icons/macchiato/vanilla-extract.svg"
         },
         "vento": {
-          "path": "./icons/mocha/vento.svg"
+          "path": "./icons/macchiato/vento.svg"
         },
         "vercel-ignore": {
-          "path": "./icons/mocha/vercel-ignore.svg"
+          "path": "./icons/macchiato/vercel-ignore.svg"
         },
         "vercel": {
-          "path": "./icons/mocha/vercel.svg"
+          "path": "./icons/macchiato/vercel.svg"
         },
         "verilog": {
-          "path": "./icons/mocha/verilog.svg"
+          "path": "./icons/macchiato/verilog.svg"
         },
         "vhs": {
-          "path": "./icons/mocha/vhs.svg"
+          "path": "./icons/macchiato/vhs.svg"
         },
         "video": {
-          "path": "./icons/mocha/video.svg"
+          "path": "./icons/macchiato/video.svg"
         },
         "vim": {
-          "path": "./icons/mocha/vim.svg"
+          "path": "./icons/macchiato/vim.svg"
         },
         "visual-studio": {
-          "path": "./icons/mocha/visual-studio.svg"
+          "path": "./icons/macchiato/visual-studio.svg"
         },
         "vital": {
-          "path": "./icons/mocha/vital.svg"
+          "path": "./icons/macchiato/vital.svg"
         },
         "vite": {
-          "path": "./icons/mocha/vite.svg"
+          "path": "./icons/macchiato/vite.svg"
         },
         "vitest": {
-          "path": "./icons/mocha/vitest.svg"
+          "path": "./icons/macchiato/vitest.svg"
         },
         "vs-codium": {
-          "path": "./icons/mocha/vs-codium.svg"
+          "path": "./icons/macchiato/vs-codium.svg"
         },
         "vscode-ignore": {
-          "path": "./icons/mocha/vscode-ignore.svg"
+          "path": "./icons/macchiato/vscode-ignore.svg"
         },
         "vscode": {
-          "path": "./icons/mocha/vscode.svg"
+          "path": "./icons/macchiato/vscode.svg"
         },
         "vue-config": {
-          "path": "./icons/mocha/vue-config.svg"
+          "path": "./icons/macchiato/vue-config.svg"
         },
         "vue": {
-          "path": "./icons/mocha/vue.svg"
+          "path": "./icons/macchiato/vue.svg"
         },
         "web-assembly": {
-          "path": "./icons/mocha/web-assembly.svg"
+          "path": "./icons/macchiato/web-assembly.svg"
         },
         "webpack": {
-          "path": "./icons/mocha/webpack.svg"
+          "path": "./icons/macchiato/webpack.svg"
         },
         "windi": {
-          "path": "./icons/mocha/windi.svg"
+          "path": "./icons/macchiato/windi.svg"
         },
         "workflow": {
-          "path": "./icons/mocha/workflow.svg"
+          "path": "./icons/macchiato/workflow.svg"
         },
         "wxt": {
-          "path": "./icons/mocha/wxt.svg"
+          "path": "./icons/macchiato/wxt.svg"
         },
         "xaml": {
-          "path": "./icons/mocha/xaml.svg"
+          "path": "./icons/macchiato/xaml.svg"
         },
         "xcode": {
-          "path": "./icons/mocha/xcode.svg"
+          "path": "./icons/macchiato/xcode.svg"
         },
         "xmake": {
-          "path": "./icons/mocha/xmake.svg"
+          "path": "./icons/macchiato/xmake.svg"
         },
         "xml": {
-          "path": "./icons/mocha/xml.svg"
+          "path": "./icons/macchiato/xml.svg"
         },
         "yaml": {
-          "path": "./icons/mocha/yaml.svg"
+          "path": "./icons/macchiato/yaml.svg"
         },
         "yarn-lock": {
-          "path": "./icons/mocha/yarn-lock.svg"
+          "path": "./icons/macchiato/yarn-lock.svg"
         },
         "yarn": {
-          "path": "./icons/mocha/yarn.svg"
+          "path": "./icons/macchiato/yarn.svg"
         },
         "zap": {
-          "path": "./icons/mocha/zap.svg"
+          "path": "./icons/macchiato/zap.svg"
         },
         "zig": {
-          "path": "./icons/mocha/zig.svg"
+          "path": "./icons/macchiato/zig.svg"
         },
         "zip": {
-          "path": "./icons/mocha/zip.svg"
+          "path": "./icons/macchiato/zip.svg"
+        },
+        "lock": {
+          "path": "./icons/macchiato/lock.svg"
+        },
+        "settings": {
+          "path": "./icons/macchiato/config.svg"
         }
       }
     },
@@ -10792,6 +10810,12 @@
         },
         "zip": {
           "path": "./icons/mocha/zip.svg"
+        },
+        "lock": {
+          "path": "./icons/mocha/lock.svg"
+        },
+        "settings": {
+          "path": "./icons/mocha/config.svg"
         }
       }
     }
