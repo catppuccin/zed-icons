@@ -1,5 +1,4 @@
-default:
-    just --list
+default: setup build
 
 alias i := setup
 alias init := setup
@@ -22,12 +21,3 @@ alias publish := deploy
     git tag -s {{ tag }} -m {{ tag }}
     git push origin {{ tag }}
     gh release create {{ tag }} --generate-notes --draft
-
-[group('github')]
-@act event_name="" +args="":
-    act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest {{ event_name }} -s GITHUB_TOKEN="$(gh auth token)" {{ args }}
-
-alias aj := act-job
-[group('github')]
-@act-job job_name:
-    act -P ubuntu-24.04-arm=catthehacker/ubuntu:act-latest -j {{ job_name }} -s GITHUB_TOKEN="$(gh auth token)"
