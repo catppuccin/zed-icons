@@ -50,10 +50,10 @@ for (const [vsCodeFileIcons_key, vscodeFileIcons_value] of Object.entries(fileIc
 }
 
 // stage 2: compile flavor specific properties
-let THEME = {};
-const fileIconEntries = {};
-fileIconEntries["file_icons"] = {};
-const flavorProperties: { [key: string]: any } = {};
+const FILE_ICON_OVERRIDES = {
+  "lock": "lock",
+  "settings": "config"
+}
 
 function createDirectoryIcons(flvr: string) {
   return {
@@ -65,22 +65,27 @@ function createDirectoryIcons(flvr: string) {
 }
 
 const themes = flavorEntries.map(([id, flavor]) => {
+  const localFileIconEntries: { file_icons: { [key: string]: { path: string } } } = { "file_icons": {} };
 
-  flavorProperties["name"] = `Catppuccin ${flavor.name}`
-  flavorProperties["appearance"] = `${flavor.dark ? "dark" : "light"}`;
+  // Theme-specific properties
+  const currentFlavorProperties = {
+    "name": `Catppuccin ${flavor.name}`,
+    "appearance": flavor.dark ? "dark" : "light"
+  };
+
   const directoryIconsEntries = createDirectoryIcons(id);
 
+  // Populate from vscode-icons defaults first
   for (const [vsCodeFileIcons_key, _] of Object.entries(fileIcons)) {
-
-    if (!fileIconEntries.hasOwnProperty(vsCodeFileIcons_key)) {
-      fileIconEntries["file_icons"][vsCodeFileIcons_key] = { "path": `./icons/${id}/${vsCodeFileIcons_key}.svg` };
-    } else {
-      // console.warn(`-- Key '${"file_icons"}' already exists, appending anyway...`);
-      fileIconEntries["file_icons"][vsCodeFileIcons_key] = { "path": `./icons/${id}/${vsCodeFileIcons_key}.svg` };
-    }
+    localFileIconEntries["file_icons"][vsCodeFileIcons_key] = { "path": `./icons/${id}/${vsCodeFileIcons_key}.svg` };
   }
 
-  return { ...flavorProperties, ...directoryIconsEntries, ...THEME_OVERRIDES, ...suffixEntries, ...fileIconEntries };
+  // Apply FILE_ICON_OVERRIDES
+  for (const [overrideKey, iconName] of Object.entries(FILE_ICON_OVERRIDES)) {
+    localFileIconEntries["file_icons"][overrideKey] = { "path": `./icons/${id}/${iconName}.svg` };
+  }
+
+  return { ...currentFlavorProperties, ...directoryIconsEntries, ...THEME_OVERRIDES, ...suffixEntries, ...localFileIconEntries };
 });
 
 ZED_THEME.themes.push(...themes);
