@@ -59,9 +59,9 @@
         "apiblueprint": "api-blueprint",
         "apollo.config.js": "apollo",
         "apollo.config.ts": "apollo",
-        ".ds_store": "apple",
         "apple-app-site-association": "apple",
         "apple-developer-merchantid-domain-association": "apple",
+        "ino": "arduino",
         "adoc": "asciidoc",
         "asciidoc": "asciidoc",
         "asc": "key",
@@ -154,6 +154,9 @@
         "benchmarks.md": "benchmark",
         "benchmarks.rst": "benchmark",
         "benchmarks.txt": "benchmark",
+        "bicepconfig.json": "bicep",
+        "bicep": "bicep",
+        "bicepparam": "bicep",
         "bin": "binary",
         "biome.json": "biome",
         "biome.jsonc": "biome",
@@ -184,6 +187,7 @@
         "cert": "certificate",
         "crt": "certificate",
         "pfx": "certificate",
+        "entitlements": "certificate",
         "changelog": "changelog",
         "changelog.md": "changelog",
         "changelog.rst": "changelog",
@@ -242,6 +246,8 @@
         "cp": "cpp",
         "mii": "cpp",
         "ii": "cpp",
+        "cr": "crystal",
+        "ecr": "crystal",
         "cs": "csharp",
         "csx": "csharp",
         "csharp": "csharp",
@@ -264,6 +270,10 @@
         "features": "cucumber",
         "cu": "cuda",
         "cuh": "cuda",
+        "cue": "cue",
+        ".cursorignore": "cursor-ignore",
+        ".cursorindexingignore": "cursor-ignore",
+        ".cursorrules": "cursor",
         "cypress.json": "cypress",
         "cypress.env.json": "cypress",
         "cypress.config.ts": "cypress",
@@ -272,6 +282,8 @@
         "cypress.config.mjs": "cypress",
         "d": "d",
         "di": "d",
+        "darklua.json": "darklua",
+        "darklua.json5": "darklua",
         "freezed.dart": "dart-generated",
         "g.dart": "dart-generated",
         "dart": "dart",
@@ -396,6 +408,10 @@
         "containerfile.ci": "docker",
         "containerfile.web": "docker",
         "containerfile.worker": "docker",
+        "docusaurus.config.js": "docusaurus",
+        "docusaurus.config.mjs": "docusaurus",
+        "docusaurus.config.cjs": "docusaurus",
+        "docusaurus.config.ts": "docusaurus",
         "drawio": "drawio",
         "dio": "drawio",
         "drizzle.config.ts": "drizzle-orm",
@@ -438,8 +454,10 @@
         ".env.preview": "env",
         ".env.test": "env",
         ".env.testing": "env",
+        ".env.dev.local": "env",
         ".env.development.local": "env",
         ".env.qa.local": "env",
+        ".env.prod.local": "env",
         ".env.production.local": "env",
         ".env.staging.local": "env",
         ".env.test.local": "env",
@@ -516,7 +534,6 @@
         "fs": "fsharp",
         "fsx": "fsharp",
         "fsi": "fsharp",
-        "fsproj": "fsharp",
         ".fvmrc": "fvm",
         "fvm_config.json": "fvm",
         "gatsby-config.js": "gatsby",
@@ -608,11 +625,15 @@
         "gulpfile.cts": "gulp",
         "gulpfile.mts": "gulp",
         "gulpfile.babel.js": "gulp",
+        "hacking.md": "hacking",
+        "hacking.txt": "hacking",
+        "hacking": "hacking",
         "haml": "haml",
         "hbs": "handlebars",
         "mustache": "handlebars",
         "hardhat.config.js": "hardhat",
         "hardhat.config.ts": "hardhat",
+        "ha": "hare",
         "hs": "haskell",
         "hx": "haxe",
         ".helmignore": "helm",
@@ -783,6 +804,8 @@
         "hjson": "json",
         "webmanifest": "json",
         "jucer": "juce",
+        "jule.mod": "jule",
+        "jule": "jule",
         "jl": "julia",
         "ipynb": "jupyter",
         "justfile": "just",
@@ -844,11 +867,17 @@
         ".lintstagedrc.yaml": "lint-staged",
         ".lintstagedrc.yml": "lint-staged",
         ".lintstagedrc.mjs": "lint-staged",
+        ".lintstagedrc.mts": "lint-staged",
         ".lintstagedrc.cjs": "lint-staged",
+        ".lintstagedrc.cts": "lint-staged",
         ".lintstagedrc.js": "lint-staged",
+        ".lintstagedrc.ts": "lint-staged",
         "lint-staged.config.js": "lint-staged",
+        "lint-staged.config.ts": "lint-staged",
         "lint-staged.config.mjs": "lint-staged",
+        "lint-staged.config.mts": "lint-staged",
         "lint-staged.config.cjs": "lint-staged",
+        "lint-staged.config.cts": "lint-staged",
         ".liquidrc.json": "liquid",
         ".liquidrc": "liquid",
         "liquid": "liquid",
@@ -857,19 +886,26 @@
         "cl": "lisp",
         "fast": "lisp",
         "log": "log",
+        ".rock": "lua-rocks",
+        ".rockspec": "lua-rocks",
         ".luacheckrc": "lua",
         "lua": "lua",
         ".luaurc": "luau",
         "luau": "luau",
+        ".ds_store": "macos",
         "makefile": "makefile",
         "gnumakefile": "makefile",
         "kbuild": "makefile",
         "mk": "makefile",
+        "mantle.yml": "mantle",
+        ".mantle-state.yml": "mantle",
         "mdx": "markdown-mdx",
         "md": "markdown",
         "markdown": "markdown",
         "rst": "markdown",
         "marko": "marko",
+        "m": "matlab",
+        "mat": "matlab",
         "book.toml": "mdbook",
         "mmd": "mermaid",
         "mermaid": "mermaid",
@@ -883,9 +919,16 @@
         ".modernizrrc": "modernizr",
         ".modernizrrc.js": "modernizr",
         ".modernizrrc.json": "modernizr",
+        "moon.yml": "moonrepo",
+        "moon.yaml": "moonrepo",
         "xlsx": "ms-excel",
         "xlsm": "ms-excel",
         "xls": "ms-excel",
+        "xlsb": "ms-excel",
+        "xltx": "ms-excel",
+        "xltm": "ms-excel",
+        "xlt": "ms-excel",
+        "ods": "ms-excel",
         "pptx": "ms-powerpoint",
         "ppt": "ms-powerpoint",
         "pptm": "ms-powerpoint",
@@ -898,9 +941,17 @@
         "ppa": "ms-powerpoint",
         "odp": "ms-powerpoint",
         "doc": "ms-word",
+        "docm": "ms-word",
         "docx": "ms-word",
+        "dot": "ms-word",
+        "dotm": "ms-word",
+        "dotx": "ms-word",
         "rtf": "ms-word",
         "odt": "ms-word",
+        "directory.build.props": "msbuild",
+        "directory.build.rsp": "msbuild",
+        "directory.build.targets": "msbuild",
+        "directory.packages.props": "msbuild",
         "nativescript.config.ts": "nativescript",
         "nativescript.config.js": "nativescript",
         "nest-cli.json": "nest",
@@ -940,9 +991,14 @@
         ".nuxtrc": "nuxt",
         "nuxt.config.js": "nuxt",
         "nuxt.config.ts": "nuxt",
+        ".nxignore": "nx-ignore",
+        "nx.json": "nx",
         "ml": "ocaml",
         "mli": "ocaml",
         "cmx": "ocaml",
+        "odin": "odin",
+        "tofu": "opentofu",
+        "tofu.json": "opentofu",
         "org": "org",
         "package.json": "package-json",
         ".nvmrc": "package-json",
@@ -967,6 +1023,8 @@
         "p6": "perl",
         "pl6": "perl",
         "pm6": "perl",
+        "pesde.lock": "pesde-lock",
+        "pesde.toml": "pesde",
         "php": "php",
         ".phrase.yml": "phrase",
         ".phraseapp.yml": "phrase",
@@ -1024,17 +1082,23 @@
         "premake.lua": "premake",
         ".prettierignore": "prettier-ignore",
         ".prettierrc": "prettier",
-        "prettier.config.js": "prettier",
-        "prettier.config.cjs": "prettier",
-        ".prettierrc.js": "prettier",
-        ".prettierrc.cjs": "prettier",
         ".prettierrc.json": "prettier",
-        ".prettierrc.json5": "prettier",
-        ".prettierrc.yaml": "prettier",
         ".prettierrc.yml": "prettier",
-        ".prettierrc.toml": "prettier",
-        "prettier.config.mjs": "prettier",
+        ".prettierrc.yaml": "prettier",
+        ".prettierrc.json5": "prettier",
+        ".prettierrc.js": "prettier",
+        "prettier.config.js": "prettier",
+        ".prettierrc.ts": "prettier",
+        "prettier.config.ts": "prettier",
         ".prettierrc.mjs": "prettier",
+        "prettier.config.mjs": "prettier",
+        ".prettierrc.mts": "prettier",
+        "prettier.config.mts": "prettier",
+        ".prettierrc.cjs": "prettier",
+        "prettier.config.cjs": "prettier",
+        ".prettierrc.cts": "prettier",
+        "prettier.config.cts": "prettier",
+        ".prettierrc.toml": "prettier",
         "prisma.yml": "prisma",
         "prisma": "prisma",
         "p": "prolog",
@@ -1053,11 +1117,14 @@
         "sln.dotsettings.user": "properties",
         "cfg": "properties",
         "proto": "proto",
+        ".prototools": "prototools",
         ".pug-lintrc": "pug",
         ".pug-lintrc.js": "pug",
         ".pug-lintrc.json": "pug",
         "jade": "pug",
         "pug": "pug",
+        "pp": "puppet",
+        "epp": "puppet",
         ".puppeteerrc.cjs,": "puppeteer",
         ".puppeteerrc.js,": "puppeteer",
         ".puppeteerrc": "puppeteer",
@@ -1074,12 +1141,12 @@
         "requirements-test.txt": "python-config",
         ".python-version": "python-config",
         "py": "python",
-        ".Rhistory": "r",
+        ".rhistory": "r",
         "r": "r",
-        "rmd": "r",
         "rkt": "racket",
         "cshtml": "razor",
         "vbhtml": "razor",
+        "rdata": "rdata",
         "readme.md": "readme",
         "readme.rst": "readme",
         "readme.txt": "readme",
@@ -1096,11 +1163,14 @@
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
         "res": "rescript",
+        "rmd": "rmd",
         "rbxl": "roblox",
         "rbxlx": "roblox",
         "rbxm": "roblox",
         "rbxmx": "roblox",
         "robots.txt": "robots",
+        "rocket.toml": "rocket",
+        "rokit.toml": "rokit",
         "rollup.config.js": "rollup",
         "rollup.config.mjs": "rollup",
         "rollup.config.ts": "rollup",
@@ -1122,6 +1192,7 @@
         "rollup.config.prod.vendor.js": "rollup",
         "rollup.config.prod.vendor.mjs": "rollup",
         "rollup.config.prod.vendor.ts": "rollup",
+        "rproj": "rproj",
         "gemfile.lock": "ruby-gem-lock",
         "gemfile": "ruby-gem",
         ".ruby-version": "ruby",
@@ -1141,6 +1212,7 @@
         "sass": "sass",
         "scala": "scala",
         "sc": "super-collider",
+        "scm": "scheme",
         "code-search": "search",
         "security.md": "security",
         "security.txt": "security",
@@ -1198,6 +1270,8 @@
         "tess.hlsl": "shader",
         "wgsl": "shader",
         "sketch": "sketch",
+        "sdf": "slidesk",
+        "sdt": "slidesk",
         "snowpack.config.js": "snowpack",
         "snowpack.config.cjs": "snowpack",
         "snowpack.config.mjs": "snowpack",
@@ -1211,6 +1285,7 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
         "do": "stata",
@@ -1237,14 +1312,22 @@
         ".stylelintcache": "stylelint-ignore",
         ".stylelintrc": "stylelint",
         "stylelint.config.js": "stylelint",
+        "stylelint.config.ts": "stylelint",
         "stylelint.config.cjs": "stylelint",
+        "stylelint.config.cts": "stylelint",
         "stylelint.config.mjs": "stylelint",
+        "stylelint.config.mts": "stylelint",
         ".stylelintrc.json": "stylelint",
         ".stylelintrc.yaml": "stylelint",
         ".stylelintrc.yml": "stylelint",
         ".stylelintrc.js": "stylelint",
+        ".stylelintrc.ts": "stylelint",
         ".stylelintrc.cjs": "stylelint",
+        ".stylelintrc.cts": "stylelint",
         ".stylelintrc.mjs": "stylelint",
+        ".stylelintrc.mts": "stylelint",
+        ".styluaignore": "stylua-ignore",
+        "stylua.toml": "stylua",
         "sublime-project": "sublime",
         "sublime-workspace": "sublime",
         "scd": "super-collider",
@@ -1255,6 +1338,7 @@
         "svelte": "svelte",
         "svg": "svg",
         "swift": "swift",
+        ".swiftformat": "swiftformat",
         "tailwind.js": "tailwind",
         "tailwind.ts": "tailwind",
         "tailwind.config.js": "tailwind",
@@ -1357,7 +1441,9 @@
         "vpkg.json": "v",
         "v.mod": "v",
         "v": "v",
+        "vala": "vala",
         "css.ts": "vanilla-extract",
+        "vapi": "vapi",
         "vto": "vento",
         ".vercelignore": "vercel-ignore",
         ".nowignore": "vercel-ignore",
@@ -1395,8 +1481,14 @@
         "vim": "vim",
         "viminfo": "vim",
         "csproj": "visual-studio",
+        "csproj.user": "visual-studio",
+        "vbproj": "visual-studio",
+        "vbproj.user": "visual-studio",
+        "fsproj": "visual-studio",
+        "fsproj.user": "visual-studio",
         "ruleset": "visual-studio",
         "sln": "visual-studio",
+        "slnf": "visual-studio",
         "slnx": "visual-studio",
         "suo": "visual-studio",
         "vb": "visual-studio",
@@ -1441,6 +1533,8 @@
         "vue.config.mts": "vue-config",
         ".vuerc": "vue-config",
         "vue": "vue",
+        "wally.toml": "wally",
+        "wally.lock": "wally",
         "wat": "web-assembly",
         "wasm": "web-assembly",
         "webpack.js": "webpack",
@@ -1628,6 +1722,9 @@
         "windi": "windi",
         "workflows/yml": "workflow",
         "workflows/yaml": "workflow",
+        "wrangler.toml": "wrangler",
+        "wrangler.json": "wrangler",
+        "wrangler.jsonc": "wrangler",
         "wxt.config.js": "wxt",
         "wxt.config.ts": "wxt",
         "xaml": "xaml",
@@ -1733,6 +1830,9 @@
         "apple": {
           "path": "./icons/latte/apple.svg"
         },
+        "arduino": {
+          "path": "./icons/latte/arduino.svg"
+        },
         "asciidoc": {
           "path": "./icons/latte/asciidoc.svg"
         },
@@ -1768,6 +1868,9 @@
         },
         "benchmark": {
           "path": "./icons/latte/benchmark.svg"
+        },
+        "bicep": {
+          "path": "./icons/latte/bicep.svg"
         },
         "binary": {
           "path": "./icons/latte/binary.svg"
@@ -1856,6 +1959,9 @@
         "cpp": {
           "path": "./icons/latte/cpp.svg"
         },
+        "crystal": {
+          "path": "./icons/latte/crystal.svg"
+        },
         "csharp": {
           "path": "./icons/latte/csharp.svg"
         },
@@ -1877,11 +1983,23 @@
         "cuda": {
           "path": "./icons/latte/cuda.svg"
         },
+        "cue": {
+          "path": "./icons/latte/cue.svg"
+        },
+        "cursor-ignore": {
+          "path": "./icons/latte/cursor-ignore.svg"
+        },
+        "cursor": {
+          "path": "./icons/latte/cursor.svg"
+        },
         "cypress": {
           "path": "./icons/latte/cypress.svg"
         },
         "d": {
           "path": "./icons/latte/d.svg"
+        },
+        "darklua": {
+          "path": "./icons/latte/darklua.svg"
         },
         "dart-generated": {
           "path": "./icons/latte/dart-generated.svg"
@@ -1921,6 +2039,9 @@
         },
         "docker": {
           "path": "./icons/latte/docker.svg"
+        },
+        "docusaurus": {
+          "path": "./icons/latte/docusaurus.svg"
         },
         "drawio": {
           "path": "./icons/latte/drawio.svg"
@@ -2051,6 +2172,9 @@
         "gulp": {
           "path": "./icons/latte/gulp.svg"
         },
+        "hacking": {
+          "path": "./icons/latte/hacking.svg"
+        },
         "haml": {
           "path": "./icons/latte/haml.svg"
         },
@@ -2059,6 +2183,9 @@
         },
         "hardhat": {
           "path": "./icons/latte/hardhat.svg"
+        },
+        "hare": {
+          "path": "./icons/latte/hare.svg"
         },
         "haskell": {
           "path": "./icons/latte/haskell.svg"
@@ -2138,6 +2265,9 @@
         "juce": {
           "path": "./icons/latte/juce.svg"
         },
+        "jule": {
+          "path": "./icons/latte/jule.svg"
+        },
         "julia": {
           "path": "./icons/latte/julia.svg"
         },
@@ -2189,14 +2319,23 @@
         "log": {
           "path": "./icons/latte/log.svg"
         },
+        "lua-rocks": {
+          "path": "./icons/latte/lua-rocks.svg"
+        },
         "lua": {
           "path": "./icons/latte/lua.svg"
         },
         "luau": {
           "path": "./icons/latte/luau.svg"
         },
+        "macos": {
+          "path": "./icons/latte/macos.svg"
+        },
         "makefile": {
           "path": "./icons/latte/makefile.svg"
+        },
+        "mantle": {
+          "path": "./icons/latte/mantle.svg"
         },
         "markdown-mdx": {
           "path": "./icons/latte/markdown-mdx.svg"
@@ -2228,6 +2367,9 @@
         "modernizr": {
           "path": "./icons/latte/modernizr.svg"
         },
+        "moonrepo": {
+          "path": "./icons/latte/moonrepo.svg"
+        },
         "ms-excel": {
           "path": "./icons/latte/ms-excel.svg"
         },
@@ -2236,6 +2378,9 @@
         },
         "ms-word": {
           "path": "./icons/latte/ms-word.svg"
+        },
+        "msbuild": {
+          "path": "./icons/latte/msbuild.svg"
         },
         "nativescript": {
           "path": "./icons/latte/nativescript.svg"
@@ -2291,8 +2436,20 @@
         "nuxt": {
           "path": "./icons/latte/nuxt.svg"
         },
+        "nx-ignore": {
+          "path": "./icons/latte/nx-ignore.svg"
+        },
+        "nx": {
+          "path": "./icons/latte/nx.svg"
+        },
         "ocaml": {
           "path": "./icons/latte/ocaml.svg"
+        },
+        "odin": {
+          "path": "./icons/latte/odin.svg"
+        },
+        "opentofu": {
+          "path": "./icons/latte/opentofu.svg"
         },
         "org": {
           "path": "./icons/latte/org.svg"
@@ -2308,6 +2465,12 @@
         },
         "perl": {
           "path": "./icons/latte/perl.svg"
+        },
+        "pesde-lock": {
+          "path": "./icons/latte/pesde-lock.svg"
+        },
+        "pesde": {
+          "path": "./icons/latte/pesde.svg"
         },
         "php": {
           "path": "./icons/latte/php.svg"
@@ -2372,8 +2535,14 @@
         "proto": {
           "path": "./icons/latte/proto.svg"
         },
+        "prototools": {
+          "path": "./icons/latte/prototools.svg"
+        },
         "pug": {
           "path": "./icons/latte/pug.svg"
+        },
+        "puppet": {
+          "path": "./icons/latte/puppet.svg"
         },
         "puppeteer": {
           "path": "./icons/latte/puppeteer.svg"
@@ -2396,6 +2565,9 @@
         "razor": {
           "path": "./icons/latte/razor.svg"
         },
+        "rdata": {
+          "path": "./icons/latte/rdata.svg"
+        },
         "readme": {
           "path": "./icons/latte/readme.svg"
         },
@@ -2417,14 +2589,26 @@
         "rescript": {
           "path": "./icons/latte/rescript.svg"
         },
+        "rmd": {
+          "path": "./icons/latte/rmd.svg"
+        },
         "roblox": {
           "path": "./icons/latte/roblox.svg"
         },
         "robots": {
           "path": "./icons/latte/robots.svg"
         },
+        "rocket": {
+          "path": "./icons/latte/rocket.svg"
+        },
+        "rokit": {
+          "path": "./icons/latte/rokit.svg"
+        },
         "rollup": {
           "path": "./icons/latte/rollup.svg"
+        },
+        "rproj": {
+          "path": "./icons/latte/rproj.svg"
         },
         "ruby-gem-lock": {
           "path": "./icons/latte/ruby-gem-lock.svg"
@@ -2453,6 +2637,9 @@
         "scala": {
           "path": "./icons/latte/scala.svg"
         },
+        "scheme": {
+          "path": "./icons/latte/scheme.svg"
+        },
         "search": {
           "path": "./icons/latte/search.svg"
         },
@@ -2480,6 +2667,9 @@
         "sketch": {
           "path": "./icons/latte/sketch.svg"
         },
+        "slidesk": {
+          "path": "./icons/latte/slidesk.svg"
+        },
         "snowpack": {
           "path": "./icons/latte/snowpack.svg"
         },
@@ -2491,6 +2681,9 @@
         },
         "spwn": {
           "path": "./icons/latte/spwn.svg"
+        },
+        "squirrel": {
+          "path": "./icons/latte/squirrel.svg"
         },
         "stackblitz": {
           "path": "./icons/latte/stackblitz.svg"
@@ -2519,6 +2712,12 @@
         "stylelint": {
           "path": "./icons/latte/stylelint.svg"
         },
+        "stylua-ignore": {
+          "path": "./icons/latte/stylua-ignore.svg"
+        },
+        "stylua": {
+          "path": "./icons/latte/stylua.svg"
+        },
         "sublime": {
           "path": "./icons/latte/sublime.svg"
         },
@@ -2536,6 +2735,9 @@
         },
         "swift": {
           "path": "./icons/latte/swift.svg"
+        },
+        "swiftformat": {
+          "path": "./icons/latte/swiftformat.svg"
         },
         "tailwind": {
           "path": "./icons/latte/tailwind.svg"
@@ -2603,8 +2805,14 @@
         "v": {
           "path": "./icons/latte/v.svg"
         },
+        "vala": {
+          "path": "./icons/latte/vala.svg"
+        },
         "vanilla-extract": {
           "path": "./icons/latte/vanilla-extract.svg"
+        },
+        "vapi": {
+          "path": "./icons/latte/vapi.svg"
         },
         "vento": {
           "path": "./icons/latte/vento.svg"
@@ -2654,6 +2862,9 @@
         "vue": {
           "path": "./icons/latte/vue.svg"
         },
+        "wally": {
+          "path": "./icons/latte/wally.svg"
+        },
         "web-assembly": {
           "path": "./icons/latte/web-assembly.svg"
         },
@@ -2665,6 +2876,9 @@
         },
         "workflow": {
           "path": "./icons/latte/workflow.svg"
+        },
+        "wrangler": {
+          "path": "./icons/latte/wrangler.svg"
         },
         "wxt": {
           "path": "./icons/latte/wxt.svg"
@@ -2763,9 +2977,9 @@
         "apiblueprint": "api-blueprint",
         "apollo.config.js": "apollo",
         "apollo.config.ts": "apollo",
-        ".ds_store": "apple",
         "apple-app-site-association": "apple",
         "apple-developer-merchantid-domain-association": "apple",
+        "ino": "arduino",
         "adoc": "asciidoc",
         "asciidoc": "asciidoc",
         "asc": "key",
@@ -2858,6 +3072,9 @@
         "benchmarks.md": "benchmark",
         "benchmarks.rst": "benchmark",
         "benchmarks.txt": "benchmark",
+        "bicepconfig.json": "bicep",
+        "bicep": "bicep",
+        "bicepparam": "bicep",
         "bin": "binary",
         "biome.json": "biome",
         "biome.jsonc": "biome",
@@ -2888,6 +3105,7 @@
         "cert": "certificate",
         "crt": "certificate",
         "pfx": "certificate",
+        "entitlements": "certificate",
         "changelog": "changelog",
         "changelog.md": "changelog",
         "changelog.rst": "changelog",
@@ -2946,6 +3164,8 @@
         "cp": "cpp",
         "mii": "cpp",
         "ii": "cpp",
+        "cr": "crystal",
+        "ecr": "crystal",
         "cs": "csharp",
         "csx": "csharp",
         "csharp": "csharp",
@@ -2968,6 +3188,10 @@
         "features": "cucumber",
         "cu": "cuda",
         "cuh": "cuda",
+        "cue": "cue",
+        ".cursorignore": "cursor-ignore",
+        ".cursorindexingignore": "cursor-ignore",
+        ".cursorrules": "cursor",
         "cypress.json": "cypress",
         "cypress.env.json": "cypress",
         "cypress.config.ts": "cypress",
@@ -2976,6 +3200,8 @@
         "cypress.config.mjs": "cypress",
         "d": "d",
         "di": "d",
+        "darklua.json": "darklua",
+        "darklua.json5": "darklua",
         "freezed.dart": "dart-generated",
         "g.dart": "dart-generated",
         "dart": "dart",
@@ -3100,6 +3326,10 @@
         "containerfile.ci": "docker",
         "containerfile.web": "docker",
         "containerfile.worker": "docker",
+        "docusaurus.config.js": "docusaurus",
+        "docusaurus.config.mjs": "docusaurus",
+        "docusaurus.config.cjs": "docusaurus",
+        "docusaurus.config.ts": "docusaurus",
         "drawio": "drawio",
         "dio": "drawio",
         "drizzle.config.ts": "drizzle-orm",
@@ -3142,8 +3372,10 @@
         ".env.preview": "env",
         ".env.test": "env",
         ".env.testing": "env",
+        ".env.dev.local": "env",
         ".env.development.local": "env",
         ".env.qa.local": "env",
+        ".env.prod.local": "env",
         ".env.production.local": "env",
         ".env.staging.local": "env",
         ".env.test.local": "env",
@@ -3220,7 +3452,6 @@
         "fs": "fsharp",
         "fsx": "fsharp",
         "fsi": "fsharp",
-        "fsproj": "fsharp",
         ".fvmrc": "fvm",
         "fvm_config.json": "fvm",
         "gatsby-config.js": "gatsby",
@@ -3312,11 +3543,15 @@
         "gulpfile.cts": "gulp",
         "gulpfile.mts": "gulp",
         "gulpfile.babel.js": "gulp",
+        "hacking.md": "hacking",
+        "hacking.txt": "hacking",
+        "hacking": "hacking",
         "haml": "haml",
         "hbs": "handlebars",
         "mustache": "handlebars",
         "hardhat.config.js": "hardhat",
         "hardhat.config.ts": "hardhat",
+        "ha": "hare",
         "hs": "haskell",
         "hx": "haxe",
         ".helmignore": "helm",
@@ -3487,6 +3722,8 @@
         "hjson": "json",
         "webmanifest": "json",
         "jucer": "juce",
+        "jule.mod": "jule",
+        "jule": "jule",
         "jl": "julia",
         "ipynb": "jupyter",
         "justfile": "just",
@@ -3548,11 +3785,17 @@
         ".lintstagedrc.yaml": "lint-staged",
         ".lintstagedrc.yml": "lint-staged",
         ".lintstagedrc.mjs": "lint-staged",
+        ".lintstagedrc.mts": "lint-staged",
         ".lintstagedrc.cjs": "lint-staged",
+        ".lintstagedrc.cts": "lint-staged",
         ".lintstagedrc.js": "lint-staged",
+        ".lintstagedrc.ts": "lint-staged",
         "lint-staged.config.js": "lint-staged",
+        "lint-staged.config.ts": "lint-staged",
         "lint-staged.config.mjs": "lint-staged",
+        "lint-staged.config.mts": "lint-staged",
         "lint-staged.config.cjs": "lint-staged",
+        "lint-staged.config.cts": "lint-staged",
         ".liquidrc.json": "liquid",
         ".liquidrc": "liquid",
         "liquid": "liquid",
@@ -3561,19 +3804,26 @@
         "cl": "lisp",
         "fast": "lisp",
         "log": "log",
+        ".rock": "lua-rocks",
+        ".rockspec": "lua-rocks",
         ".luacheckrc": "lua",
         "lua": "lua",
         ".luaurc": "luau",
         "luau": "luau",
+        ".ds_store": "macos",
         "makefile": "makefile",
         "gnumakefile": "makefile",
         "kbuild": "makefile",
         "mk": "makefile",
+        "mantle.yml": "mantle",
+        ".mantle-state.yml": "mantle",
         "mdx": "markdown-mdx",
         "md": "markdown",
         "markdown": "markdown",
         "rst": "markdown",
         "marko": "marko",
+        "m": "matlab",
+        "mat": "matlab",
         "book.toml": "mdbook",
         "mmd": "mermaid",
         "mermaid": "mermaid",
@@ -3587,9 +3837,16 @@
         ".modernizrrc": "modernizr",
         ".modernizrrc.js": "modernizr",
         ".modernizrrc.json": "modernizr",
+        "moon.yml": "moonrepo",
+        "moon.yaml": "moonrepo",
         "xlsx": "ms-excel",
         "xlsm": "ms-excel",
         "xls": "ms-excel",
+        "xlsb": "ms-excel",
+        "xltx": "ms-excel",
+        "xltm": "ms-excel",
+        "xlt": "ms-excel",
+        "ods": "ms-excel",
         "pptx": "ms-powerpoint",
         "ppt": "ms-powerpoint",
         "pptm": "ms-powerpoint",
@@ -3602,9 +3859,17 @@
         "ppa": "ms-powerpoint",
         "odp": "ms-powerpoint",
         "doc": "ms-word",
+        "docm": "ms-word",
         "docx": "ms-word",
+        "dot": "ms-word",
+        "dotm": "ms-word",
+        "dotx": "ms-word",
         "rtf": "ms-word",
         "odt": "ms-word",
+        "directory.build.props": "msbuild",
+        "directory.build.rsp": "msbuild",
+        "directory.build.targets": "msbuild",
+        "directory.packages.props": "msbuild",
         "nativescript.config.ts": "nativescript",
         "nativescript.config.js": "nativescript",
         "nest-cli.json": "nest",
@@ -3644,9 +3909,14 @@
         ".nuxtrc": "nuxt",
         "nuxt.config.js": "nuxt",
         "nuxt.config.ts": "nuxt",
+        ".nxignore": "nx-ignore",
+        "nx.json": "nx",
         "ml": "ocaml",
         "mli": "ocaml",
         "cmx": "ocaml",
+        "odin": "odin",
+        "tofu": "opentofu",
+        "tofu.json": "opentofu",
         "org": "org",
         "package.json": "package-json",
         ".nvmrc": "package-json",
@@ -3671,6 +3941,8 @@
         "p6": "perl",
         "pl6": "perl",
         "pm6": "perl",
+        "pesde.lock": "pesde-lock",
+        "pesde.toml": "pesde",
         "php": "php",
         ".phrase.yml": "phrase",
         ".phraseapp.yml": "phrase",
@@ -3728,17 +4000,23 @@
         "premake.lua": "premake",
         ".prettierignore": "prettier-ignore",
         ".prettierrc": "prettier",
-        "prettier.config.js": "prettier",
-        "prettier.config.cjs": "prettier",
-        ".prettierrc.js": "prettier",
-        ".prettierrc.cjs": "prettier",
         ".prettierrc.json": "prettier",
-        ".prettierrc.json5": "prettier",
-        ".prettierrc.yaml": "prettier",
         ".prettierrc.yml": "prettier",
-        ".prettierrc.toml": "prettier",
-        "prettier.config.mjs": "prettier",
+        ".prettierrc.yaml": "prettier",
+        ".prettierrc.json5": "prettier",
+        ".prettierrc.js": "prettier",
+        "prettier.config.js": "prettier",
+        ".prettierrc.ts": "prettier",
+        "prettier.config.ts": "prettier",
         ".prettierrc.mjs": "prettier",
+        "prettier.config.mjs": "prettier",
+        ".prettierrc.mts": "prettier",
+        "prettier.config.mts": "prettier",
+        ".prettierrc.cjs": "prettier",
+        "prettier.config.cjs": "prettier",
+        ".prettierrc.cts": "prettier",
+        "prettier.config.cts": "prettier",
+        ".prettierrc.toml": "prettier",
         "prisma.yml": "prisma",
         "prisma": "prisma",
         "p": "prolog",
@@ -3757,11 +4035,14 @@
         "sln.dotsettings.user": "properties",
         "cfg": "properties",
         "proto": "proto",
+        ".prototools": "prototools",
         ".pug-lintrc": "pug",
         ".pug-lintrc.js": "pug",
         ".pug-lintrc.json": "pug",
         "jade": "pug",
         "pug": "pug",
+        "pp": "puppet",
+        "epp": "puppet",
         ".puppeteerrc.cjs,": "puppeteer",
         ".puppeteerrc.js,": "puppeteer",
         ".puppeteerrc": "puppeteer",
@@ -3778,12 +4059,12 @@
         "requirements-test.txt": "python-config",
         ".python-version": "python-config",
         "py": "python",
-        ".Rhistory": "r",
+        ".rhistory": "r",
         "r": "r",
-        "rmd": "r",
         "rkt": "racket",
         "cshtml": "razor",
         "vbhtml": "razor",
+        "rdata": "rdata",
         "readme.md": "readme",
         "readme.rst": "readme",
         "readme.txt": "readme",
@@ -3800,11 +4081,14 @@
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
         "res": "rescript",
+        "rmd": "rmd",
         "rbxl": "roblox",
         "rbxlx": "roblox",
         "rbxm": "roblox",
         "rbxmx": "roblox",
         "robots.txt": "robots",
+        "rocket.toml": "rocket",
+        "rokit.toml": "rokit",
         "rollup.config.js": "rollup",
         "rollup.config.mjs": "rollup",
         "rollup.config.ts": "rollup",
@@ -3826,6 +4110,7 @@
         "rollup.config.prod.vendor.js": "rollup",
         "rollup.config.prod.vendor.mjs": "rollup",
         "rollup.config.prod.vendor.ts": "rollup",
+        "rproj": "rproj",
         "gemfile.lock": "ruby-gem-lock",
         "gemfile": "ruby-gem",
         ".ruby-version": "ruby",
@@ -3845,6 +4130,7 @@
         "sass": "sass",
         "scala": "scala",
         "sc": "super-collider",
+        "scm": "scheme",
         "code-search": "search",
         "security.md": "security",
         "security.txt": "security",
@@ -3902,6 +4188,8 @@
         "tess.hlsl": "shader",
         "wgsl": "shader",
         "sketch": "sketch",
+        "sdf": "slidesk",
+        "sdt": "slidesk",
         "snowpack.config.js": "snowpack",
         "snowpack.config.cjs": "snowpack",
         "snowpack.config.mjs": "snowpack",
@@ -3915,6 +4203,7 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
         "do": "stata",
@@ -3941,14 +4230,22 @@
         ".stylelintcache": "stylelint-ignore",
         ".stylelintrc": "stylelint",
         "stylelint.config.js": "stylelint",
+        "stylelint.config.ts": "stylelint",
         "stylelint.config.cjs": "stylelint",
+        "stylelint.config.cts": "stylelint",
         "stylelint.config.mjs": "stylelint",
+        "stylelint.config.mts": "stylelint",
         ".stylelintrc.json": "stylelint",
         ".stylelintrc.yaml": "stylelint",
         ".stylelintrc.yml": "stylelint",
         ".stylelintrc.js": "stylelint",
+        ".stylelintrc.ts": "stylelint",
         ".stylelintrc.cjs": "stylelint",
+        ".stylelintrc.cts": "stylelint",
         ".stylelintrc.mjs": "stylelint",
+        ".stylelintrc.mts": "stylelint",
+        ".styluaignore": "stylua-ignore",
+        "stylua.toml": "stylua",
         "sublime-project": "sublime",
         "sublime-workspace": "sublime",
         "scd": "super-collider",
@@ -3959,6 +4256,7 @@
         "svelte": "svelte",
         "svg": "svg",
         "swift": "swift",
+        ".swiftformat": "swiftformat",
         "tailwind.js": "tailwind",
         "tailwind.ts": "tailwind",
         "tailwind.config.js": "tailwind",
@@ -4061,7 +4359,9 @@
         "vpkg.json": "v",
         "v.mod": "v",
         "v": "v",
+        "vala": "vala",
         "css.ts": "vanilla-extract",
+        "vapi": "vapi",
         "vto": "vento",
         ".vercelignore": "vercel-ignore",
         ".nowignore": "vercel-ignore",
@@ -4099,8 +4399,14 @@
         "vim": "vim",
         "viminfo": "vim",
         "csproj": "visual-studio",
+        "csproj.user": "visual-studio",
+        "vbproj": "visual-studio",
+        "vbproj.user": "visual-studio",
+        "fsproj": "visual-studio",
+        "fsproj.user": "visual-studio",
         "ruleset": "visual-studio",
         "sln": "visual-studio",
+        "slnf": "visual-studio",
         "slnx": "visual-studio",
         "suo": "visual-studio",
         "vb": "visual-studio",
@@ -4145,6 +4451,8 @@
         "vue.config.mts": "vue-config",
         ".vuerc": "vue-config",
         "vue": "vue",
+        "wally.toml": "wally",
+        "wally.lock": "wally",
         "wat": "web-assembly",
         "wasm": "web-assembly",
         "webpack.js": "webpack",
@@ -4332,6 +4640,9 @@
         "windi": "windi",
         "workflows/yml": "workflow",
         "workflows/yaml": "workflow",
+        "wrangler.toml": "wrangler",
+        "wrangler.json": "wrangler",
+        "wrangler.jsonc": "wrangler",
         "wxt.config.js": "wxt",
         "wxt.config.ts": "wxt",
         "xaml": "xaml",
@@ -4437,6 +4748,9 @@
         "apple": {
           "path": "./icons/frappe/apple.svg"
         },
+        "arduino": {
+          "path": "./icons/frappe/arduino.svg"
+        },
         "asciidoc": {
           "path": "./icons/frappe/asciidoc.svg"
         },
@@ -4472,6 +4786,9 @@
         },
         "benchmark": {
           "path": "./icons/frappe/benchmark.svg"
+        },
+        "bicep": {
+          "path": "./icons/frappe/bicep.svg"
         },
         "binary": {
           "path": "./icons/frappe/binary.svg"
@@ -4560,6 +4877,9 @@
         "cpp": {
           "path": "./icons/frappe/cpp.svg"
         },
+        "crystal": {
+          "path": "./icons/frappe/crystal.svg"
+        },
         "csharp": {
           "path": "./icons/frappe/csharp.svg"
         },
@@ -4581,11 +4901,23 @@
         "cuda": {
           "path": "./icons/frappe/cuda.svg"
         },
+        "cue": {
+          "path": "./icons/frappe/cue.svg"
+        },
+        "cursor-ignore": {
+          "path": "./icons/frappe/cursor-ignore.svg"
+        },
+        "cursor": {
+          "path": "./icons/frappe/cursor.svg"
+        },
         "cypress": {
           "path": "./icons/frappe/cypress.svg"
         },
         "d": {
           "path": "./icons/frappe/d.svg"
+        },
+        "darklua": {
+          "path": "./icons/frappe/darklua.svg"
         },
         "dart-generated": {
           "path": "./icons/frappe/dart-generated.svg"
@@ -4625,6 +4957,9 @@
         },
         "docker": {
           "path": "./icons/frappe/docker.svg"
+        },
+        "docusaurus": {
+          "path": "./icons/frappe/docusaurus.svg"
         },
         "drawio": {
           "path": "./icons/frappe/drawio.svg"
@@ -4755,6 +5090,9 @@
         "gulp": {
           "path": "./icons/frappe/gulp.svg"
         },
+        "hacking": {
+          "path": "./icons/frappe/hacking.svg"
+        },
         "haml": {
           "path": "./icons/frappe/haml.svg"
         },
@@ -4763,6 +5101,9 @@
         },
         "hardhat": {
           "path": "./icons/frappe/hardhat.svg"
+        },
+        "hare": {
+          "path": "./icons/frappe/hare.svg"
         },
         "haskell": {
           "path": "./icons/frappe/haskell.svg"
@@ -4842,6 +5183,9 @@
         "juce": {
           "path": "./icons/frappe/juce.svg"
         },
+        "jule": {
+          "path": "./icons/frappe/jule.svg"
+        },
         "julia": {
           "path": "./icons/frappe/julia.svg"
         },
@@ -4893,14 +5237,23 @@
         "log": {
           "path": "./icons/frappe/log.svg"
         },
+        "lua-rocks": {
+          "path": "./icons/frappe/lua-rocks.svg"
+        },
         "lua": {
           "path": "./icons/frappe/lua.svg"
         },
         "luau": {
           "path": "./icons/frappe/luau.svg"
         },
+        "macos": {
+          "path": "./icons/frappe/macos.svg"
+        },
         "makefile": {
           "path": "./icons/frappe/makefile.svg"
+        },
+        "mantle": {
+          "path": "./icons/frappe/mantle.svg"
         },
         "markdown-mdx": {
           "path": "./icons/frappe/markdown-mdx.svg"
@@ -4932,6 +5285,9 @@
         "modernizr": {
           "path": "./icons/frappe/modernizr.svg"
         },
+        "moonrepo": {
+          "path": "./icons/frappe/moonrepo.svg"
+        },
         "ms-excel": {
           "path": "./icons/frappe/ms-excel.svg"
         },
@@ -4940,6 +5296,9 @@
         },
         "ms-word": {
           "path": "./icons/frappe/ms-word.svg"
+        },
+        "msbuild": {
+          "path": "./icons/frappe/msbuild.svg"
         },
         "nativescript": {
           "path": "./icons/frappe/nativescript.svg"
@@ -4995,8 +5354,20 @@
         "nuxt": {
           "path": "./icons/frappe/nuxt.svg"
         },
+        "nx-ignore": {
+          "path": "./icons/frappe/nx-ignore.svg"
+        },
+        "nx": {
+          "path": "./icons/frappe/nx.svg"
+        },
         "ocaml": {
           "path": "./icons/frappe/ocaml.svg"
+        },
+        "odin": {
+          "path": "./icons/frappe/odin.svg"
+        },
+        "opentofu": {
+          "path": "./icons/frappe/opentofu.svg"
         },
         "org": {
           "path": "./icons/frappe/org.svg"
@@ -5012,6 +5383,12 @@
         },
         "perl": {
           "path": "./icons/frappe/perl.svg"
+        },
+        "pesde-lock": {
+          "path": "./icons/frappe/pesde-lock.svg"
+        },
+        "pesde": {
+          "path": "./icons/frappe/pesde.svg"
         },
         "php": {
           "path": "./icons/frappe/php.svg"
@@ -5076,8 +5453,14 @@
         "proto": {
           "path": "./icons/frappe/proto.svg"
         },
+        "prototools": {
+          "path": "./icons/frappe/prototools.svg"
+        },
         "pug": {
           "path": "./icons/frappe/pug.svg"
+        },
+        "puppet": {
+          "path": "./icons/frappe/puppet.svg"
         },
         "puppeteer": {
           "path": "./icons/frappe/puppeteer.svg"
@@ -5100,6 +5483,9 @@
         "razor": {
           "path": "./icons/frappe/razor.svg"
         },
+        "rdata": {
+          "path": "./icons/frappe/rdata.svg"
+        },
         "readme": {
           "path": "./icons/frappe/readme.svg"
         },
@@ -5121,14 +5507,26 @@
         "rescript": {
           "path": "./icons/frappe/rescript.svg"
         },
+        "rmd": {
+          "path": "./icons/frappe/rmd.svg"
+        },
         "roblox": {
           "path": "./icons/frappe/roblox.svg"
         },
         "robots": {
           "path": "./icons/frappe/robots.svg"
         },
+        "rocket": {
+          "path": "./icons/frappe/rocket.svg"
+        },
+        "rokit": {
+          "path": "./icons/frappe/rokit.svg"
+        },
         "rollup": {
           "path": "./icons/frappe/rollup.svg"
+        },
+        "rproj": {
+          "path": "./icons/frappe/rproj.svg"
         },
         "ruby-gem-lock": {
           "path": "./icons/frappe/ruby-gem-lock.svg"
@@ -5157,6 +5555,9 @@
         "scala": {
           "path": "./icons/frappe/scala.svg"
         },
+        "scheme": {
+          "path": "./icons/frappe/scheme.svg"
+        },
         "search": {
           "path": "./icons/frappe/search.svg"
         },
@@ -5184,6 +5585,9 @@
         "sketch": {
           "path": "./icons/frappe/sketch.svg"
         },
+        "slidesk": {
+          "path": "./icons/frappe/slidesk.svg"
+        },
         "snowpack": {
           "path": "./icons/frappe/snowpack.svg"
         },
@@ -5195,6 +5599,9 @@
         },
         "spwn": {
           "path": "./icons/frappe/spwn.svg"
+        },
+        "squirrel": {
+          "path": "./icons/frappe/squirrel.svg"
         },
         "stackblitz": {
           "path": "./icons/frappe/stackblitz.svg"
@@ -5223,6 +5630,12 @@
         "stylelint": {
           "path": "./icons/frappe/stylelint.svg"
         },
+        "stylua-ignore": {
+          "path": "./icons/frappe/stylua-ignore.svg"
+        },
+        "stylua": {
+          "path": "./icons/frappe/stylua.svg"
+        },
         "sublime": {
           "path": "./icons/frappe/sublime.svg"
         },
@@ -5240,6 +5653,9 @@
         },
         "swift": {
           "path": "./icons/frappe/swift.svg"
+        },
+        "swiftformat": {
+          "path": "./icons/frappe/swiftformat.svg"
         },
         "tailwind": {
           "path": "./icons/frappe/tailwind.svg"
@@ -5307,8 +5723,14 @@
         "v": {
           "path": "./icons/frappe/v.svg"
         },
+        "vala": {
+          "path": "./icons/frappe/vala.svg"
+        },
         "vanilla-extract": {
           "path": "./icons/frappe/vanilla-extract.svg"
+        },
+        "vapi": {
+          "path": "./icons/frappe/vapi.svg"
         },
         "vento": {
           "path": "./icons/frappe/vento.svg"
@@ -5358,6 +5780,9 @@
         "vue": {
           "path": "./icons/frappe/vue.svg"
         },
+        "wally": {
+          "path": "./icons/frappe/wally.svg"
+        },
         "web-assembly": {
           "path": "./icons/frappe/web-assembly.svg"
         },
@@ -5369,6 +5794,9 @@
         },
         "workflow": {
           "path": "./icons/frappe/workflow.svg"
+        },
+        "wrangler": {
+          "path": "./icons/frappe/wrangler.svg"
         },
         "wxt": {
           "path": "./icons/frappe/wxt.svg"
@@ -5467,9 +5895,9 @@
         "apiblueprint": "api-blueprint",
         "apollo.config.js": "apollo",
         "apollo.config.ts": "apollo",
-        ".ds_store": "apple",
         "apple-app-site-association": "apple",
         "apple-developer-merchantid-domain-association": "apple",
+        "ino": "arduino",
         "adoc": "asciidoc",
         "asciidoc": "asciidoc",
         "asc": "key",
@@ -5562,6 +5990,9 @@
         "benchmarks.md": "benchmark",
         "benchmarks.rst": "benchmark",
         "benchmarks.txt": "benchmark",
+        "bicepconfig.json": "bicep",
+        "bicep": "bicep",
+        "bicepparam": "bicep",
         "bin": "binary",
         "biome.json": "biome",
         "biome.jsonc": "biome",
@@ -5592,6 +6023,7 @@
         "cert": "certificate",
         "crt": "certificate",
         "pfx": "certificate",
+        "entitlements": "certificate",
         "changelog": "changelog",
         "changelog.md": "changelog",
         "changelog.rst": "changelog",
@@ -5650,6 +6082,8 @@
         "cp": "cpp",
         "mii": "cpp",
         "ii": "cpp",
+        "cr": "crystal",
+        "ecr": "crystal",
         "cs": "csharp",
         "csx": "csharp",
         "csharp": "csharp",
@@ -5672,6 +6106,10 @@
         "features": "cucumber",
         "cu": "cuda",
         "cuh": "cuda",
+        "cue": "cue",
+        ".cursorignore": "cursor-ignore",
+        ".cursorindexingignore": "cursor-ignore",
+        ".cursorrules": "cursor",
         "cypress.json": "cypress",
         "cypress.env.json": "cypress",
         "cypress.config.ts": "cypress",
@@ -5680,6 +6118,8 @@
         "cypress.config.mjs": "cypress",
         "d": "d",
         "di": "d",
+        "darklua.json": "darklua",
+        "darklua.json5": "darklua",
         "freezed.dart": "dart-generated",
         "g.dart": "dart-generated",
         "dart": "dart",
@@ -5804,6 +6244,10 @@
         "containerfile.ci": "docker",
         "containerfile.web": "docker",
         "containerfile.worker": "docker",
+        "docusaurus.config.js": "docusaurus",
+        "docusaurus.config.mjs": "docusaurus",
+        "docusaurus.config.cjs": "docusaurus",
+        "docusaurus.config.ts": "docusaurus",
         "drawio": "drawio",
         "dio": "drawio",
         "drizzle.config.ts": "drizzle-orm",
@@ -5846,8 +6290,10 @@
         ".env.preview": "env",
         ".env.test": "env",
         ".env.testing": "env",
+        ".env.dev.local": "env",
         ".env.development.local": "env",
         ".env.qa.local": "env",
+        ".env.prod.local": "env",
         ".env.production.local": "env",
         ".env.staging.local": "env",
         ".env.test.local": "env",
@@ -5924,7 +6370,6 @@
         "fs": "fsharp",
         "fsx": "fsharp",
         "fsi": "fsharp",
-        "fsproj": "fsharp",
         ".fvmrc": "fvm",
         "fvm_config.json": "fvm",
         "gatsby-config.js": "gatsby",
@@ -6016,11 +6461,15 @@
         "gulpfile.cts": "gulp",
         "gulpfile.mts": "gulp",
         "gulpfile.babel.js": "gulp",
+        "hacking.md": "hacking",
+        "hacking.txt": "hacking",
+        "hacking": "hacking",
         "haml": "haml",
         "hbs": "handlebars",
         "mustache": "handlebars",
         "hardhat.config.js": "hardhat",
         "hardhat.config.ts": "hardhat",
+        "ha": "hare",
         "hs": "haskell",
         "hx": "haxe",
         ".helmignore": "helm",
@@ -6191,6 +6640,8 @@
         "hjson": "json",
         "webmanifest": "json",
         "jucer": "juce",
+        "jule.mod": "jule",
+        "jule": "jule",
         "jl": "julia",
         "ipynb": "jupyter",
         "justfile": "just",
@@ -6252,11 +6703,17 @@
         ".lintstagedrc.yaml": "lint-staged",
         ".lintstagedrc.yml": "lint-staged",
         ".lintstagedrc.mjs": "lint-staged",
+        ".lintstagedrc.mts": "lint-staged",
         ".lintstagedrc.cjs": "lint-staged",
+        ".lintstagedrc.cts": "lint-staged",
         ".lintstagedrc.js": "lint-staged",
+        ".lintstagedrc.ts": "lint-staged",
         "lint-staged.config.js": "lint-staged",
+        "lint-staged.config.ts": "lint-staged",
         "lint-staged.config.mjs": "lint-staged",
+        "lint-staged.config.mts": "lint-staged",
         "lint-staged.config.cjs": "lint-staged",
+        "lint-staged.config.cts": "lint-staged",
         ".liquidrc.json": "liquid",
         ".liquidrc": "liquid",
         "liquid": "liquid",
@@ -6265,19 +6722,26 @@
         "cl": "lisp",
         "fast": "lisp",
         "log": "log",
+        ".rock": "lua-rocks",
+        ".rockspec": "lua-rocks",
         ".luacheckrc": "lua",
         "lua": "lua",
         ".luaurc": "luau",
         "luau": "luau",
+        ".ds_store": "macos",
         "makefile": "makefile",
         "gnumakefile": "makefile",
         "kbuild": "makefile",
         "mk": "makefile",
+        "mantle.yml": "mantle",
+        ".mantle-state.yml": "mantle",
         "mdx": "markdown-mdx",
         "md": "markdown",
         "markdown": "markdown",
         "rst": "markdown",
         "marko": "marko",
+        "m": "matlab",
+        "mat": "matlab",
         "book.toml": "mdbook",
         "mmd": "mermaid",
         "mermaid": "mermaid",
@@ -6291,9 +6755,16 @@
         ".modernizrrc": "modernizr",
         ".modernizrrc.js": "modernizr",
         ".modernizrrc.json": "modernizr",
+        "moon.yml": "moonrepo",
+        "moon.yaml": "moonrepo",
         "xlsx": "ms-excel",
         "xlsm": "ms-excel",
         "xls": "ms-excel",
+        "xlsb": "ms-excel",
+        "xltx": "ms-excel",
+        "xltm": "ms-excel",
+        "xlt": "ms-excel",
+        "ods": "ms-excel",
         "pptx": "ms-powerpoint",
         "ppt": "ms-powerpoint",
         "pptm": "ms-powerpoint",
@@ -6306,9 +6777,17 @@
         "ppa": "ms-powerpoint",
         "odp": "ms-powerpoint",
         "doc": "ms-word",
+        "docm": "ms-word",
         "docx": "ms-word",
+        "dot": "ms-word",
+        "dotm": "ms-word",
+        "dotx": "ms-word",
         "rtf": "ms-word",
         "odt": "ms-word",
+        "directory.build.props": "msbuild",
+        "directory.build.rsp": "msbuild",
+        "directory.build.targets": "msbuild",
+        "directory.packages.props": "msbuild",
         "nativescript.config.ts": "nativescript",
         "nativescript.config.js": "nativescript",
         "nest-cli.json": "nest",
@@ -6348,9 +6827,14 @@
         ".nuxtrc": "nuxt",
         "nuxt.config.js": "nuxt",
         "nuxt.config.ts": "nuxt",
+        ".nxignore": "nx-ignore",
+        "nx.json": "nx",
         "ml": "ocaml",
         "mli": "ocaml",
         "cmx": "ocaml",
+        "odin": "odin",
+        "tofu": "opentofu",
+        "tofu.json": "opentofu",
         "org": "org",
         "package.json": "package-json",
         ".nvmrc": "package-json",
@@ -6375,6 +6859,8 @@
         "p6": "perl",
         "pl6": "perl",
         "pm6": "perl",
+        "pesde.lock": "pesde-lock",
+        "pesde.toml": "pesde",
         "php": "php",
         ".phrase.yml": "phrase",
         ".phraseapp.yml": "phrase",
@@ -6432,17 +6918,23 @@
         "premake.lua": "premake",
         ".prettierignore": "prettier-ignore",
         ".prettierrc": "prettier",
-        "prettier.config.js": "prettier",
-        "prettier.config.cjs": "prettier",
-        ".prettierrc.js": "prettier",
-        ".prettierrc.cjs": "prettier",
         ".prettierrc.json": "prettier",
-        ".prettierrc.json5": "prettier",
-        ".prettierrc.yaml": "prettier",
         ".prettierrc.yml": "prettier",
-        ".prettierrc.toml": "prettier",
-        "prettier.config.mjs": "prettier",
+        ".prettierrc.yaml": "prettier",
+        ".prettierrc.json5": "prettier",
+        ".prettierrc.js": "prettier",
+        "prettier.config.js": "prettier",
+        ".prettierrc.ts": "prettier",
+        "prettier.config.ts": "prettier",
         ".prettierrc.mjs": "prettier",
+        "prettier.config.mjs": "prettier",
+        ".prettierrc.mts": "prettier",
+        "prettier.config.mts": "prettier",
+        ".prettierrc.cjs": "prettier",
+        "prettier.config.cjs": "prettier",
+        ".prettierrc.cts": "prettier",
+        "prettier.config.cts": "prettier",
+        ".prettierrc.toml": "prettier",
         "prisma.yml": "prisma",
         "prisma": "prisma",
         "p": "prolog",
@@ -6461,11 +6953,14 @@
         "sln.dotsettings.user": "properties",
         "cfg": "properties",
         "proto": "proto",
+        ".prototools": "prototools",
         ".pug-lintrc": "pug",
         ".pug-lintrc.js": "pug",
         ".pug-lintrc.json": "pug",
         "jade": "pug",
         "pug": "pug",
+        "pp": "puppet",
+        "epp": "puppet",
         ".puppeteerrc.cjs,": "puppeteer",
         ".puppeteerrc.js,": "puppeteer",
         ".puppeteerrc": "puppeteer",
@@ -6482,12 +6977,12 @@
         "requirements-test.txt": "python-config",
         ".python-version": "python-config",
         "py": "python",
-        ".Rhistory": "r",
+        ".rhistory": "r",
         "r": "r",
-        "rmd": "r",
         "rkt": "racket",
         "cshtml": "razor",
         "vbhtml": "razor",
+        "rdata": "rdata",
         "readme.md": "readme",
         "readme.rst": "readme",
         "readme.txt": "readme",
@@ -6504,11 +6999,14 @@
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
         "res": "rescript",
+        "rmd": "rmd",
         "rbxl": "roblox",
         "rbxlx": "roblox",
         "rbxm": "roblox",
         "rbxmx": "roblox",
         "robots.txt": "robots",
+        "rocket.toml": "rocket",
+        "rokit.toml": "rokit",
         "rollup.config.js": "rollup",
         "rollup.config.mjs": "rollup",
         "rollup.config.ts": "rollup",
@@ -6530,6 +7028,7 @@
         "rollup.config.prod.vendor.js": "rollup",
         "rollup.config.prod.vendor.mjs": "rollup",
         "rollup.config.prod.vendor.ts": "rollup",
+        "rproj": "rproj",
         "gemfile.lock": "ruby-gem-lock",
         "gemfile": "ruby-gem",
         ".ruby-version": "ruby",
@@ -6549,6 +7048,7 @@
         "sass": "sass",
         "scala": "scala",
         "sc": "super-collider",
+        "scm": "scheme",
         "code-search": "search",
         "security.md": "security",
         "security.txt": "security",
@@ -6606,6 +7106,8 @@
         "tess.hlsl": "shader",
         "wgsl": "shader",
         "sketch": "sketch",
+        "sdf": "slidesk",
+        "sdt": "slidesk",
         "snowpack.config.js": "snowpack",
         "snowpack.config.cjs": "snowpack",
         "snowpack.config.mjs": "snowpack",
@@ -6619,6 +7121,7 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
         "do": "stata",
@@ -6645,14 +7148,22 @@
         ".stylelintcache": "stylelint-ignore",
         ".stylelintrc": "stylelint",
         "stylelint.config.js": "stylelint",
+        "stylelint.config.ts": "stylelint",
         "stylelint.config.cjs": "stylelint",
+        "stylelint.config.cts": "stylelint",
         "stylelint.config.mjs": "stylelint",
+        "stylelint.config.mts": "stylelint",
         ".stylelintrc.json": "stylelint",
         ".stylelintrc.yaml": "stylelint",
         ".stylelintrc.yml": "stylelint",
         ".stylelintrc.js": "stylelint",
+        ".stylelintrc.ts": "stylelint",
         ".stylelintrc.cjs": "stylelint",
+        ".stylelintrc.cts": "stylelint",
         ".stylelintrc.mjs": "stylelint",
+        ".stylelintrc.mts": "stylelint",
+        ".styluaignore": "stylua-ignore",
+        "stylua.toml": "stylua",
         "sublime-project": "sublime",
         "sublime-workspace": "sublime",
         "scd": "super-collider",
@@ -6663,6 +7174,7 @@
         "svelte": "svelte",
         "svg": "svg",
         "swift": "swift",
+        ".swiftformat": "swiftformat",
         "tailwind.js": "tailwind",
         "tailwind.ts": "tailwind",
         "tailwind.config.js": "tailwind",
@@ -6765,7 +7277,9 @@
         "vpkg.json": "v",
         "v.mod": "v",
         "v": "v",
+        "vala": "vala",
         "css.ts": "vanilla-extract",
+        "vapi": "vapi",
         "vto": "vento",
         ".vercelignore": "vercel-ignore",
         ".nowignore": "vercel-ignore",
@@ -6803,8 +7317,14 @@
         "vim": "vim",
         "viminfo": "vim",
         "csproj": "visual-studio",
+        "csproj.user": "visual-studio",
+        "vbproj": "visual-studio",
+        "vbproj.user": "visual-studio",
+        "fsproj": "visual-studio",
+        "fsproj.user": "visual-studio",
         "ruleset": "visual-studio",
         "sln": "visual-studio",
+        "slnf": "visual-studio",
         "slnx": "visual-studio",
         "suo": "visual-studio",
         "vb": "visual-studio",
@@ -6849,6 +7369,8 @@
         "vue.config.mts": "vue-config",
         ".vuerc": "vue-config",
         "vue": "vue",
+        "wally.toml": "wally",
+        "wally.lock": "wally",
         "wat": "web-assembly",
         "wasm": "web-assembly",
         "webpack.js": "webpack",
@@ -7036,6 +7558,9 @@
         "windi": "windi",
         "workflows/yml": "workflow",
         "workflows/yaml": "workflow",
+        "wrangler.toml": "wrangler",
+        "wrangler.json": "wrangler",
+        "wrangler.jsonc": "wrangler",
         "wxt.config.js": "wxt",
         "wxt.config.ts": "wxt",
         "xaml": "xaml",
@@ -7141,6 +7666,9 @@
         "apple": {
           "path": "./icons/macchiato/apple.svg"
         },
+        "arduino": {
+          "path": "./icons/macchiato/arduino.svg"
+        },
         "asciidoc": {
           "path": "./icons/macchiato/asciidoc.svg"
         },
@@ -7176,6 +7704,9 @@
         },
         "benchmark": {
           "path": "./icons/macchiato/benchmark.svg"
+        },
+        "bicep": {
+          "path": "./icons/macchiato/bicep.svg"
         },
         "binary": {
           "path": "./icons/macchiato/binary.svg"
@@ -7264,6 +7795,9 @@
         "cpp": {
           "path": "./icons/macchiato/cpp.svg"
         },
+        "crystal": {
+          "path": "./icons/macchiato/crystal.svg"
+        },
         "csharp": {
           "path": "./icons/macchiato/csharp.svg"
         },
@@ -7285,11 +7819,23 @@
         "cuda": {
           "path": "./icons/macchiato/cuda.svg"
         },
+        "cue": {
+          "path": "./icons/macchiato/cue.svg"
+        },
+        "cursor-ignore": {
+          "path": "./icons/macchiato/cursor-ignore.svg"
+        },
+        "cursor": {
+          "path": "./icons/macchiato/cursor.svg"
+        },
         "cypress": {
           "path": "./icons/macchiato/cypress.svg"
         },
         "d": {
           "path": "./icons/macchiato/d.svg"
+        },
+        "darklua": {
+          "path": "./icons/macchiato/darklua.svg"
         },
         "dart-generated": {
           "path": "./icons/macchiato/dart-generated.svg"
@@ -7329,6 +7875,9 @@
         },
         "docker": {
           "path": "./icons/macchiato/docker.svg"
+        },
+        "docusaurus": {
+          "path": "./icons/macchiato/docusaurus.svg"
         },
         "drawio": {
           "path": "./icons/macchiato/drawio.svg"
@@ -7459,6 +8008,9 @@
         "gulp": {
           "path": "./icons/macchiato/gulp.svg"
         },
+        "hacking": {
+          "path": "./icons/macchiato/hacking.svg"
+        },
         "haml": {
           "path": "./icons/macchiato/haml.svg"
         },
@@ -7467,6 +8019,9 @@
         },
         "hardhat": {
           "path": "./icons/macchiato/hardhat.svg"
+        },
+        "hare": {
+          "path": "./icons/macchiato/hare.svg"
         },
         "haskell": {
           "path": "./icons/macchiato/haskell.svg"
@@ -7546,6 +8101,9 @@
         "juce": {
           "path": "./icons/macchiato/juce.svg"
         },
+        "jule": {
+          "path": "./icons/macchiato/jule.svg"
+        },
         "julia": {
           "path": "./icons/macchiato/julia.svg"
         },
@@ -7597,14 +8155,23 @@
         "log": {
           "path": "./icons/macchiato/log.svg"
         },
+        "lua-rocks": {
+          "path": "./icons/macchiato/lua-rocks.svg"
+        },
         "lua": {
           "path": "./icons/macchiato/lua.svg"
         },
         "luau": {
           "path": "./icons/macchiato/luau.svg"
         },
+        "macos": {
+          "path": "./icons/macchiato/macos.svg"
+        },
         "makefile": {
           "path": "./icons/macchiato/makefile.svg"
+        },
+        "mantle": {
+          "path": "./icons/macchiato/mantle.svg"
         },
         "markdown-mdx": {
           "path": "./icons/macchiato/markdown-mdx.svg"
@@ -7636,6 +8203,9 @@
         "modernizr": {
           "path": "./icons/macchiato/modernizr.svg"
         },
+        "moonrepo": {
+          "path": "./icons/macchiato/moonrepo.svg"
+        },
         "ms-excel": {
           "path": "./icons/macchiato/ms-excel.svg"
         },
@@ -7644,6 +8214,9 @@
         },
         "ms-word": {
           "path": "./icons/macchiato/ms-word.svg"
+        },
+        "msbuild": {
+          "path": "./icons/macchiato/msbuild.svg"
         },
         "nativescript": {
           "path": "./icons/macchiato/nativescript.svg"
@@ -7699,8 +8272,20 @@
         "nuxt": {
           "path": "./icons/macchiato/nuxt.svg"
         },
+        "nx-ignore": {
+          "path": "./icons/macchiato/nx-ignore.svg"
+        },
+        "nx": {
+          "path": "./icons/macchiato/nx.svg"
+        },
         "ocaml": {
           "path": "./icons/macchiato/ocaml.svg"
+        },
+        "odin": {
+          "path": "./icons/macchiato/odin.svg"
+        },
+        "opentofu": {
+          "path": "./icons/macchiato/opentofu.svg"
         },
         "org": {
           "path": "./icons/macchiato/org.svg"
@@ -7716,6 +8301,12 @@
         },
         "perl": {
           "path": "./icons/macchiato/perl.svg"
+        },
+        "pesde-lock": {
+          "path": "./icons/macchiato/pesde-lock.svg"
+        },
+        "pesde": {
+          "path": "./icons/macchiato/pesde.svg"
         },
         "php": {
           "path": "./icons/macchiato/php.svg"
@@ -7780,8 +8371,14 @@
         "proto": {
           "path": "./icons/macchiato/proto.svg"
         },
+        "prototools": {
+          "path": "./icons/macchiato/prototools.svg"
+        },
         "pug": {
           "path": "./icons/macchiato/pug.svg"
+        },
+        "puppet": {
+          "path": "./icons/macchiato/puppet.svg"
         },
         "puppeteer": {
           "path": "./icons/macchiato/puppeteer.svg"
@@ -7804,6 +8401,9 @@
         "razor": {
           "path": "./icons/macchiato/razor.svg"
         },
+        "rdata": {
+          "path": "./icons/macchiato/rdata.svg"
+        },
         "readme": {
           "path": "./icons/macchiato/readme.svg"
         },
@@ -7825,14 +8425,26 @@
         "rescript": {
           "path": "./icons/macchiato/rescript.svg"
         },
+        "rmd": {
+          "path": "./icons/macchiato/rmd.svg"
+        },
         "roblox": {
           "path": "./icons/macchiato/roblox.svg"
         },
         "robots": {
           "path": "./icons/macchiato/robots.svg"
         },
+        "rocket": {
+          "path": "./icons/macchiato/rocket.svg"
+        },
+        "rokit": {
+          "path": "./icons/macchiato/rokit.svg"
+        },
         "rollup": {
           "path": "./icons/macchiato/rollup.svg"
+        },
+        "rproj": {
+          "path": "./icons/macchiato/rproj.svg"
         },
         "ruby-gem-lock": {
           "path": "./icons/macchiato/ruby-gem-lock.svg"
@@ -7861,6 +8473,9 @@
         "scala": {
           "path": "./icons/macchiato/scala.svg"
         },
+        "scheme": {
+          "path": "./icons/macchiato/scheme.svg"
+        },
         "search": {
           "path": "./icons/macchiato/search.svg"
         },
@@ -7888,6 +8503,9 @@
         "sketch": {
           "path": "./icons/macchiato/sketch.svg"
         },
+        "slidesk": {
+          "path": "./icons/macchiato/slidesk.svg"
+        },
         "snowpack": {
           "path": "./icons/macchiato/snowpack.svg"
         },
@@ -7899,6 +8517,9 @@
         },
         "spwn": {
           "path": "./icons/macchiato/spwn.svg"
+        },
+        "squirrel": {
+          "path": "./icons/macchiato/squirrel.svg"
         },
         "stackblitz": {
           "path": "./icons/macchiato/stackblitz.svg"
@@ -7927,6 +8548,12 @@
         "stylelint": {
           "path": "./icons/macchiato/stylelint.svg"
         },
+        "stylua-ignore": {
+          "path": "./icons/macchiato/stylua-ignore.svg"
+        },
+        "stylua": {
+          "path": "./icons/macchiato/stylua.svg"
+        },
         "sublime": {
           "path": "./icons/macchiato/sublime.svg"
         },
@@ -7944,6 +8571,9 @@
         },
         "swift": {
           "path": "./icons/macchiato/swift.svg"
+        },
+        "swiftformat": {
+          "path": "./icons/macchiato/swiftformat.svg"
         },
         "tailwind": {
           "path": "./icons/macchiato/tailwind.svg"
@@ -8011,8 +8641,14 @@
         "v": {
           "path": "./icons/macchiato/v.svg"
         },
+        "vala": {
+          "path": "./icons/macchiato/vala.svg"
+        },
         "vanilla-extract": {
           "path": "./icons/macchiato/vanilla-extract.svg"
+        },
+        "vapi": {
+          "path": "./icons/macchiato/vapi.svg"
         },
         "vento": {
           "path": "./icons/macchiato/vento.svg"
@@ -8062,6 +8698,9 @@
         "vue": {
           "path": "./icons/macchiato/vue.svg"
         },
+        "wally": {
+          "path": "./icons/macchiato/wally.svg"
+        },
         "web-assembly": {
           "path": "./icons/macchiato/web-assembly.svg"
         },
@@ -8073,6 +8712,9 @@
         },
         "workflow": {
           "path": "./icons/macchiato/workflow.svg"
+        },
+        "wrangler": {
+          "path": "./icons/macchiato/wrangler.svg"
         },
         "wxt": {
           "path": "./icons/macchiato/wxt.svg"
@@ -8171,9 +8813,9 @@
         "apiblueprint": "api-blueprint",
         "apollo.config.js": "apollo",
         "apollo.config.ts": "apollo",
-        ".ds_store": "apple",
         "apple-app-site-association": "apple",
         "apple-developer-merchantid-domain-association": "apple",
+        "ino": "arduino",
         "adoc": "asciidoc",
         "asciidoc": "asciidoc",
         "asc": "key",
@@ -8266,6 +8908,9 @@
         "benchmarks.md": "benchmark",
         "benchmarks.rst": "benchmark",
         "benchmarks.txt": "benchmark",
+        "bicepconfig.json": "bicep",
+        "bicep": "bicep",
+        "bicepparam": "bicep",
         "bin": "binary",
         "biome.json": "biome",
         "biome.jsonc": "biome",
@@ -8296,6 +8941,7 @@
         "cert": "certificate",
         "crt": "certificate",
         "pfx": "certificate",
+        "entitlements": "certificate",
         "changelog": "changelog",
         "changelog.md": "changelog",
         "changelog.rst": "changelog",
@@ -8354,6 +9000,8 @@
         "cp": "cpp",
         "mii": "cpp",
         "ii": "cpp",
+        "cr": "crystal",
+        "ecr": "crystal",
         "cs": "csharp",
         "csx": "csharp",
         "csharp": "csharp",
@@ -8376,6 +9024,10 @@
         "features": "cucumber",
         "cu": "cuda",
         "cuh": "cuda",
+        "cue": "cue",
+        ".cursorignore": "cursor-ignore",
+        ".cursorindexingignore": "cursor-ignore",
+        ".cursorrules": "cursor",
         "cypress.json": "cypress",
         "cypress.env.json": "cypress",
         "cypress.config.ts": "cypress",
@@ -8384,6 +9036,8 @@
         "cypress.config.mjs": "cypress",
         "d": "d",
         "di": "d",
+        "darklua.json": "darklua",
+        "darklua.json5": "darklua",
         "freezed.dart": "dart-generated",
         "g.dart": "dart-generated",
         "dart": "dart",
@@ -8508,6 +9162,10 @@
         "containerfile.ci": "docker",
         "containerfile.web": "docker",
         "containerfile.worker": "docker",
+        "docusaurus.config.js": "docusaurus",
+        "docusaurus.config.mjs": "docusaurus",
+        "docusaurus.config.cjs": "docusaurus",
+        "docusaurus.config.ts": "docusaurus",
         "drawio": "drawio",
         "dio": "drawio",
         "drizzle.config.ts": "drizzle-orm",
@@ -8550,8 +9208,10 @@
         ".env.preview": "env",
         ".env.test": "env",
         ".env.testing": "env",
+        ".env.dev.local": "env",
         ".env.development.local": "env",
         ".env.qa.local": "env",
+        ".env.prod.local": "env",
         ".env.production.local": "env",
         ".env.staging.local": "env",
         ".env.test.local": "env",
@@ -8628,7 +9288,6 @@
         "fs": "fsharp",
         "fsx": "fsharp",
         "fsi": "fsharp",
-        "fsproj": "fsharp",
         ".fvmrc": "fvm",
         "fvm_config.json": "fvm",
         "gatsby-config.js": "gatsby",
@@ -8720,11 +9379,15 @@
         "gulpfile.cts": "gulp",
         "gulpfile.mts": "gulp",
         "gulpfile.babel.js": "gulp",
+        "hacking.md": "hacking",
+        "hacking.txt": "hacking",
+        "hacking": "hacking",
         "haml": "haml",
         "hbs": "handlebars",
         "mustache": "handlebars",
         "hardhat.config.js": "hardhat",
         "hardhat.config.ts": "hardhat",
+        "ha": "hare",
         "hs": "haskell",
         "hx": "haxe",
         ".helmignore": "helm",
@@ -8895,6 +9558,8 @@
         "hjson": "json",
         "webmanifest": "json",
         "jucer": "juce",
+        "jule.mod": "jule",
+        "jule": "jule",
         "jl": "julia",
         "ipynb": "jupyter",
         "justfile": "just",
@@ -8956,11 +9621,17 @@
         ".lintstagedrc.yaml": "lint-staged",
         ".lintstagedrc.yml": "lint-staged",
         ".lintstagedrc.mjs": "lint-staged",
+        ".lintstagedrc.mts": "lint-staged",
         ".lintstagedrc.cjs": "lint-staged",
+        ".lintstagedrc.cts": "lint-staged",
         ".lintstagedrc.js": "lint-staged",
+        ".lintstagedrc.ts": "lint-staged",
         "lint-staged.config.js": "lint-staged",
+        "lint-staged.config.ts": "lint-staged",
         "lint-staged.config.mjs": "lint-staged",
+        "lint-staged.config.mts": "lint-staged",
         "lint-staged.config.cjs": "lint-staged",
+        "lint-staged.config.cts": "lint-staged",
         ".liquidrc.json": "liquid",
         ".liquidrc": "liquid",
         "liquid": "liquid",
@@ -8969,19 +9640,26 @@
         "cl": "lisp",
         "fast": "lisp",
         "log": "log",
+        ".rock": "lua-rocks",
+        ".rockspec": "lua-rocks",
         ".luacheckrc": "lua",
         "lua": "lua",
         ".luaurc": "luau",
         "luau": "luau",
+        ".ds_store": "macos",
         "makefile": "makefile",
         "gnumakefile": "makefile",
         "kbuild": "makefile",
         "mk": "makefile",
+        "mantle.yml": "mantle",
+        ".mantle-state.yml": "mantle",
         "mdx": "markdown-mdx",
         "md": "markdown",
         "markdown": "markdown",
         "rst": "markdown",
         "marko": "marko",
+        "m": "matlab",
+        "mat": "matlab",
         "book.toml": "mdbook",
         "mmd": "mermaid",
         "mermaid": "mermaid",
@@ -8995,9 +9673,16 @@
         ".modernizrrc": "modernizr",
         ".modernizrrc.js": "modernizr",
         ".modernizrrc.json": "modernizr",
+        "moon.yml": "moonrepo",
+        "moon.yaml": "moonrepo",
         "xlsx": "ms-excel",
         "xlsm": "ms-excel",
         "xls": "ms-excel",
+        "xlsb": "ms-excel",
+        "xltx": "ms-excel",
+        "xltm": "ms-excel",
+        "xlt": "ms-excel",
+        "ods": "ms-excel",
         "pptx": "ms-powerpoint",
         "ppt": "ms-powerpoint",
         "pptm": "ms-powerpoint",
@@ -9010,9 +9695,17 @@
         "ppa": "ms-powerpoint",
         "odp": "ms-powerpoint",
         "doc": "ms-word",
+        "docm": "ms-word",
         "docx": "ms-word",
+        "dot": "ms-word",
+        "dotm": "ms-word",
+        "dotx": "ms-word",
         "rtf": "ms-word",
         "odt": "ms-word",
+        "directory.build.props": "msbuild",
+        "directory.build.rsp": "msbuild",
+        "directory.build.targets": "msbuild",
+        "directory.packages.props": "msbuild",
         "nativescript.config.ts": "nativescript",
         "nativescript.config.js": "nativescript",
         "nest-cli.json": "nest",
@@ -9052,9 +9745,14 @@
         ".nuxtrc": "nuxt",
         "nuxt.config.js": "nuxt",
         "nuxt.config.ts": "nuxt",
+        ".nxignore": "nx-ignore",
+        "nx.json": "nx",
         "ml": "ocaml",
         "mli": "ocaml",
         "cmx": "ocaml",
+        "odin": "odin",
+        "tofu": "opentofu",
+        "tofu.json": "opentofu",
         "org": "org",
         "package.json": "package-json",
         ".nvmrc": "package-json",
@@ -9079,6 +9777,8 @@
         "p6": "perl",
         "pl6": "perl",
         "pm6": "perl",
+        "pesde.lock": "pesde-lock",
+        "pesde.toml": "pesde",
         "php": "php",
         ".phrase.yml": "phrase",
         ".phraseapp.yml": "phrase",
@@ -9136,17 +9836,23 @@
         "premake.lua": "premake",
         ".prettierignore": "prettier-ignore",
         ".prettierrc": "prettier",
-        "prettier.config.js": "prettier",
-        "prettier.config.cjs": "prettier",
-        ".prettierrc.js": "prettier",
-        ".prettierrc.cjs": "prettier",
         ".prettierrc.json": "prettier",
-        ".prettierrc.json5": "prettier",
-        ".prettierrc.yaml": "prettier",
         ".prettierrc.yml": "prettier",
-        ".prettierrc.toml": "prettier",
-        "prettier.config.mjs": "prettier",
+        ".prettierrc.yaml": "prettier",
+        ".prettierrc.json5": "prettier",
+        ".prettierrc.js": "prettier",
+        "prettier.config.js": "prettier",
+        ".prettierrc.ts": "prettier",
+        "prettier.config.ts": "prettier",
         ".prettierrc.mjs": "prettier",
+        "prettier.config.mjs": "prettier",
+        ".prettierrc.mts": "prettier",
+        "prettier.config.mts": "prettier",
+        ".prettierrc.cjs": "prettier",
+        "prettier.config.cjs": "prettier",
+        ".prettierrc.cts": "prettier",
+        "prettier.config.cts": "prettier",
+        ".prettierrc.toml": "prettier",
         "prisma.yml": "prisma",
         "prisma": "prisma",
         "p": "prolog",
@@ -9165,11 +9871,14 @@
         "sln.dotsettings.user": "properties",
         "cfg": "properties",
         "proto": "proto",
+        ".prototools": "prototools",
         ".pug-lintrc": "pug",
         ".pug-lintrc.js": "pug",
         ".pug-lintrc.json": "pug",
         "jade": "pug",
         "pug": "pug",
+        "pp": "puppet",
+        "epp": "puppet",
         ".puppeteerrc.cjs,": "puppeteer",
         ".puppeteerrc.js,": "puppeteer",
         ".puppeteerrc": "puppeteer",
@@ -9186,12 +9895,12 @@
         "requirements-test.txt": "python-config",
         ".python-version": "python-config",
         "py": "python",
-        ".Rhistory": "r",
+        ".rhistory": "r",
         "r": "r",
-        "rmd": "r",
         "rkt": "racket",
         "cshtml": "razor",
         "vbhtml": "razor",
+        "rdata": "rdata",
         "readme.md": "readme",
         "readme.rst": "readme",
         "readme.txt": "readme",
@@ -9208,11 +9917,14 @@
         "renovate.json": "renovate",
         "renovate.json5": "renovate",
         "res": "rescript",
+        "rmd": "rmd",
         "rbxl": "roblox",
         "rbxlx": "roblox",
         "rbxm": "roblox",
         "rbxmx": "roblox",
         "robots.txt": "robots",
+        "rocket.toml": "rocket",
+        "rokit.toml": "rokit",
         "rollup.config.js": "rollup",
         "rollup.config.mjs": "rollup",
         "rollup.config.ts": "rollup",
@@ -9234,6 +9946,7 @@
         "rollup.config.prod.vendor.js": "rollup",
         "rollup.config.prod.vendor.mjs": "rollup",
         "rollup.config.prod.vendor.ts": "rollup",
+        "rproj": "rproj",
         "gemfile.lock": "ruby-gem-lock",
         "gemfile": "ruby-gem",
         ".ruby-version": "ruby",
@@ -9253,6 +9966,7 @@
         "sass": "sass",
         "scala": "scala",
         "sc": "super-collider",
+        "scm": "scheme",
         "code-search": "search",
         "security.md": "security",
         "security.txt": "security",
@@ -9310,6 +10024,8 @@
         "tess.hlsl": "shader",
         "wgsl": "shader",
         "sketch": "sketch",
+        "sdf": "slidesk",
+        "sdt": "slidesk",
         "snowpack.config.js": "snowpack",
         "snowpack.config.cjs": "snowpack",
         "snowpack.config.mjs": "snowpack",
@@ -9323,6 +10039,7 @@
         ".sonarcloud.properties": "sonar-cloud",
         "sonarcloud.yaml": "sonar-cloud",
         "spwn": "spwn",
+        "nut": "squirrel",
         ".stackblitzrc": "stackblitz",
         "ado": "stata",
         "do": "stata",
@@ -9349,14 +10066,22 @@
         ".stylelintcache": "stylelint-ignore",
         ".stylelintrc": "stylelint",
         "stylelint.config.js": "stylelint",
+        "stylelint.config.ts": "stylelint",
         "stylelint.config.cjs": "stylelint",
+        "stylelint.config.cts": "stylelint",
         "stylelint.config.mjs": "stylelint",
+        "stylelint.config.mts": "stylelint",
         ".stylelintrc.json": "stylelint",
         ".stylelintrc.yaml": "stylelint",
         ".stylelintrc.yml": "stylelint",
         ".stylelintrc.js": "stylelint",
+        ".stylelintrc.ts": "stylelint",
         ".stylelintrc.cjs": "stylelint",
+        ".stylelintrc.cts": "stylelint",
         ".stylelintrc.mjs": "stylelint",
+        ".stylelintrc.mts": "stylelint",
+        ".styluaignore": "stylua-ignore",
+        "stylua.toml": "stylua",
         "sublime-project": "sublime",
         "sublime-workspace": "sublime",
         "scd": "super-collider",
@@ -9367,6 +10092,7 @@
         "svelte": "svelte",
         "svg": "svg",
         "swift": "swift",
+        ".swiftformat": "swiftformat",
         "tailwind.js": "tailwind",
         "tailwind.ts": "tailwind",
         "tailwind.config.js": "tailwind",
@@ -9469,7 +10195,9 @@
         "vpkg.json": "v",
         "v.mod": "v",
         "v": "v",
+        "vala": "vala",
         "css.ts": "vanilla-extract",
+        "vapi": "vapi",
         "vto": "vento",
         ".vercelignore": "vercel-ignore",
         ".nowignore": "vercel-ignore",
@@ -9507,8 +10235,14 @@
         "vim": "vim",
         "viminfo": "vim",
         "csproj": "visual-studio",
+        "csproj.user": "visual-studio",
+        "vbproj": "visual-studio",
+        "vbproj.user": "visual-studio",
+        "fsproj": "visual-studio",
+        "fsproj.user": "visual-studio",
         "ruleset": "visual-studio",
         "sln": "visual-studio",
+        "slnf": "visual-studio",
         "slnx": "visual-studio",
         "suo": "visual-studio",
         "vb": "visual-studio",
@@ -9553,6 +10287,8 @@
         "vue.config.mts": "vue-config",
         ".vuerc": "vue-config",
         "vue": "vue",
+        "wally.toml": "wally",
+        "wally.lock": "wally",
         "wat": "web-assembly",
         "wasm": "web-assembly",
         "webpack.js": "webpack",
@@ -9740,6 +10476,9 @@
         "windi": "windi",
         "workflows/yml": "workflow",
         "workflows/yaml": "workflow",
+        "wrangler.toml": "wrangler",
+        "wrangler.json": "wrangler",
+        "wrangler.jsonc": "wrangler",
         "wxt.config.js": "wxt",
         "wxt.config.ts": "wxt",
         "xaml": "xaml",
@@ -9845,6 +10584,9 @@
         "apple": {
           "path": "./icons/mocha/apple.svg"
         },
+        "arduino": {
+          "path": "./icons/mocha/arduino.svg"
+        },
         "asciidoc": {
           "path": "./icons/mocha/asciidoc.svg"
         },
@@ -9880,6 +10622,9 @@
         },
         "benchmark": {
           "path": "./icons/mocha/benchmark.svg"
+        },
+        "bicep": {
+          "path": "./icons/mocha/bicep.svg"
         },
         "binary": {
           "path": "./icons/mocha/binary.svg"
@@ -9968,6 +10713,9 @@
         "cpp": {
           "path": "./icons/mocha/cpp.svg"
         },
+        "crystal": {
+          "path": "./icons/mocha/crystal.svg"
+        },
         "csharp": {
           "path": "./icons/mocha/csharp.svg"
         },
@@ -9989,11 +10737,23 @@
         "cuda": {
           "path": "./icons/mocha/cuda.svg"
         },
+        "cue": {
+          "path": "./icons/mocha/cue.svg"
+        },
+        "cursor-ignore": {
+          "path": "./icons/mocha/cursor-ignore.svg"
+        },
+        "cursor": {
+          "path": "./icons/mocha/cursor.svg"
+        },
         "cypress": {
           "path": "./icons/mocha/cypress.svg"
         },
         "d": {
           "path": "./icons/mocha/d.svg"
+        },
+        "darklua": {
+          "path": "./icons/mocha/darklua.svg"
         },
         "dart-generated": {
           "path": "./icons/mocha/dart-generated.svg"
@@ -10033,6 +10793,9 @@
         },
         "docker": {
           "path": "./icons/mocha/docker.svg"
+        },
+        "docusaurus": {
+          "path": "./icons/mocha/docusaurus.svg"
         },
         "drawio": {
           "path": "./icons/mocha/drawio.svg"
@@ -10163,6 +10926,9 @@
         "gulp": {
           "path": "./icons/mocha/gulp.svg"
         },
+        "hacking": {
+          "path": "./icons/mocha/hacking.svg"
+        },
         "haml": {
           "path": "./icons/mocha/haml.svg"
         },
@@ -10171,6 +10937,9 @@
         },
         "hardhat": {
           "path": "./icons/mocha/hardhat.svg"
+        },
+        "hare": {
+          "path": "./icons/mocha/hare.svg"
         },
         "haskell": {
           "path": "./icons/mocha/haskell.svg"
@@ -10250,6 +11019,9 @@
         "juce": {
           "path": "./icons/mocha/juce.svg"
         },
+        "jule": {
+          "path": "./icons/mocha/jule.svg"
+        },
         "julia": {
           "path": "./icons/mocha/julia.svg"
         },
@@ -10301,14 +11073,23 @@
         "log": {
           "path": "./icons/mocha/log.svg"
         },
+        "lua-rocks": {
+          "path": "./icons/mocha/lua-rocks.svg"
+        },
         "lua": {
           "path": "./icons/mocha/lua.svg"
         },
         "luau": {
           "path": "./icons/mocha/luau.svg"
         },
+        "macos": {
+          "path": "./icons/mocha/macos.svg"
+        },
         "makefile": {
           "path": "./icons/mocha/makefile.svg"
+        },
+        "mantle": {
+          "path": "./icons/mocha/mantle.svg"
         },
         "markdown-mdx": {
           "path": "./icons/mocha/markdown-mdx.svg"
@@ -10340,6 +11121,9 @@
         "modernizr": {
           "path": "./icons/mocha/modernizr.svg"
         },
+        "moonrepo": {
+          "path": "./icons/mocha/moonrepo.svg"
+        },
         "ms-excel": {
           "path": "./icons/mocha/ms-excel.svg"
         },
@@ -10348,6 +11132,9 @@
         },
         "ms-word": {
           "path": "./icons/mocha/ms-word.svg"
+        },
+        "msbuild": {
+          "path": "./icons/mocha/msbuild.svg"
         },
         "nativescript": {
           "path": "./icons/mocha/nativescript.svg"
@@ -10403,8 +11190,20 @@
         "nuxt": {
           "path": "./icons/mocha/nuxt.svg"
         },
+        "nx-ignore": {
+          "path": "./icons/mocha/nx-ignore.svg"
+        },
+        "nx": {
+          "path": "./icons/mocha/nx.svg"
+        },
         "ocaml": {
           "path": "./icons/mocha/ocaml.svg"
+        },
+        "odin": {
+          "path": "./icons/mocha/odin.svg"
+        },
+        "opentofu": {
+          "path": "./icons/mocha/opentofu.svg"
         },
         "org": {
           "path": "./icons/mocha/org.svg"
@@ -10420,6 +11219,12 @@
         },
         "perl": {
           "path": "./icons/mocha/perl.svg"
+        },
+        "pesde-lock": {
+          "path": "./icons/mocha/pesde-lock.svg"
+        },
+        "pesde": {
+          "path": "./icons/mocha/pesde.svg"
         },
         "php": {
           "path": "./icons/mocha/php.svg"
@@ -10484,8 +11289,14 @@
         "proto": {
           "path": "./icons/mocha/proto.svg"
         },
+        "prototools": {
+          "path": "./icons/mocha/prototools.svg"
+        },
         "pug": {
           "path": "./icons/mocha/pug.svg"
+        },
+        "puppet": {
+          "path": "./icons/mocha/puppet.svg"
         },
         "puppeteer": {
           "path": "./icons/mocha/puppeteer.svg"
@@ -10508,6 +11319,9 @@
         "razor": {
           "path": "./icons/mocha/razor.svg"
         },
+        "rdata": {
+          "path": "./icons/mocha/rdata.svg"
+        },
         "readme": {
           "path": "./icons/mocha/readme.svg"
         },
@@ -10529,14 +11343,26 @@
         "rescript": {
           "path": "./icons/mocha/rescript.svg"
         },
+        "rmd": {
+          "path": "./icons/mocha/rmd.svg"
+        },
         "roblox": {
           "path": "./icons/mocha/roblox.svg"
         },
         "robots": {
           "path": "./icons/mocha/robots.svg"
         },
+        "rocket": {
+          "path": "./icons/mocha/rocket.svg"
+        },
+        "rokit": {
+          "path": "./icons/mocha/rokit.svg"
+        },
         "rollup": {
           "path": "./icons/mocha/rollup.svg"
+        },
+        "rproj": {
+          "path": "./icons/mocha/rproj.svg"
         },
         "ruby-gem-lock": {
           "path": "./icons/mocha/ruby-gem-lock.svg"
@@ -10565,6 +11391,9 @@
         "scala": {
           "path": "./icons/mocha/scala.svg"
         },
+        "scheme": {
+          "path": "./icons/mocha/scheme.svg"
+        },
         "search": {
           "path": "./icons/mocha/search.svg"
         },
@@ -10592,6 +11421,9 @@
         "sketch": {
           "path": "./icons/mocha/sketch.svg"
         },
+        "slidesk": {
+          "path": "./icons/mocha/slidesk.svg"
+        },
         "snowpack": {
           "path": "./icons/mocha/snowpack.svg"
         },
@@ -10603,6 +11435,9 @@
         },
         "spwn": {
           "path": "./icons/mocha/spwn.svg"
+        },
+        "squirrel": {
+          "path": "./icons/mocha/squirrel.svg"
         },
         "stackblitz": {
           "path": "./icons/mocha/stackblitz.svg"
@@ -10631,6 +11466,12 @@
         "stylelint": {
           "path": "./icons/mocha/stylelint.svg"
         },
+        "stylua-ignore": {
+          "path": "./icons/mocha/stylua-ignore.svg"
+        },
+        "stylua": {
+          "path": "./icons/mocha/stylua.svg"
+        },
         "sublime": {
           "path": "./icons/mocha/sublime.svg"
         },
@@ -10648,6 +11489,9 @@
         },
         "swift": {
           "path": "./icons/mocha/swift.svg"
+        },
+        "swiftformat": {
+          "path": "./icons/mocha/swiftformat.svg"
         },
         "tailwind": {
           "path": "./icons/mocha/tailwind.svg"
@@ -10715,8 +11559,14 @@
         "v": {
           "path": "./icons/mocha/v.svg"
         },
+        "vala": {
+          "path": "./icons/mocha/vala.svg"
+        },
         "vanilla-extract": {
           "path": "./icons/mocha/vanilla-extract.svg"
+        },
+        "vapi": {
+          "path": "./icons/mocha/vapi.svg"
         },
         "vento": {
           "path": "./icons/mocha/vento.svg"
@@ -10766,6 +11616,9 @@
         "vue": {
           "path": "./icons/mocha/vue.svg"
         },
+        "wally": {
+          "path": "./icons/mocha/wally.svg"
+        },
         "web-assembly": {
           "path": "./icons/mocha/web-assembly.svg"
         },
@@ -10777,6 +11630,9 @@
         },
         "workflow": {
           "path": "./icons/mocha/workflow.svg"
+        },
+        "wrangler": {
+          "path": "./icons/mocha/wrangler.svg"
         },
         "wxt": {
           "path": "./icons/mocha/wxt.svg"
