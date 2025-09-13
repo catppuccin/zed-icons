@@ -22,6 +22,16 @@
         "Dockerfile": "docker"
       },
       "file_suffixes": {
+        "fbx": "3d",
+        "glb": "3d",
+        "gltf": "3d",
+        "ma": "3d",
+        "mb": "3d",
+        "obj": "3d",
+        "prc": "3d",
+        "stl": "3d",
+        "u3d": "3d",
+        "usd": "3d",
         "aep": "adobe-ae",
         "ai": "adobe-ai",
         "indd": "adobe-id",
@@ -162,6 +172,7 @@
         "biome.jsonc": "biome",
         "bitbucket-pipelines.yaml": "bitbucket",
         "bitbucket-pipelines.yml": "bitbucket",
+        "blink": "blink",
         "blitz.config.js": "blitz",
         "blitz.config.ts": "blitz",
         ".blitz.config.compiled.js": "blitz",
@@ -524,6 +535,8 @@
         "sui": "font",
         "ntf": "font",
         "mrf": "font",
+        "foreman.toml": "foreman",
+        "aftman.toml": "foreman",
         "f": "fortran",
         "f77": "fortran",
         "f90": "fortran",
@@ -886,11 +899,22 @@
         "cl": "lisp",
         "fast": "lisp",
         "log": "log",
+        ".luacheckrc": "lua",
+        "client.lua": "lua-client",
         ".rock": "lua-rocks",
         ".rockspec": "lua-rocks",
-        ".luacheckrc": "lua",
+        "server.lua": "lua-server",
+        "spec.lua": "lua-test",
+        "test.lua": "lua-test",
         "lua": "lua",
-        ".luaurc": "luau",
+        "selene.toml": "luau-check",
+        "selene.yml": "luau-check",
+        "selene.yaml": "luau-check",
+        "client.luau": "luau-client",
+        ".luaurc": "luau-config",
+        "server.luau": "luau-server",
+        "spec.luau": "luau-test",
+        "test.luau": "luau-test",
         "luau": "luau",
         ".ds_store": "macos",
         "makefile": "makefile",
@@ -921,6 +945,7 @@
         ".modernizrrc.json": "modernizr",
         "moon.yml": "moonrepo",
         "moon.yaml": "moonrepo",
+        "moonwave.toml": "moonwave",
         "xlsx": "ms-excel",
         "xlsm": "ms-excel",
         "xls": "ms-excel",
@@ -1193,6 +1218,7 @@
         "rollup.config.prod.vendor.mjs": "rollup",
         "rollup.config.prod.vendor.ts": "rollup",
         "rproj": "rproj",
+        "rsml": "rsml",
         "gemfile.lock": "ruby-gem-lock",
         "gemfile": "ruby-gem",
         ".ruby-version": "ruby",
@@ -1782,6 +1808,9 @@
         "zst": "zip"
       },
       "file_icons": {
+        "3d": {
+          "path": "./icons/latte/3d.svg"
+        },
         "adobe-ae": {
           "path": "./icons/latte/adobe-ae.svg"
         },
@@ -1880,6 +1909,9 @@
         },
         "bitbucket": {
           "path": "./icons/latte/bitbucket.svg"
+        },
+        "blink": {
+          "path": "./icons/latte/blink.svg"
         },
         "blitz": {
           "path": "./icons/latte/blitz.svg"
@@ -2112,6 +2144,9 @@
         "font": {
           "path": "./icons/latte/font.svg"
         },
+        "foreman": {
+          "path": "./icons/latte/foreman.svg"
+        },
         "fortran": {
           "path": "./icons/latte/fortran.svg"
         },
@@ -2319,11 +2354,38 @@
         "log": {
           "path": "./icons/latte/log.svg"
         },
+        "lua-check": {
+          "path": "./icons/latte/lua-check.svg"
+        },
+        "lua-client": {
+          "path": "./icons/latte/lua-client.svg"
+        },
         "lua-rocks": {
           "path": "./icons/latte/lua-rocks.svg"
         },
+        "lua-server": {
+          "path": "./icons/latte/lua-server.svg"
+        },
+        "lua-test": {
+          "path": "./icons/latte/lua-test.svg"
+        },
         "lua": {
           "path": "./icons/latte/lua.svg"
+        },
+        "luau-check": {
+          "path": "./icons/latte/luau-check.svg"
+        },
+        "luau-client": {
+          "path": "./icons/latte/luau-client.svg"
+        },
+        "luau-config": {
+          "path": "./icons/latte/luau-config.svg"
+        },
+        "luau-server": {
+          "path": "./icons/latte/luau-server.svg"
+        },
+        "luau-test": {
+          "path": "./icons/latte/luau-test.svg"
         },
         "luau": {
           "path": "./icons/latte/luau.svg"
@@ -2369,6 +2431,9 @@
         },
         "moonrepo": {
           "path": "./icons/latte/moonrepo.svg"
+        },
+        "moonwave": {
+          "path": "./icons/latte/moonwave.svg"
         },
         "ms-excel": {
           "path": "./icons/latte/ms-excel.svg"
@@ -2609,6 +2674,9 @@
         },
         "rproj": {
           "path": "./icons/latte/rproj.svg"
+        },
+        "rsml": {
+          "path": "./icons/latte/rsml.svg"
         },
         "ruby-gem-lock": {
           "path": "./icons/latte/ruby-gem-lock.svg"
@@ -2940,6 +3008,16 @@
         "Dockerfile": "docker"
       },
       "file_suffixes": {
+        "fbx": "3d",
+        "glb": "3d",
+        "gltf": "3d",
+        "ma": "3d",
+        "mb": "3d",
+        "obj": "3d",
+        "prc": "3d",
+        "stl": "3d",
+        "u3d": "3d",
+        "usd": "3d",
         "aep": "adobe-ae",
         "ai": "adobe-ai",
         "indd": "adobe-id",
@@ -3080,6 +3158,7 @@
         "biome.jsonc": "biome",
         "bitbucket-pipelines.yaml": "bitbucket",
         "bitbucket-pipelines.yml": "bitbucket",
+        "blink": "blink",
         "blitz.config.js": "blitz",
         "blitz.config.ts": "blitz",
         ".blitz.config.compiled.js": "blitz",
@@ -3442,6 +3521,8 @@
         "sui": "font",
         "ntf": "font",
         "mrf": "font",
+        "foreman.toml": "foreman",
+        "aftman.toml": "foreman",
         "f": "fortran",
         "f77": "fortran",
         "f90": "fortran",
@@ -3804,11 +3885,22 @@
         "cl": "lisp",
         "fast": "lisp",
         "log": "log",
+        ".luacheckrc": "lua",
+        "client.lua": "lua-client",
         ".rock": "lua-rocks",
         ".rockspec": "lua-rocks",
-        ".luacheckrc": "lua",
+        "server.lua": "lua-server",
+        "spec.lua": "lua-test",
+        "test.lua": "lua-test",
         "lua": "lua",
-        ".luaurc": "luau",
+        "selene.toml": "luau-check",
+        "selene.yml": "luau-check",
+        "selene.yaml": "luau-check",
+        "client.luau": "luau-client",
+        ".luaurc": "luau-config",
+        "server.luau": "luau-server",
+        "spec.luau": "luau-test",
+        "test.luau": "luau-test",
         "luau": "luau",
         ".ds_store": "macos",
         "makefile": "makefile",
@@ -3839,6 +3931,7 @@
         ".modernizrrc.json": "modernizr",
         "moon.yml": "moonrepo",
         "moon.yaml": "moonrepo",
+        "moonwave.toml": "moonwave",
         "xlsx": "ms-excel",
         "xlsm": "ms-excel",
         "xls": "ms-excel",
@@ -4111,6 +4204,7 @@
         "rollup.config.prod.vendor.mjs": "rollup",
         "rollup.config.prod.vendor.ts": "rollup",
         "rproj": "rproj",
+        "rsml": "rsml",
         "gemfile.lock": "ruby-gem-lock",
         "gemfile": "ruby-gem",
         ".ruby-version": "ruby",
@@ -4700,6 +4794,9 @@
         "zst": "zip"
       },
       "file_icons": {
+        "3d": {
+          "path": "./icons/frappe/3d.svg"
+        },
         "adobe-ae": {
           "path": "./icons/frappe/adobe-ae.svg"
         },
@@ -4798,6 +4895,9 @@
         },
         "bitbucket": {
           "path": "./icons/frappe/bitbucket.svg"
+        },
+        "blink": {
+          "path": "./icons/frappe/blink.svg"
         },
         "blitz": {
           "path": "./icons/frappe/blitz.svg"
@@ -5030,6 +5130,9 @@
         "font": {
           "path": "./icons/frappe/font.svg"
         },
+        "foreman": {
+          "path": "./icons/frappe/foreman.svg"
+        },
         "fortran": {
           "path": "./icons/frappe/fortran.svg"
         },
@@ -5237,11 +5340,38 @@
         "log": {
           "path": "./icons/frappe/log.svg"
         },
+        "lua-check": {
+          "path": "./icons/frappe/lua-check.svg"
+        },
+        "lua-client": {
+          "path": "./icons/frappe/lua-client.svg"
+        },
         "lua-rocks": {
           "path": "./icons/frappe/lua-rocks.svg"
         },
+        "lua-server": {
+          "path": "./icons/frappe/lua-server.svg"
+        },
+        "lua-test": {
+          "path": "./icons/frappe/lua-test.svg"
+        },
         "lua": {
           "path": "./icons/frappe/lua.svg"
+        },
+        "luau-check": {
+          "path": "./icons/frappe/luau-check.svg"
+        },
+        "luau-client": {
+          "path": "./icons/frappe/luau-client.svg"
+        },
+        "luau-config": {
+          "path": "./icons/frappe/luau-config.svg"
+        },
+        "luau-server": {
+          "path": "./icons/frappe/luau-server.svg"
+        },
+        "luau-test": {
+          "path": "./icons/frappe/luau-test.svg"
         },
         "luau": {
           "path": "./icons/frappe/luau.svg"
@@ -5287,6 +5417,9 @@
         },
         "moonrepo": {
           "path": "./icons/frappe/moonrepo.svg"
+        },
+        "moonwave": {
+          "path": "./icons/frappe/moonwave.svg"
         },
         "ms-excel": {
           "path": "./icons/frappe/ms-excel.svg"
@@ -5527,6 +5660,9 @@
         },
         "rproj": {
           "path": "./icons/frappe/rproj.svg"
+        },
+        "rsml": {
+          "path": "./icons/frappe/rsml.svg"
         },
         "ruby-gem-lock": {
           "path": "./icons/frappe/ruby-gem-lock.svg"
@@ -5858,6 +5994,16 @@
         "Dockerfile": "docker"
       },
       "file_suffixes": {
+        "fbx": "3d",
+        "glb": "3d",
+        "gltf": "3d",
+        "ma": "3d",
+        "mb": "3d",
+        "obj": "3d",
+        "prc": "3d",
+        "stl": "3d",
+        "u3d": "3d",
+        "usd": "3d",
         "aep": "adobe-ae",
         "ai": "adobe-ai",
         "indd": "adobe-id",
@@ -5998,6 +6144,7 @@
         "biome.jsonc": "biome",
         "bitbucket-pipelines.yaml": "bitbucket",
         "bitbucket-pipelines.yml": "bitbucket",
+        "blink": "blink",
         "blitz.config.js": "blitz",
         "blitz.config.ts": "blitz",
         ".blitz.config.compiled.js": "blitz",
@@ -6360,6 +6507,8 @@
         "sui": "font",
         "ntf": "font",
         "mrf": "font",
+        "foreman.toml": "foreman",
+        "aftman.toml": "foreman",
         "f": "fortran",
         "f77": "fortran",
         "f90": "fortran",
@@ -6722,11 +6871,22 @@
         "cl": "lisp",
         "fast": "lisp",
         "log": "log",
+        ".luacheckrc": "lua",
+        "client.lua": "lua-client",
         ".rock": "lua-rocks",
         ".rockspec": "lua-rocks",
-        ".luacheckrc": "lua",
+        "server.lua": "lua-server",
+        "spec.lua": "lua-test",
+        "test.lua": "lua-test",
         "lua": "lua",
-        ".luaurc": "luau",
+        "selene.toml": "luau-check",
+        "selene.yml": "luau-check",
+        "selene.yaml": "luau-check",
+        "client.luau": "luau-client",
+        ".luaurc": "luau-config",
+        "server.luau": "luau-server",
+        "spec.luau": "luau-test",
+        "test.luau": "luau-test",
         "luau": "luau",
         ".ds_store": "macos",
         "makefile": "makefile",
@@ -6757,6 +6917,7 @@
         ".modernizrrc.json": "modernizr",
         "moon.yml": "moonrepo",
         "moon.yaml": "moonrepo",
+        "moonwave.toml": "moonwave",
         "xlsx": "ms-excel",
         "xlsm": "ms-excel",
         "xls": "ms-excel",
@@ -7029,6 +7190,7 @@
         "rollup.config.prod.vendor.mjs": "rollup",
         "rollup.config.prod.vendor.ts": "rollup",
         "rproj": "rproj",
+        "rsml": "rsml",
         "gemfile.lock": "ruby-gem-lock",
         "gemfile": "ruby-gem",
         ".ruby-version": "ruby",
@@ -7618,6 +7780,9 @@
         "zst": "zip"
       },
       "file_icons": {
+        "3d": {
+          "path": "./icons/macchiato/3d.svg"
+        },
         "adobe-ae": {
           "path": "./icons/macchiato/adobe-ae.svg"
         },
@@ -7716,6 +7881,9 @@
         },
         "bitbucket": {
           "path": "./icons/macchiato/bitbucket.svg"
+        },
+        "blink": {
+          "path": "./icons/macchiato/blink.svg"
         },
         "blitz": {
           "path": "./icons/macchiato/blitz.svg"
@@ -7948,6 +8116,9 @@
         "font": {
           "path": "./icons/macchiato/font.svg"
         },
+        "foreman": {
+          "path": "./icons/macchiato/foreman.svg"
+        },
         "fortran": {
           "path": "./icons/macchiato/fortran.svg"
         },
@@ -8155,11 +8326,38 @@
         "log": {
           "path": "./icons/macchiato/log.svg"
         },
+        "lua-check": {
+          "path": "./icons/macchiato/lua-check.svg"
+        },
+        "lua-client": {
+          "path": "./icons/macchiato/lua-client.svg"
+        },
         "lua-rocks": {
           "path": "./icons/macchiato/lua-rocks.svg"
         },
+        "lua-server": {
+          "path": "./icons/macchiato/lua-server.svg"
+        },
+        "lua-test": {
+          "path": "./icons/macchiato/lua-test.svg"
+        },
         "lua": {
           "path": "./icons/macchiato/lua.svg"
+        },
+        "luau-check": {
+          "path": "./icons/macchiato/luau-check.svg"
+        },
+        "luau-client": {
+          "path": "./icons/macchiato/luau-client.svg"
+        },
+        "luau-config": {
+          "path": "./icons/macchiato/luau-config.svg"
+        },
+        "luau-server": {
+          "path": "./icons/macchiato/luau-server.svg"
+        },
+        "luau-test": {
+          "path": "./icons/macchiato/luau-test.svg"
         },
         "luau": {
           "path": "./icons/macchiato/luau.svg"
@@ -8205,6 +8403,9 @@
         },
         "moonrepo": {
           "path": "./icons/macchiato/moonrepo.svg"
+        },
+        "moonwave": {
+          "path": "./icons/macchiato/moonwave.svg"
         },
         "ms-excel": {
           "path": "./icons/macchiato/ms-excel.svg"
@@ -8445,6 +8646,9 @@
         },
         "rproj": {
           "path": "./icons/macchiato/rproj.svg"
+        },
+        "rsml": {
+          "path": "./icons/macchiato/rsml.svg"
         },
         "ruby-gem-lock": {
           "path": "./icons/macchiato/ruby-gem-lock.svg"
@@ -8776,6 +8980,16 @@
         "Dockerfile": "docker"
       },
       "file_suffixes": {
+        "fbx": "3d",
+        "glb": "3d",
+        "gltf": "3d",
+        "ma": "3d",
+        "mb": "3d",
+        "obj": "3d",
+        "prc": "3d",
+        "stl": "3d",
+        "u3d": "3d",
+        "usd": "3d",
         "aep": "adobe-ae",
         "ai": "adobe-ai",
         "indd": "adobe-id",
@@ -8916,6 +9130,7 @@
         "biome.jsonc": "biome",
         "bitbucket-pipelines.yaml": "bitbucket",
         "bitbucket-pipelines.yml": "bitbucket",
+        "blink": "blink",
         "blitz.config.js": "blitz",
         "blitz.config.ts": "blitz",
         ".blitz.config.compiled.js": "blitz",
@@ -9278,6 +9493,8 @@
         "sui": "font",
         "ntf": "font",
         "mrf": "font",
+        "foreman.toml": "foreman",
+        "aftman.toml": "foreman",
         "f": "fortran",
         "f77": "fortran",
         "f90": "fortran",
@@ -9640,11 +9857,22 @@
         "cl": "lisp",
         "fast": "lisp",
         "log": "log",
+        ".luacheckrc": "lua",
+        "client.lua": "lua-client",
         ".rock": "lua-rocks",
         ".rockspec": "lua-rocks",
-        ".luacheckrc": "lua",
+        "server.lua": "lua-server",
+        "spec.lua": "lua-test",
+        "test.lua": "lua-test",
         "lua": "lua",
-        ".luaurc": "luau",
+        "selene.toml": "luau-check",
+        "selene.yml": "luau-check",
+        "selene.yaml": "luau-check",
+        "client.luau": "luau-client",
+        ".luaurc": "luau-config",
+        "server.luau": "luau-server",
+        "spec.luau": "luau-test",
+        "test.luau": "luau-test",
         "luau": "luau",
         ".ds_store": "macos",
         "makefile": "makefile",
@@ -9675,6 +9903,7 @@
         ".modernizrrc.json": "modernizr",
         "moon.yml": "moonrepo",
         "moon.yaml": "moonrepo",
+        "moonwave.toml": "moonwave",
         "xlsx": "ms-excel",
         "xlsm": "ms-excel",
         "xls": "ms-excel",
@@ -9947,6 +10176,7 @@
         "rollup.config.prod.vendor.mjs": "rollup",
         "rollup.config.prod.vendor.ts": "rollup",
         "rproj": "rproj",
+        "rsml": "rsml",
         "gemfile.lock": "ruby-gem-lock",
         "gemfile": "ruby-gem",
         ".ruby-version": "ruby",
@@ -10536,6 +10766,9 @@
         "zst": "zip"
       },
       "file_icons": {
+        "3d": {
+          "path": "./icons/mocha/3d.svg"
+        },
         "adobe-ae": {
           "path": "./icons/mocha/adobe-ae.svg"
         },
@@ -10634,6 +10867,9 @@
         },
         "bitbucket": {
           "path": "./icons/mocha/bitbucket.svg"
+        },
+        "blink": {
+          "path": "./icons/mocha/blink.svg"
         },
         "blitz": {
           "path": "./icons/mocha/blitz.svg"
@@ -10866,6 +11102,9 @@
         "font": {
           "path": "./icons/mocha/font.svg"
         },
+        "foreman": {
+          "path": "./icons/mocha/foreman.svg"
+        },
         "fortran": {
           "path": "./icons/mocha/fortran.svg"
         },
@@ -11073,11 +11312,38 @@
         "log": {
           "path": "./icons/mocha/log.svg"
         },
+        "lua-check": {
+          "path": "./icons/mocha/lua-check.svg"
+        },
+        "lua-client": {
+          "path": "./icons/mocha/lua-client.svg"
+        },
         "lua-rocks": {
           "path": "./icons/mocha/lua-rocks.svg"
         },
+        "lua-server": {
+          "path": "./icons/mocha/lua-server.svg"
+        },
+        "lua-test": {
+          "path": "./icons/mocha/lua-test.svg"
+        },
         "lua": {
           "path": "./icons/mocha/lua.svg"
+        },
+        "luau-check": {
+          "path": "./icons/mocha/luau-check.svg"
+        },
+        "luau-client": {
+          "path": "./icons/mocha/luau-client.svg"
+        },
+        "luau-config": {
+          "path": "./icons/mocha/luau-config.svg"
+        },
+        "luau-server": {
+          "path": "./icons/mocha/luau-server.svg"
+        },
+        "luau-test": {
+          "path": "./icons/mocha/luau-test.svg"
         },
         "luau": {
           "path": "./icons/mocha/luau.svg"
@@ -11123,6 +11389,9 @@
         },
         "moonrepo": {
           "path": "./icons/mocha/moonrepo.svg"
+        },
+        "moonwave": {
+          "path": "./icons/mocha/moonwave.svg"
         },
         "ms-excel": {
           "path": "./icons/mocha/ms-excel.svg"
@@ -11363,6 +11632,9 @@
         },
         "rproj": {
           "path": "./icons/mocha/rproj.svg"
+        },
+        "rsml": {
+          "path": "./icons/mocha/rsml.svg"
         },
         "ruby-gem-lock": {
           "path": "./icons/mocha/ruby-gem-lock.svg"
