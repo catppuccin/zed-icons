@@ -7,13 +7,12 @@ alias init := setup
 setup:
     curl -fsSL https://deno.land/install.sh | sh
     git submodule update --init --recursive
+
+[doc('build JSON theme')]
+build:
     mkdir -p icons
     cp -r src/vscode-icons/icons/{frappe,latte,macchiato,mocha} icons/
-
-# build catppuccin-icons.json Zed theme template
-[working-directory: 'src']
-build:
-    deno task run
+    cd src/ && deno task run
 
 alias publish := deploy
 [doc('git push tag to trigger PR request to zed-industries/extensions')]
