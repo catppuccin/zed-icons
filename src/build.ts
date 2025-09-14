@@ -27,6 +27,43 @@ const THEME_OVERRIDES = {
   },
 };
 
+// define method to define folder icons
+// example:
+// ".angular": {
+//     "collapsed": "./icons/folder_angular.svg",
+//     "expanded": "./icons/folder_angular_open.svg"
+//   }
+// }
+function createDirectoryIcons(flvr: string) {
+  let namedDirectoryIconEntries = {};
+  namedDirectoryIconEntries["named_directory_icons"] = {};
+
+  let defaultFolderIcons = {};
+  defaultFolderIcons["directory_icons"] = {
+    collapsed: `./icons/${flvr}/_folder.svg`,
+    expanded: `./icons/${flvr}/_folder_open.svg`,
+  };
+
+  for (const [vsCodeFolderIcons_key, vscodeFolderIcons_value] of Object.entries(
+    folderIcons,
+  )) {
+    vscodeFolderIcons_value.folderNames?.forEach((data) => {
+      namedDirectoryIconEntries["named_directory_icons"][data] = {
+        collapsed: `./icons/${flvr}/folder_${vsCodeFolderIcons_key}.svg`,
+        expanded: `./icons/${flvr}/folder_${vsCodeFolderIcons_key}_open.svg`,
+      };
+    });
+  }
+
+  // console.log(namedDirectoryIconEntries);
+  // console.log(defaultFolderIcons);
+
+  return {
+    ...defaultFolderIcons,
+    ...namedDirectoryIconEntries,
+  };
+}
+
 try {
   // stage 1: create `file_suffixes` for zed schema
   // example: `{ "aep": "adobe-ae" }`
@@ -62,44 +99,6 @@ try {
         suffixEntries["file_suffixes"][data] = vsCodeFileIcons_key;
       }
     });
-  }
-
-  // stage 3: compile folder icons
-  // example:
-  // ".angular": {
-  //     "collapsed": "./icons/folder_angular.svg",
-  //     "expanded": "./icons/folder_angular_open.svg"
-  //   }
-  // }
-  function createDirectoryIcons(flvr: string) {
-    let namedDirectoryIconEntries = {};
-    namedDirectoryIconEntries["named_directory_icons"] = {};
-
-    let defaultFolderIcons = {};
-    defaultFolderIcons["directory_icons"] = {
-      collapsed: `./icons/${flvr}/_folder.svg`,
-      expanded: `./icons/${flvr}/_folder_open.svg`,
-    };
-
-    for (const [
-      vsCodeFolderIcons_key,
-      vscodeFolderIcons_value,
-    ] of Object.entries(folderIcons)) {
-      vscodeFolderIcons_value.folderNames?.forEach((data) => {
-        namedDirectoryIconEntries["named_directory_icons"][data] = {
-          collapsed: `./icons/${flvr}/folder_${vsCodeFolderIcons_key}.svg`,
-          expanded: `./icons/${flvr}/folder_${vsCodeFolderIcons_key}_open.svg`,
-        };
-      });
-    }
-
-    // console.log(namedDirectoryIconEntries);
-    // console.log(defaultFolderIcons);
-
-    return {
-      ...defaultFolderIcons,
-      ...namedDirectoryIconEntries,
-    };
   }
 
   // stage 2: compile flavor specific properties
@@ -145,7 +144,7 @@ try {
 
   ZED_THEME.themes.push(...themes);
 
-  // stage 4: create final theme
+  // stage 3: create final theme
   const ZED_THEME_JSON = JSON.stringify(ZED_THEME, null, 2);
   const ZED_THEME_FILENAME = "../icon_themes/catppuccin-icons.json";
   // console.log(ZED_THEME_JSON);
@@ -153,5 +152,5 @@ try {
   console.log(`Data successfully saved to ${ZED_THEME_FILENAME}`);
 } catch (error) {
   console.error("Preview generation failed: ", error);
-  exit(1);
+  Deno.exit(1);
 }
