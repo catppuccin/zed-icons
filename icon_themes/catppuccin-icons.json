@@ -17,11 +17,18 @@
       "file_stems": {
         "LICENSE": "license",
         "README": "readme",
+        "README.md": "readme",
+        "README.txt": "readme",
         "Makefile": "makefile",
         "Caddyfile": "caddy",
-        "Dockerfile": "docker"
+        ".DS_Store": "macos"
       },
       "file_suffixes": {
+        "Rproj": "rproj",
+        "Rmd": "rmd",
+        "RData": "rdata",
+        "Rhistory": "r",
+        "Dockerfile": "docker",
         "fbx": "3d",
         "glb": "3d",
         "gltf": "3d",
@@ -3003,11 +3010,18 @@
       "file_stems": {
         "LICENSE": "license",
         "README": "readme",
+        "README.md": "readme",
+        "README.txt": "readme",
         "Makefile": "makefile",
         "Caddyfile": "caddy",
-        "Dockerfile": "docker"
+        ".DS_Store": "macos"
       },
       "file_suffixes": {
+        "Rproj": "rproj",
+        "Rmd": "rmd",
+        "RData": "rdata",
+        "Rhistory": "r",
+        "Dockerfile": "docker",
         "fbx": "3d",
         "glb": "3d",
         "gltf": "3d",
@@ -5989,11 +6003,18 @@
       "file_stems": {
         "LICENSE": "license",
         "README": "readme",
+        "README.md": "readme",
+        "README.txt": "readme",
         "Makefile": "makefile",
         "Caddyfile": "caddy",
-        "Dockerfile": "docker"
+        ".DS_Store": "macos"
       },
       "file_suffixes": {
+        "Rproj": "rproj",
+        "Rmd": "rmd",
+        "RData": "rdata",
+        "Rhistory": "r",
+        "Dockerfile": "docker",
         "fbx": "3d",
         "glb": "3d",
         "gltf": "3d",
@@ -8975,11 +8996,18 @@
       "file_stems": {
         "LICENSE": "license",
         "README": "readme",
+        "README.md": "readme",
+        "README.txt": "readme",
         "Makefile": "makefile",
         "Caddyfile": "caddy",
-        "Dockerfile": "docker"
+        ".DS_Store": "macos"
       },
       "file_suffixes": {
+        "Rproj": "rproj",
+        "Rmd": "rmd",
+        "RData": "rdata",
+        "Rhistory": "r",
+        "Dockerfile": "docker",
         "fbx": "3d",
         "glb": "3d",
         "gltf": "3d",

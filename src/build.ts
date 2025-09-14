@@ -18,16 +18,24 @@ const THEME_OVERRIDES = {
   file_stems: {
     LICENSE: "license",
     README: "readme",
+    "README.md": "readme",
+    "README.txt": "readme",
     Makefile: "makefile",
     Caddyfile: "caddy",
-    Dockerfile: "docker",
+    ".DS_Store": "macos",
   },
 };
 
 // stage 1: create `file_suffixes` for zed schema
 // example: `{ "aep": "adobe-ae" }`
 let suffixEntries = {};
-suffixEntries["file_suffixes"] = {};
+suffixEntries["file_suffixes"] = {
+  Rproj: "rproj",
+  Rmd: "rmd",
+  RData: "rdata",
+  Rhistory: "r",
+  Dockerfile: "docker",
+};
 for (const [vsCodeFileIcons_key, vscodeFileIcons_value] of Object.entries(
   fileIcons,
 )) {
@@ -110,7 +118,7 @@ ZED_THEME.themes.push(...themes);
 // stage 3: create final theme
 const ZED_THEME_JSON = JSON.stringify(ZED_THEME, null, 2);
 const ZED_THEME_FILENAME = "../icon_themes/catppuccin-icons.json";
-console.log(ZED_THEME_JSON);
+// console.log(ZED_THEME_JSON);
 
 try {
   await Deno.writeTextFile(ZED_THEME_FILENAME, ZED_THEME_JSON);
