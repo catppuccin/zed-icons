@@ -1707,7 +1707,8 @@
         "README.txt": "readme",
         "Makefile": "makefile",
         "Caddyfile": "caddy",
-        ".DS_Store": "macos"
+        ".DS_Store": "macos",
+        "CMakeLists.txt": "cmake"
       },
       "file_suffixes": {
         "Rproj": "rproj",
@@ -6386,7 +6387,8 @@
         "README.txt": "readme",
         "Makefile": "makefile",
         "Caddyfile": "caddy",
-        ".DS_Store": "macos"
+        ".DS_Store": "macos",
+        "CMakeLists.txt": "cmake"
       },
       "file_suffixes": {
         "Rproj": "rproj",
@@ -11065,7 +11067,8 @@
         "README.txt": "readme",
         "Makefile": "makefile",
         "Caddyfile": "caddy",
-        ".DS_Store": "macos"
+        ".DS_Store": "macos",
+        "CMakeLists.txt": "cmake"
       },
       "file_suffixes": {
         "Rproj": "rproj",
@@ -15744,7 +15747,8 @@
         "README.txt": "readme",
         "Makefile": "makefile",
         "Caddyfile": "caddy",
-        ".DS_Store": "macos"
+        ".DS_Store": "macos",
+        "CMakeLists.txt": "cmake"
       },
       "file_suffixes": {
         "Rproj": "rproj",
