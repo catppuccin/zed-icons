@@ -24,6 +24,7 @@ const THEME_OVERRIDES = {
     Makefile: "makefile",
     Caddyfile: "caddy",
     ".DS_Store": "macos",
+    "CMakeLists.txt": "cmake",
   },
 };
 
