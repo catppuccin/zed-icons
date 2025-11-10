@@ -1708,7 +1708,9 @@
         "Makefile": "makefile",
         "Caddyfile": "caddy",
         ".DS_Store": "macos",
-        "CMakeLists.txt": "cmake"
+        "CMakeLists.txt": "cmake",
+        "Cargo.lock": "cargo-lock",
+        "Cargo.toml": "cargo"
       },
       "file_suffixes": {
         "Rproj": "rproj",
@@ -1886,8 +1888,8 @@
         "caddyfile": "caddy",
         "capacitor.config.json": "capacitor",
         "capacitor.config.ts": "capacitor",
-        "Cargo.lock": "cargo-lock",
-        "Cargo.toml": "cargo",
+        "cargo.lock": "cargo-lock",
+        "cargo.toml": "cargo",
         "cer": "certificate",
         "cert": "certificate",
         "crt": "certificate",
@@ -6388,7 +6390,9 @@
         "Makefile": "makefile",
         "Caddyfile": "caddy",
         ".DS_Store": "macos",
-        "CMakeLists.txt": "cmake"
+        "CMakeLists.txt": "cmake",
+        "Cargo.lock": "cargo-lock",
+        "Cargo.toml": "cargo"
       },
       "file_suffixes": {
         "Rproj": "rproj",
@@ -11068,7 +11072,9 @@
         "Makefile": "makefile",
         "Caddyfile": "caddy",
         ".DS_Store": "macos",
-        "CMakeLists.txt": "cmake"
+        "CMakeLists.txt": "cmake",
+        "Cargo.lock": "cargo-lock",
+        "Cargo.toml": "cargo"
       },
       "file_suffixes": {
         "Rproj": "rproj",
@@ -15748,7 +15754,9 @@
         "Makefile": "makefile",
         "Caddyfile": "caddy",
         ".DS_Store": "macos",
-        "CMakeLists.txt": "cmake"
+        "CMakeLists.txt": "cmake",
+        "Cargo.lock": "cargo-lock",
+        "Cargo.toml": "cargo"
       },
       "file_suffixes": {
         "Rproj": "rproj",

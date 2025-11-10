@@ -16,6 +16,7 @@ const THEME_OVERRIDES = {
     collapsed: null,
     expanded: null,
   },
+  // apply case-sensitive file icon fixes here
   file_stems: {
     LICENSE: "license",
     README: "readme",
@@ -25,6 +26,8 @@ const THEME_OVERRIDES = {
     Caddyfile: "caddy",
     ".DS_Store": "macos",
     "CMakeLists.txt": "cmake",
+    "Cargo.lock": "cargo-lock",
+    "Cargo.toml": "cargo",
   },
 };
 
