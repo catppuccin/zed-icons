@@ -4009,6 +4009,9 @@
         "json": {
           "path": "./icons/latte/json.svg"
         },
+        "avsc": {
+          "path": "./icons/latte/json.svg"
+        },
         "juce": {
           "path": "./icons/latte/juce.svg"
         },
@@ -8708,6 +8711,9 @@
           "path": "./icons/frappe/json-schema.svg"
         },
         "json": {
+          "path": "./icons/frappe/json.svg"
+        },
+         "avsc": {
           "path": "./icons/frappe/json.svg"
         },
         "juce": {
@@ -13411,6 +13417,9 @@
         "json": {
           "path": "./icons/macchiato/json.svg"
         },
+         "avsc": {
+          "path": "./icons/macchiato/json.svg"
+        },
         "juce": {
           "path": "./icons/macchiato/juce.svg"
         },
@@ -18110,6 +18119,9 @@
           "path": "./icons/mocha/json-schema.svg"
         },
         "json": {
+          "path": "./icons/mocha/json.svg"
+        },
+        "avsc": {
           "path": "./icons/mocha/json.svg"
         },
         "juce": {
