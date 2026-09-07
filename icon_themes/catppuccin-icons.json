@@ -1718,6 +1718,11 @@
         "RData": "rdata",
         "Rhistory": "r",
         "Dockerfile": "docker",
+        "component.ts": "angular-component",
+        "directive.ts": "angular-directive",
+        "guard.ts": "angular-guard",
+        "pipe.ts": "angular-pipe",
+        "service.ts": "angular-service",
         "fbx": "3d",
         "glb": "3d",
         "gltf": "3d",
@@ -4009,9 +4014,6 @@
         "json": {
           "path": "./icons/latte/json.svg"
         },
-        "avsc": {
-          "path": "./icons/latte/json.svg"
-        },
         "juce": {
           "path": "./icons/latte/juce.svg"
         },
@@ -4698,6 +4700,24 @@
         },
         "zip": {
           "path": "./icons/latte/zip.svg"
+        },
+        "angular-component": {
+          "path": "./icons/latte/angular-component.svg"
+        },
+        "angular-directive": {
+          "path": "./icons/latte/angular-directive.svg"
+        },
+        "angular-guard": {
+          "path": "./icons/latte/angular-guard.svg"
+        },
+        "angular-pipe": {
+          "path": "./icons/latte/angular-pipe.svg"
+        },
+        "angular-service": {
+          "path": "./icons/latte/angular-service.svg"
+        },
+        "avsc": {
+          "path": "./icons/latte/json.svg"
         },
         "lock": {
           "path": "./icons/latte/lock.svg"
@@ -6422,6 +6442,11 @@
         "RData": "rdata",
         "Rhistory": "r",
         "Dockerfile": "docker",
+        "component.ts": "angular-component",
+        "directive.ts": "angular-directive",
+        "guard.ts": "angular-guard",
+        "pipe.ts": "angular-pipe",
+        "service.ts": "angular-service",
         "fbx": "3d",
         "glb": "3d",
         "gltf": "3d",
@@ -8713,9 +8738,6 @@
         "json": {
           "path": "./icons/frappe/json.svg"
         },
-         "avsc": {
-          "path": "./icons/frappe/json.svg"
-        },
         "juce": {
           "path": "./icons/frappe/juce.svg"
         },
@@ -9402,6 +9424,24 @@
         },
         "zip": {
           "path": "./icons/frappe/zip.svg"
+        },
+        "angular-component": {
+          "path": "./icons/frappe/angular-component.svg"
+        },
+        "angular-directive": {
+          "path": "./icons/frappe/angular-directive.svg"
+        },
+        "angular-guard": {
+          "path": "./icons/frappe/angular-guard.svg"
+        },
+        "angular-pipe": {
+          "path": "./icons/frappe/angular-pipe.svg"
+        },
+        "angular-service": {
+          "path": "./icons/frappe/angular-service.svg"
+        },
+        "avsc": {
+          "path": "./icons/frappe/json.svg"
         },
         "lock": {
           "path": "./icons/frappe/lock.svg"
@@ -11126,6 +11166,11 @@
         "RData": "rdata",
         "Rhistory": "r",
         "Dockerfile": "docker",
+        "component.ts": "angular-component",
+        "directive.ts": "angular-directive",
+        "guard.ts": "angular-guard",
+        "pipe.ts": "angular-pipe",
+        "service.ts": "angular-service",
         "fbx": "3d",
         "glb": "3d",
         "gltf": "3d",
@@ -13417,9 +13462,6 @@
         "json": {
           "path": "./icons/macchiato/json.svg"
         },
-         "avsc": {
-          "path": "./icons/macchiato/json.svg"
-        },
         "juce": {
           "path": "./icons/macchiato/juce.svg"
         },
@@ -14106,6 +14148,24 @@
         },
         "zip": {
           "path": "./icons/macchiato/zip.svg"
+        },
+        "angular-component": {
+          "path": "./icons/macchiato/angular-component.svg"
+        },
+        "angular-directive": {
+          "path": "./icons/macchiato/angular-directive.svg"
+        },
+        "angular-guard": {
+          "path": "./icons/macchiato/angular-guard.svg"
+        },
+        "angular-pipe": {
+          "path": "./icons/macchiato/angular-pipe.svg"
+        },
+        "angular-service": {
+          "path": "./icons/macchiato/angular-service.svg"
+        },
+        "avsc": {
+          "path": "./icons/macchiato/json.svg"
         },
         "lock": {
           "path": "./icons/macchiato/lock.svg"
@@ -15830,6 +15890,11 @@
         "RData": "rdata",
         "Rhistory": "r",
         "Dockerfile": "docker",
+        "component.ts": "angular-component",
+        "directive.ts": "angular-directive",
+        "guard.ts": "angular-guard",
+        "pipe.ts": "angular-pipe",
+        "service.ts": "angular-service",
         "fbx": "3d",
         "glb": "3d",
         "gltf": "3d",
@@ -18121,9 +18186,6 @@
         "json": {
           "path": "./icons/mocha/json.svg"
         },
-        "avsc": {
-          "path": "./icons/mocha/json.svg"
-        },
         "juce": {
           "path": "./icons/mocha/juce.svg"
         },
@@ -18810,6 +18872,24 @@
         },
         "zip": {
           "path": "./icons/mocha/zip.svg"
+        },
+        "angular-component": {
+          "path": "./icons/mocha/angular-component.svg"
+        },
+        "angular-directive": {
+          "path": "./icons/mocha/angular-directive.svg"
+        },
+        "angular-guard": {
+          "path": "./icons/mocha/angular-guard.svg"
+        },
+        "angular-pipe": {
+          "path": "./icons/mocha/angular-pipe.svg"
+        },
+        "angular-service": {
+          "path": "./icons/mocha/angular-service.svg"
+        },
+        "avsc": {
+          "path": "./icons/mocha/json.svg"
         },
         "lock": {
           "path": "./icons/mocha/lock.svg"

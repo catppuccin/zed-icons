@@ -45,6 +45,10 @@
 3. Search for the _Catppuccin Icons_ extension and install.
 4. Enter _icon theme selector: toggle_ in the command palette and select the Catppuccin Icons theme in your preferred flavor in the dropdown.
 
+Angular files ending in `.component.ts`, `.directive.ts`, `.guard.ts`, `.pipe.ts`,
+or `.service.ts` use their corresponding Angular icons automatically. Other `.ts`
+files keep the TypeScript icon.
+
 ## Development
 
 <details>

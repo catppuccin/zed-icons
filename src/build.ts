@@ -78,6 +78,11 @@ try {
     RData: "rdata",
     Rhistory: "r",
     Dockerfile: "docker",
+    "component.ts": "angular-component",
+    "directive.ts": "angular-directive",
+    "guard.ts": "angular-guard",
+    "pipe.ts": "angular-pipe",
+    "service.ts": "angular-service",
   };
   for (const [vsCodeFileIcons_key, vscodeFileIcons_value] of Object.entries(
     fileIcons,
@@ -107,6 +112,12 @@ try {
 
   // stage 2: compile flavor specific properties
   const FILE_ICON_OVERRIDES = {
+    "angular-component": "angular-component",
+    "angular-directive": "angular-directive",
+    "angular-guard": "angular-guard",
+    "angular-pipe": "angular-pipe",
+    "angular-service": "angular-service",
+    avsc: "json",
     lock: "lock",
     settings: "config",
   };
