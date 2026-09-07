@@ -49,6 +49,10 @@ Angular files ending in `.component.ts`, `.directive.ts`, `.guard.ts`, `.pipe.ts
 or `.service.ts` use their corresponding Angular icons automatically. Other `.ts`
 files keep the TypeScript icon.
 
+For monochrome icons, select a **Catppuccin … Monochrome** variant in the icon
+theme selector. Each variant uses its flavor's text color for file and folder
+icons, helping colored diagnostic indicators stand out.
+
 ## Development
 
 <details>
@@ -67,6 +71,9 @@ Once installed, run the following to initialize the project & generate all JSON 
 just setup
 just build
 ```
+
+Run `cd src && deno test --allow-read build_test.ts` after building to check the
+monochrome themes and their generated assets.
 
 </details>
 
