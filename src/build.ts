@@ -121,14 +121,32 @@ try {
     lock: "lock",
     settings: "config",
   };
-  const themes = flavorEntries.map(([id, flavor]) => {
+  const variants = [false, true].flatMap((monochrome) =>
+    flavorEntries.map(([id, flavor]) => ({
+      id: monochrome ? `${id}-monochrome` : id,
+      flavor,
+      monochrome,
+    }))
+  );
+  const themes = await Promise.all(variants.map(async ({ id, flavor, monochrome }) => {
+    if (monochrome) {
+      await Deno.mkdir(`../icons/${id}`, { recursive: true });
+      for await (const file of Deno.readDir("./vscode-icons/icons/css-variables")) {
+        if (!file.isFile || !file.name.endsWith(".svg")) continue;
+        const svg = await Deno.readTextFile(`./vscode-icons/icons/css-variables/${file.name}`);
+        await Deno.writeTextFile(
+          `../icons/${id}/${file.name}`,
+          svg.replaceAll(/var\(--vscode-ctp-\w+\)/g, flavor.colors.text.hex),
+        );
+      }
+    }
     const localFileIconEntries: {
       file_icons: { [key: string]: { path: string } };
     } = { file_icons: {} };
 
     // Theme-specific properties
     const currentFlavorProperties = {
-      name: `Catppuccin ${flavor.name}`,
+      name: `Catppuccin ${flavor.name}${monochrome ? " Monochrome" : ""}`,
       appearance: flavor.dark ? "dark" : "light",
     };
 
@@ -155,7 +173,7 @@ try {
       ...suffixEntries,
       ...localFileIconEntries,
     };
-  });
+  }));
 
   ZED_THEME.themes.push(...themes);
 
